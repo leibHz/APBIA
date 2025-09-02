@@ -1,0 +1,2477 @@
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+VI BRAGANTEC
+FEIRA DE CIÊNCIAS E TECNOLOGIA DO INSTITUTO
+FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
+DE SÃO PAULO – CAMPUS BRAGANÇA PAULISTA
+De 22 a 24 de setembro de 2016 – IFSP Bragança Paulista
+Organizadores:
+Talita Cypriano
+Vitor Garcia
+
+Bragança Paulista
+Setembro de 2016
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Dra. Guinea Brasil Camargo Cardoso
+(UNICAMP)
+Profa Karina Magno Brazorotto de Sá (IFSP)
+Luiz Fernando Tibaldi Kurahassi (IFSP)
+Maria de Lourdes da Silva (FESB)
+Me. Daniel Fernandes da Silva (UFLA)
+Me. Micael Eiji Nagai (UNICAMP)
+Murilo José de Carvalho (IFSP)
+Prof. Dr. Carlos Eduardo Beluzo (IFSP)
+Prof. Dr. Fernando Rodrigues (IFSP)
+Prof. Dr. Geraldo Greci Filho (IFSP)
+Prof. Dr. Israel de Sá (UFSCar)
+Prof. Dr. João Roberto Moro (IFSP)
+Prof. Dr. Luciano Bernardes de Paula (IFSP)
+Prof. Dr. Marcos Tarcisio Florindo (IFSP)
+Prof. Dr. Maurício de Carvalho Silva (FEI)
+Prof. Me. José Galhardo Leite de Moraes
+(IFSP)
+Prof. Me. Alexandre Tomazati Oliveira
+(IFSP)
+Prof. Me. Cristian da Rocha Duarte (IFSP)
+Prof. Me. Felipe Marques Pires (IFSP)
+Prof. Me. Glauco Aparecido de Campos
+(IFSP)
+Prof. Me. José Erick (IFSP)
+Prof. Me. Luiz Gustavo Diniz de Oliveira
+Veras (IFSP)
+Prof. Me. Marcos Alexandre Fernandes
+(IFSP)
+Prof. Me. Sérgio Ricardo Pacheco (IFSP)
+Prof. Me. Vitor Garcia (IFSP)
+Prof. Me. Tulio Cesar Rodrigues (IFSP)
+Profa. Dra. Ana Cristina Gobbo Cesar (IFSP)
+Profa. Dra. Bianca Maria Pedrosa (IFSP)
+Profa. Dra. Maria Isabel d' Andrade de Sousa
+Moniz (IFSP)
+Profa. Dra. Tatyana Murer Cavalcante (IFSP)
+Profa. Me Eliane Andreoli Gorgônio dos
+Santos (IFSP)
+Profa. Me. Cíntia Magno Brazorotto (IFSP)
+Prof. Me. André Luis Maciel Leme (IFSP)
+Sandra Cristina Martins de Oliveira (IFSP)
+Vanderlei Benedito da Silva Filho (IFSP)
+Prof. Me. Rosalvo Soares Cavalcanti Filho
+(IFSP)
+Prof. Dr. Adilson de Souza Cândido (IFSP)
+
+Organização e realização
+Diretor Geral do Campus
+Prof. Me. Maurício Costa Carreira
+Diretor Adjunto Educacional
+Prof. Dr. João Roberto Moro
+Diretor Adjunto Administrativo
+Deocrésio Cléber dos Santos
+Coordenadoria de Apoio ao Ensino
+Luciana Franco Gayego
+Coordenadoria de Registros Acadêmicos
+Camila Fátima dos Santos
+Coordenadoria de Extensão
+Ânteni de Sousa Belchior
+Coordenadoria de Pesquisa
+Prof. Dr. Luciano Bernardes de Paula
+Comunicação visual
+Karin Kagi
+Comissão Organizadora
+Prof. Dr. Alexandre Fonseca Jorge
+Prof. Me. Francisco Otávio Cintra Ferrarini
+Prof. Dr. João Roberto Moro (coordenador)
+Profa. Me. Karina Magno Brazorotto
+Me. Karin Kagi
+Prof. Me. Marcos Alexandre Fernandes
+Prof. Marcos Antonino Callegari
+Prof. Dr. Marcos Tarcisio Florindo
+Prof. Me. Rosalvo Soares Cavalcanti Filho
+Profa. Me. Talita de Paula Cypriano de Souza
+Prof. Me. Tulio César Rodrigues
+Profa. Me. Valentina Piragibe
+Prof. Me. Vitor Garcia
+Comitê Técnico – Cientifico
+Anderson dos Santos Siqueira (IFSP)
+Camila Aparecida Oliveira (Redenilf)
+Cleber Akira Nakandakare (CPqD)
+Dr. Aldo Fornazieri (FESPSP)
+Prof. Me. Maurício Costa Carreira (IFSP)
+Prof. Dr. Andre Luiz Zangiacomo (UFLA)
+Prof. Dr. Jocenilson Ribeiro dos Santos
+(UNILA)
+
+2
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+1. Apresentação
+Bem-vindos à Sexta Feira de Ciências e Tecnologia do Instituto Federal de
+Educação Ciência e Tecnologia de São Paulo no Campus de Bragança Paulista, a
+VI BRAGANTEC, uma feira afiliada a FEBRACE – Feira Braseileira de Ciências e
+Engenharia.
+
+Nesta edição, a feira está sendo organizada em parceria com as escolas estaduais
+de tempo integral E. E. Profª Maria Moraes Salles e E. E. Profº Luiz Roberto
+Pinheiro Alegretti. Contamos com o apoio financeiro do Conselho Nacional de
+Desenvolvimento Científico e Tecnológico – Edital MCT/CNPq/MEC/SEB/CAPES nº
+44/2014 – Feiras de Ciências e Mostras Científicas – Abrangência Municipal, projeto nº
+472015/2014-1. Contamos também com o apoio da Caixa Econômica Federal para a
+impressão dos cadernos de resumos, além das empresas premiadoras.
+
+A BRAGANTEC este ano cresceu! Na edição anterior, a feira selecionou 43
+trabalhos para a apresentação, recebendo 88 alunos. Nesta edição, foram inscritos 85
+projetos e após um difícil trabalho de avaliação, selecionamos 60 trabalhos para
+apresentação. Teremos nos 3 dias de apresentação mais de 120 alunos de 14 escolas
+diferentes expondo trabalhos nas áreas de (i) Ciências Exatas e Engenharias, (ii)
+Ciências Biológicas, Humanas e Linguagens e (iii) Informática. Esperamos também a
+visita de cerca de 1000 alunos da rede estadual e municipal de ensino, pais e membros
+da comunidade local. Neste ano, o IFSP está sendo representado na feira com trabalhos
+dos campi Salto, São Roque, Hortolândia e São Paulo.
+
+2. Objetivos
+Incentivar a criatividade e a inovação dos estudantes, buscando despertar
+vocações científicas e/ou tecnológicas e identificar jovens talentosos que possam ser
+estimulados a seguirem carreiras científico-tecnológicas.
+Objetivos Específicos:
+I – Disseminar as atividades científicas dos estudantes a partir da troca de
+experiências e discussão de resultados.
+
+3
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+II – Propiciar aos participantes a construção do conhecimento a partir da
+experimentação, despertando vocações, revelando capacidades e contribuindo para a
+autonomia intelectual do estudante.
+III – Incentivar a atividade científica e a educação científica por meio do
+desenvolvimento de capacidades, baseadas no pensar, julgar e agir cientificamente.
+IV – Congregar a comunidade estudantil das diferentes instituições de ensino
+da região no sentido de promover integração e troca de experiências.
+V – Incentivar o interesse pela investigação científica, favorecendo o
+descobrimento de novas tecnologias que possam auxiliar a comunidade e,
+consequentemente, incentivar também o desenvolvimento regional.
+
+3. Avaliação dos trabalhos
+O comitê de avaliação é composto por convidados dos organizadores da feira.
+Nesta edição, os convidados são professores do Instituto Federal de São Paulo,
+professores da rede pública estadual e municipal de escolas de Bragança Paulista,
+profissionais que trabalham em empresas da região, estudantes de mestrado e
+doutorado de diferentes instituições de ensino e membros da comunidade local.
+As normas para o julgamento dos trabalhos expostos na BRAGANTEC serão
+baseadas nos critérios a seguir, com uma pontuação de 0 a 5 para cada critério:
+I.
+
+Criatividade e Inovação
+
+II.
+
+Método científico ou de Engenharia
+
+III.
+
+Profundidade
+
+IV.
+
+Habilidades
+
+V.
+
+Apresentação Oral
+
+4. Premiação
+Os prêmios da VI BRAGANTEC estão divididos nas seguintes categorias:
+Prêmios da Organização VI BRAGANTEC
+1°, 2° e 3° Lugar em Ciências Exatas e Engenharia
+1°, 2° e 3° Lugar em Linguagem, Ciências Biológicas e Humanas
+
+4
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+1°, 2° e 3° Lugar em Informática
+Os contemplados receberão medalha e certificado de participação.
+1° e 2° Lugar Geral
+Os contemplados terão garantida a participação na FEBRACE.
+Prêmio especial
+Prêmio destinado ao trabalho de maior destaque, escolhido pela Comissão
+Organizadora.
+Prêmio Apoiadores
+Os seguintes apoiadores irão premiar trabalhos escolhidos por seus
+representantes:
+Caixa Econômica Federal
+CIEE
+Banco Santander
+EFGH Tecnologia Direcionada
+TE Connectivity
+
+5. Atividades Paralelas
+Como nos anos anteriores, ocorrem de maneira paralela a feira de ciências,
+diversas atividades de caráter técnico e cultural, como palestras, minicursos, exposições,
+música, teatro, artes plásticas, campeonatos. Este ano contamos com as seguintes
+atividades:
+Palestras
+CIEE Centro Integração Escola Empresa
+Palestrante: Talita Farias
+O Centro de Integração Empresa-Escola CIEE é uma associação civil, de direito
+privado, sem fins lucrativos que, dentre vários programas, possibilita aos jovens
+estudantes brasileiros, uma formação integral, ingressando-os ao mercado de trabalho,
+através de treinamentos, programas de estágio e aprendizado.
+
+5
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Teste de Intrusão em Aplicações Web
+Palestrante: Lucas Bortolado
+Com o objetivo de melhorar a segurança de aplicações web, o teste de intrusão,
+ou penetration testing, permite conhecer os passos de um atacante real (hacker, cracker,
+etc), descobrir se o mesmo poderia obter sucesso em seus ataques, e quais informações
+poderiam ser utilizadas por ele para obter vantagens ou acessos indevidos.
+
+UX - User Experience
+Palestrante: Rodrigo Ferrari
+Experiência do usuário, do inglês user experience (UX), é um termo para o
+nível de satisfação geral dos usuários enquanto usam o seu produto, serviço ou sistema.
+Uma boa experiência deixa o usuário feliz e isso o faz tornar a utilizá-lo mais vezes.
+Projetar User Experience é focar o projeto no usuário, e saber conciliar sua satisfação
+com os objetivos do mesmo.
+
+Minicursos:
+Geogebra para Dummies
+Ministrante: Prof José Galhardo – IFSP Bragança Paulista
+GeoGebra (aglutinação das palavras Geometria e Álgebra) é um aplicativo de
+matemática dinâmica que combina conceitos de geometria e álgebra em uma única
+interface. O curso se propões a apresentar as noções básica do programa e como utilizálo para os estudos de matemática.
+
+Exposições:
+Jogos Matemáticos
+Expositores: Estudantes de licenciatura do curso de matemática do IFSP Bragança
+Paulista
+Trabalho desenvolvido pelos estudantes do curso de Licenciatura em
+Matemática do IFSP Bragança Paulista. Nesta exposição são apresentados diferentes
+jogos didáticos para o ensino e motivação do estudo da matemática.
+
+Pinturas do Artista
+Expositor: Moisés de Souza Santos
+Moisés de Souza Santos nasceu no dia 27/05/1961 na cidade de Caxias, RJ, onde passou
+a infância e juventude convivendo com lindas paisagens. Em 1985 muda-se para São
+Paulo permanecendo nesta cidade até 2000, quando vem para Bragança Paulista e aqui
+6
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+reside desde então. Artista autodidata, Moisés pinta desde os 15 anos construindo seus
+pincéis com jornal e também usando os próprios dedos. Suas telas são confeccionadas
+por ele a partir de sobras de madeira, papelão e outros materiais nos quais vê a
+possibilidade de transformação. Assim também, as molduras são criadas e
+confeccionadas por ele reciclando madeira, sobras fios elétricos entre outros.
+Funcionário do IFSP na área de manutenção, cria suas pinturas e telas nas horas de
+folga, intervalos de almoço e todo tempo livre de que dispõe. Sempre viajou e, como
+admirador da natureza e grande observador, foi registrando na memória cenas e lugares
+que, ao passar para a tela, tenta transmitir sensações e cores dos lugares que lhe são
+significativos. Ama o que faz e diz sentir-se como em um filme, no qual as imagens
+desfilam e trazem lembranças e sentimentos que vai imaginando e levando para a tela.
+Afirma que criar é viajar no tempo. Moisés sonha expor suas telas para que o público
+conheça seu trabalho e também comercializá-las.
+
+Física do Fusca
+Expositor: Prof. Frederico Zenorini
+O Física no Fusca é um projeto desenvolvido já há 5 anos pelo professor de
+física de Bragança Paulista Frederico Zenorini. A partir de um Fusca como material
+didático, conceitos de física são apresetados aos estudantes, estimulando o ensino e a
+aprendizagem de Física.
+
+Mostra de Literatura - Geração de 30: A Literatura Revela a Realidade Brasileira
+Estudantes do 3º Ano Ensino Médio Integrado em Mecânica e Eletroeletrônica
+Orientadora: Profa. Maria Isabel d' Andrade de Sousa Moniz
+Na década de 1930, a literatura brasileira voltou-se para a reflexão sobre “o que
+significa estar no mundo?”, abordando questões mais complexas como a dura realidade
+do Nordeste brasileiro, castigado pela seca, ou as crises e guerras que agitavam o
+mundo, como a quebra da bolsa de valores de 1929 e a Primeira Guerra Mundial. Seria
+possível à literatura ficar indiferente a esse cenário? Ou ainda, apenas retratá-lo? A
+opção dos escritores brasileiros foi por uma reflexão crítica sobre essa realidade, a
+denúncia e a produção de obras com forte dimensão social.
+Durante o segundo e o terceiro bimestre, o 3º ano do Ensino Médio Integrado em
+Mecânica e Eletroeletrônica estudou autores, obras e o contexto social, político e
+econômico que influenciou a produção literária desta geração. Nesta Mostra, os alunos
+respondem ao desafio de apresentar alguns dos aspectos que foram pesquisados e
+estudados, por meio de textos escritos e outras linguagens.
+
+7
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+Apresentações Culturais:
+Orquestra Lyra Bragantina
+Projeto Lyra Bragantina
+Apresentação da Orquestra Lyra Bragantina. A ABRAA - Associação
+Bragantina Amigos das Artes, vem desenvolvendo há 2 anos , um projeto no qual o
+ensino da música tem papel importante na vida de crianças e adolescentes que moram
+na Zona Norte da cidade. Este Projeto, chamado Lyra Bragança foi idealizado por dois
+empresários e musicos profissionais e atende aproximadamente 50 crianças e
+adolescentes entre 7 e 19 anos.
+
+Orquestra Escola ONG Viva Vila
+ONG Viva Vila
+A ONG Viva a Vila, fundada 2001 tem como princípio de ação social a
+valorização da pessoa humana, e através da cultura decidimos levantar nossa bandeira
+para permitir a acessibilidade à arte, principalmente a crianças, adolescentes e jovens,
+aceitando esta forma de atividade ser uma ferramenta eficaz na construção da cidadania.
+A Arte do IFSP Bragança Paulista
+Estudantes do IFSP Bragança Paulista
+Apresentações desenvolvidas durante as aulas de educação artística ministradas
+pela professora Maria José.de Oliveira Nascimento. As apresentações englobam
+diferentes expressões artísticas escolhidas pelos estudantes como o teatro, música e
+video.
+
+Tango
+Estudantes do curso de extensão de dança do IFSP Bragança Paulista
+Apresentação de dança desenvolvida durante o curso de extensão ministrado
+pelo professor de física Rubens Pantano Filho e os participantes do curso de Tango no
+ano de 2016.
+
+Campeonato:
+Campeonato de Xadrez
+Organizador: Prof Glauco Aparecido de Campos
+Nesta edição da Bragantec, teremos um campeonato de Xadrez acontecendo
+durante a feira.
+
+8
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+IV BRAGANTEQUINHA:
+A Bragantequinha é uma idealização do Diretor Geral Professor Mauricio Costa
+Carreira. A Bragantequinha é uma exposição de trabalhos feitos pelos alunos dos anos
+fundamentais organizada pela Bragantec em parceria com as escolas da região.
+
+IMPORTÂNCIA DOS JOGOS NA ESCOLA E CONFECÇÃO DE
+BRINQUEDO COM MATERIAIS RECICLADOS
+Alunos dos segundos anos iniciais da Escola Municipal Profª Jandyra
+Colombi Costa Valente
+Orientadoras: Cecilia Camargo Araújo Martins, Claudia Regina de Oliveira Barbosa
+e Odila Piniano Pinheiro
+Escola Municipal Professora Jandyra Colombi Costa Valente
+Rua Projetada, 101, Jardim São Lourenço, Bragança Paulista, SP
+RESUMO: Com a utilização de um jogo, nunca se está perdendo tempo. Com eles, os
+alunos aprendem a aprender, a estudar, a investigar, a tomar decisões, a analisar as
+condições, etc. É importante conscientizar que o jogo não é apenas um entretenimento,
+pois também envolve responsabilidade, respeito pelos demais jogadores e pelo grupo
+em geral, uma vez que não se trata de passar algum tempo brincando, mas de aprender,
+de forma divertida, o máximo possível.
+
+6. Programação das Atividades
+
+Horário
+
+22/09 - QUINTA-FEIRA
+
+9h - 10h
+
+CREDENCIAMENTO E
+MONTAGEM DOS
+TRABALHOS
+
+10 - 11h
+
+23/09 - SEXTA-FEIRA
+
+24/09 - SÁBADO
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+11h - 12h
+
+CERIMÔNIA ABERTURA Apresentação Cultural: Tango
+
+12h - 13h
+
+ALMOÇO LIVRE
+
+ALMOÇO LIVRE
+
+DESMONTAGEM DOS
+TRABALHOS/ALMOÇO LIVRE
+
+13h - 14h
+
+PALESTRA
+
+PALESTRA
+
+PALESTRA
+Apresentação Cultural - Lyra
+Bragantina
+
+14h - 15h
+15h - 16h
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+Apresentação Cultural dos
+Estudantes do IFSP
+
+16h30 - Apresentação
+Cultural dos Estudantes do
+IFSP
+
+Apresentação Cultural - Orquestra
+Escola ONG Viva Vila
+
+16h - 17h
+
+17h - 18h
+
+9
+
+ENCERRAMENTO E
+PREMIAÇÃO
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CIÊNCIAS BIOLÓGICAS, HUMANAS E LINGUAGENS
+"ENTRE O PASSADO E O FUTURO: HÁ MUDANÇA LINGUÍSTICA?" ............................ 14
+(DES)CONCEITUANDO A NOÇÃO DE BELEZA: ANÁLISE DO ETHOS DISCURSIVO
+FEMININO EM CAMPANHA DOVE ...................................................................................... 15
+(DES)CONSTRUÇÃO DILMA IMAGEM: ANÁLISE DISCURSIVA DAS CAPAS DE VEJA
+2015 ............................................................................................................................................. 16
+“PELEUMONIA” E “RAÔXIS”,ONDE MORA O PRECONCEITO? ..................................... 17
+A VIOLÊNCIA CONTRA A MULHER NO BRASIL: A VISÃO DOS ESTUDANTES DO
+IFSP, CÂMPUS SÃO ROQUE ................................................................................................... 18
+AVALIAÇÃO DA CITOTOXICIDADE DE INFUSÕES DE HORTELÃ FRESCA E SECA 19
+AVALIAÇÃO DO IMPACTO DA SAZONALIDADE NA CITOTOXICIDADE DO RIO
+JAGUARI E RIBEIRÃO LAVAPÉS, EM BRAGANÇA PAULISTA (SP) .............................. 20
+CITOTOXICIDADE DOS CHÁS VERDE E PRETO NO CRESCIMENTO RADICULAR DE
+ALLIUM CEPA .......................................................................................................................... 21
+COMO OS ALUNOS DO IFSP SE MANTÊM INFORMADOS SOBRE OS FATOS QUE
+OCORREM NO BRASIL E NO MUNDO? ............................................................................... 22
+ENTRE TUCANOS E ESTRELAS: ANÁLISE DISCURSIVA DA PRIMEIRA PÁGINA DE
+JORNAIS NOS INÍCIOS DE MANDATO DE FHC, LULA E DILMA ................................... 23
+FILOSOFIA DA INTELIGÊNCIA ARTIFICIAL: ASPECTOS ONTOLÓGICOS E ÉTICOS 24
+IDENTIDADE E CRISE DO RIO JAGUARI: ATORES E INSTITUIÇÕES PÚBLICAS ....... 25
+INFLUÊNCIA DA SAZONALIDADE NA QUALIDADE DAS ÁGUAS DO LAGO DO
+TABOÃO, EM BRAGANÇA PAULISTA (SP) ........................................................................ 26
+JOGO LITERÁRIO - LITERAÇÃO........................................................................................... 27
+LEVANTAMENTO DE DADOS LITERÁRIOS ...................................................................... 28
+MÃO NA TERRA....................................................................................................................... 29
+O BULLIYNG EM QUESTÃO: UM ESTUDO DE CASO NO IFSP – CAMPUS BRAGANÇA
+PAULISTA ................................................................................................................................. 30
+OFICINA DE ROBÓTICA EM MOVIMENTO ........................................................................ 31
+ORIGEM DAS LÍNGUAS: ESTUDO SOBRE APLICABILIDADE DE UMA TEORIA ....... 32
+
+CIÊNCIAS EXATAS E ENGENHARIAS
+BONÉ COM SENSOR DE OBSTÁCULO PARA AUXÍLIO A DEFICIENTES VISUAIS. ... 34
+CAIXA DE CORREIO INTELIGENTE .................................................................................... 35
+CARREGADOR SOLAR PORTÁTIL: ENERGIA LIMPA APLICADA AO COTIDIANO. .. 36
+CONSTRUÇÃO DE UMA IMPRESSORA 3D DE BAIXO CUSTO ....................................... 37
+DESENVOLVIMENTO DE UM KIT ROBÓTICA EDUCACIONAL DE BAIXO CUSTO ... 38
+DESENVOLVIMENTO E IMPLEMENTAÇÃO DE GERENCIADOR DE CONTROLE E
+CUSTOS DE ÁGUA................................................................................................................... 39
+
+10
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DIAGNÓSTICO E ELABORAÇÃO DE PLANOS DE MANUTENÇÃO DOS
+DINOSSAUROS MECANIZADOS DO PARQUE DA ROCHA MOUNTONNÉE EM
+SALTO-SP .................................................................................................................................. 40
+DISPOSITIVO ANTIFURTO PARA BOLSA ........................................................................... 41
+ESTEIRA DE ENVASE AUTOMATIZADA ............................................................................ 42
+ESTEIRA SELETORA DE CORES ........................................................................................... 43
+GIRASSOL FOTOVOLTAICO – GERADOR DE ENERGIA SUSTENTÁVEL .................... 44
+INFLADORES DE BALÕES: COMO ENCHER O BALÃO DO TAMANHO QUE VOCÊ
+QUER. ......................................................................................................................................... 45
+LÂMPADA PARA CORRETO FUNCIONAMENTO DO CICLO CIRCADIANO ................ 46
+MÃO ROBÓTICA CONTROLADA POR UMA LUVA .......................................................... 47
+PIPA TETRAÉDRICA: GRAHAM BELL VS. SIMON NEWCOMB ...................................... 48
+PISCINA INTELIGENTE CONTRA AFOGAMENTOS .......................................................... 49
+PLATAFORMA DE DESENVOLVIMENTO DE BAIXO CUSTO ......................................... 50
+PROPORÇÃO ÁUREA: A MATEMÁTICA POR DETRÁS DO BELO .................................. 51
+PULSEIRA ELETRÔNICA PARA PREVENÇÃO DE ACIDENTES COM CRIANÇAS. ..... 52
+REUTILIZADOR DE ÁGUA DA CHUVA E DE MAQUINA DE LAVAR ............................ 53
+SENSOR DE ENCHENTES ....................................................................................................... 54
+SÉRIES, SEQUÊNCIAS E LIMITE: UMA ABORDAGEM VOLTADA AO ENSINO MÉDIO
+..................................................................................................................................................... 55
+SISTEMA DE LOCOMOÇÃO PARA DEFICIENTES VISUAIS ............................................ 56
+SISTEMA PARA TESTE DE VALIDAÇÃO DE UM SENSOR DE ACELERAÇÃO ............ 57
+TREM MAGLEV........................................................................................................................ 58
+VEÍCULO ROBÓTICO PARA MONITORAMENTO DE LOCAIS DE DIFÍCIL ACESSO .. 59
+ZOOM: CONSTRUÇÃO DE UMA MÁQUINA CNC DE BAIXO CUSTO PARA
+PRODUÇÃO DE PLACAS DE CIRCUITO IMPRESSO.......................................................... 60
+
+INFORMÁTICA
+APLICATIVO DE APOIO AOS ESTUDOS COM AUXÍLIO DE JOGOS PARA ALUNOS
+DO ENSINO MÉDIO. ................................................................................................................ 62
+AUTOMAÇÃO DE CONTROLE ACADÊMICO E ESCOLAR............................................... 63
+DESENVOLVIMENTO DE JOGOS PARA O ENSINO DE CIÊNCIAS NO ENSINO
+FUNDAMENTAL A PARTIR DE LIBRAS .............................................................................. 64
+DESENVOLVIMENTO DE UM JOGO QUE AUXILIA NO ENSINO DE LIBRAS POR
+MEIO DE EXERCÍCIOS DE MNEMÔNICA. .......................................................................... 65
+MÉDICO FÁCIL ........................................................................................................................ 66
+MEDMAP ................................................................................................................................... 67
+OUVITRONIC-DISPOSITIVO DE AUXÍLIO PARA DEFICIENTES AUDITIVOS .............. 68
+PROTÓTIPO DE APLICATIVO PARA O AUXÍLIO NA ALFABETIZAÇÃO DE
+CRIANÇAS COM TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE
+(TDAH) ....................................................................................................................................... 69
+11
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PROTÓTIPO DE APLICATIVO PARA O AUXÍLIO NO APRENDIZADO DE BIOLOGIA
+DE ADOLESCENTES COM TRANSTORNO DO DÉFICIT DE ATENÇÃO COM
+HIPERTIVIDADE (TDAH) ....................................................................................................... 70
+SISTEMA DE APOIO AOS DEFICIENTES VISUAIS EM COMÉRCIOS ............................. 71
+SISTEMA DE GERENCIAMENTO DE SEGURANÇA RESIDENCIAL AUTOMATIZADO
+..................................................................................................................................................... 72
+SOFTWARE DE INTEGRAÇÃO A LIBRAS (SIL) ................................................................. 73
+STRIGO – AMBIENTE VIRTUAL BASEADO NO ENSINO COLABORATIVO ................. 74
+UNI-CLICK SUA UNIVERSIDADE A UM CLIQUE DE DISTÂNCIA! ................................ 75
+
+12
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CIÊNCIAS BIOLÓGICAS, HUMANAS E LINGUAGENS
+
+13
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+"ENTRE O PASSADO E O FUTURO: HÁ MUDANÇA LINGUÍSTICA?"
+Eduarda Alves de Oliveira
+Karina Magno Brazorotto de Sá (orientador)
+eduard.la69@gmail.com, brazorotto@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. O projeto “Entre o passado e o futuro: há mudança linguística?”, tem como objetivo
+verificar, pela perspectiva sociolinguística, algumas características de mudança linguística,
+analisando alguns sonetos de Luís de Camões e fazendo comparações entre versões escritas
+na época com versões atuais. Para isso alguns aspectos linguísticos serão destacados e se
+observará se a mudança linguística sofrida influencia nos aspectos formais do soneto.
+
+Palavras-chave: Mudança Linguística; Camões; Sonetos.
+
+14
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+(DES)CONCEITUANDO A NOÇÃO DE BELEZA: ANÁLISE DO ETHOS
+DISCURSIVO FEMININO EM CAMPANHA DOVE
+Sabrina Poscai Fernandes
+Rafael Prearo Lima (orientador)
+sabrinaposcaifernandes@gmail.com, rprearo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Este trabalho, inserido na área de Linguística, com ênfase nos estudos da Análise do
+Discurso de linha francesa, tem como objetivo analisar o ethos discursivo feminino e a
+construção da imagem da mulher que é apresentada na campanha “Retratos da Real Beleza”,
+de Dove. Buscaremos por meio deste trabalho saber: (1) como é construída a imagem da
+mulher em uma campanha publicitária; (2) como essa imagem evidencia estereótipos a
+respeito da beleza feminina; e (3) como essa imagem é reformulada por meio dessa
+campanha. Para isso, primeiramente, faremos a transcrição das legendas do vídeo “Dove:
+Retratos da Real Beleza (Versão Estendida)”, que servirão como corpus da análise. Em
+seguida, de-superficializaremos o discurso, observando suas condições de produção para
+que, no momento seguinte, possamos observar a cenografia apresentada e, por meio dela, a
+construção do ethos discursivo feminino. Os resultados da pesquisa contribuirão para uma
+leitura crítica em relação à construção da mulher em campanhas publicitárias.
+
+Palavras-chave: Publicidade. Ethos discursivo. Análise do Discurso. Linguística.
+
+15
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+(DES)CONSTRUÇÃO DILMA IMAGEM: ANÁLISE DISCURSIVA DAS
+CAPAS DE VEJA 2015
+Maria Amalia Martuci, Pamela Leite de Moraes
+Rafael Prearo Lima (orientador)
+martucimah@gmail.com, rprearo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. A partir dos estudos da Análise do Discurso francesa, faremos uma análise
+discursiva das manchetes (títulos e subtítulos), imagens e a notícias presentes nas capas da
+revista Veja. Para isso, selecionamos como corpus de análise as capas do ano de 2015 dessa
+revista em que Dilma Rousseff, em seu primeiro ano como reeleita no cargo da presidência
+do Brasil, é retratada. Analisaremos os efeitos de sentido produzidos nesses discursos com a
+finalidade de observar a construção da imagem de Dilma. Por meio da análise, procuramos
+responder como a imagem de Dilma Rousseff é construída durante o período selecionado, se
+há variações nessa construção e quais as semelhanças e/ou diferenças entre essas variações.
+
+Palavras-chave: Capa de revista; Ethos discursivo; Análise do Discurso francesa; Linguística
+
+16
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+“PELEUMONIA” E “RAÔXIS”,ONDE MORA O PRECONCEITO?
+Raquel Fernanda Pereira Morais
+Karina Magno Brazorotto de Sá (orientador)
+raquelpereira29@hotmail.com, brazorotto@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Essa pesquisa busca informar como o preconceito línguístico é gerado e explicar
+como cada um dos mitos foi criado,segundo pressupostos da teoria Sociolinguística
+trabalhada por Marcos Bagno, que discute o conceito de preconceito línguístico. Para ele, o
+que está em jogo não é a língua, mas as pessoas que à falam, englobando assim o preconceito
+social.Temos como objetivo, esclarecer a confusão feita entre gramática normativa e
+língua,explicando que a gramática tem como objetivo a função de definir e identificar o que
+seria a norma padrão de uma determinada língua, enquanto a língua é um mecanismo vivo e
+sempre utilizada para cominicação.Esse trabalho foi criado a partir da leitura do livro “A
+língua de Eulália” e “Preconceito línguístico”, ambos de Marcos Bagno,no qual entendemos
+que a língua apresenta inúmeras variedades e que todas são igualmente importantes para
+criação da língua portuguesa que conhecemos hoje no Brasil.
+
+Palavras-chave: Preconceito línguístico;Variedades línguísticas; Teoria Sociolínguística;
+
+17
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+A VIOLÊNCIA CONTRA A MULHER NO BRASIL: A VISÃO DOS
+ESTUDANTES DO IFSP, CÂMPUS SÃO ROQUE
+Luana Rodrigues Prudente, Natalia Naomi Souza Sakoda, Izadora Rodrigues da Silva
+Rogério De Souza Silva (orientador)
+luana10.prudente@gmail.com, rogeriosrq@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Câmpus São Roque
+
+RESUMO. Diante dos últimos acontecimentos envolvendo a violência contra a mulher e,
+principalmente, a propalada “cultura do estupro”, o presente trabalho discute a violência
+contra a mulher a partir da visão de mundo dos estudantes do Instituto Federal de Educação,
+Ciência e Tecnologia de São Paulo, Câmpus São Roque. Para isso, aplicou-se questionário
+simulando determinadas situações. Diante disso, foi possível perceber que grande parte das
+pessoas entrevistadas possui uma visão deturpada em relação a mulher. Alguns dos
+resultados colhidos mostraram que 40,4% dos entrevistados disseram que ao ver uma mulher
+passar em sua frente com uma roupa com comprimento mais curto não diriam nada, porém
+32,7% alegaram que falariam frases como “Nossa, essa mulher é gostosa em”; e 26,9%
+afirmaram que fariam um outro comentário. A pesquisa constatou que 34,60% dos homens
+entrevistados que chamariam uma mulher de “gostosa”, declararam que se um outro homem
+elogiasse a sua mãe, tomariam atitudes violentas contra esse comportamento. Além disso,
+74% dos entrevistados disseram nunca ter presenciado uma violência contra a mulher,
+enquanto 21% já presenciaram e reagiram ao fato ocorrido e 3,84% já presenciaram mas não
+reagiram. Dessa forma, o trabalho concluiu que mesmo em espaços formados por indivíduos
+com experiência escolar sofisticada e acesso à informação, o preconceito e a justificativa
+para a violência contra a mulher persistem.
+
+Palavras-chave: Violência contra a mulher, cultura do estupro, visão de mundo
+
+18
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+AVALIAÇÃO DA CITOTOXICIDADE DE INFUSÕES DE HORTELÃ FRESCA
+E SECA
+Tami da Costa Cacossi
+Ana Cristina Gobbo César (orientador)
+tamiccacossi@gmail.com, anagobbo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. As plantas são utilizadas como fonte de medicamentos para o tratamento das
+enfermidades que acometem o homem, de modo a aumentar suas chances de sobrevivência
+através da melhoria da saúde, entretanto pouco se sabe sobre o potencial citotóxico destas
+plantas. Este estudo objetivou avaliar os efeitos citotóxicos do chá de hortelã (Mentha sp)
+fresca e seca, usando o teste Allium cepa. Foram mensuradas 10 raízes escolhidas
+aleatoriamente em cinco bulbos expostos para cada tratamento: controle negativo (água sem
+cloro), controle positivo (15µg/L metil metanossulfonato) que inibi o crescimento radicular e
+chás de hortelã fresca e seca preparados com tempos variados de infusão na água fervente
+(1,5; 3 e 6 minutos). As infusões foram preparadas na concentração de 1g erva/150mL água
+à 100ºC. Foram realizadas medições do crescimento radicular em 72, 120 e 168 horas após o
+início da exposição dos bulbos expostos aos diferentes tratamentos. Para análise estatística
+foi utilizado teste ANOVA one-way e pós-teste de comparação de Tukey (p<0,05),
+disponíveis no software GraphPad Prisma 6. Observou-se que o chá de hortelã seca,
+independente da concentração testada neste experimento, inibiu significativamente
+(p<0,0001) o crescimento radicular, demonstrando efeito inibitório sobre a divisão celular.
+
+Palavras-chave: Plantas medicinais; chá de hortelã; citotoxicidade
+
+19
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+AVALIAÇÃO DO IMPACTO DA SAZONALIDADE NA CITOTOXICIDADE
+DO RIO JAGUARI E RIBEIRÃO LAVAPÉS, EM BRAGANÇA PAULISTA (SP)
+Leila Aparecida de Oliveira Silva
+Ana Cristina Gobbo César (orientador)
+leilasilva0@hotmail.com, anagobbo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. O teste Allium cepa é usado no biomonitoramento de recursos hídricos, pois
+permite a análise de parâmetros macroscópicos e microscópicos. Este estudo objetivou
+avaliar o potencial citotóxico das águas coletadas no Rio Jaguari e no Ribeirão Lavapés, que
+abastecem o município de Bragança Paulista (SP), usando o teste Allium cepa. As amostras
+de água foram coletadas em três pontos, nos períodos chuvoso e seco: na captação para
+abastecimento no Rio Jaguari, no Ribeirão Lavapés na foz com o Rio Jaguari e no local onde
+o Rio Jaguari já recebeu as águas do afluente Ribeirão Lavapés. Cinco cebolas foram
+expostas às águas coletadas, outras cinco colocadas no controle negativo (água sem cloro) e
+cinco expostas ao controle positivo (15µg/L metil metanossulfonato), responsável por
+promover alterações celulares. O crescimento de 10 raízes escolhidas aleatoriamente de cada
+bulbo foi medido após 72, 120 e 168 horas de exposição. Para análise estatística dos dados
+foi usado o programa GraphPad Prisma 6.0. No período chuvoso ocorreu inibição
+significativa do crescimento radicular nos três pontos de coleta, sugerindo a presença de
+produtos químicos no Rio Jaguari e Ribeirão Lavapés, responsáveis pela citotoxicidade
+celular; o mesmo não foi observado no experimento realizado no período de seca.
+
+Palavras-chave: Biomonitoramento; poluição dos rios; Allium cepa; citotoxicidade
+
+20
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CITOTOXICIDADE DOS CHÁS VERDE E PRETO NO CRESCIMENTO
+RADICULAR DE ALLIUM CEPA
+Matheus Augusto de Oliveira Ramos
+Ana Cristina Gobbo César (orientador)
+matheus_mador@hotmail.com, anagobbo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Grande parte da população de países em desenvolvimento usa plantas medicinais
+para o tratamento de doenças e enfermidades, devido ao fato de viverem em situação de
+pobreza e não terem acesso à medicina tradicional. Contudo, pouco se sabe sobre o potencial
+citotóxico destas plantas. Este estudo objetivou avaliar os efeitos citotóxicos dos chás verde
+e preto no crescimento radicular de cebolas, usando o teste Allium cepa. Foram mensuradas
+10 raízes escolhidas aleatoriamente em cinco bulbos expostos para cada tratamento: controle
+negativo (água sem cloro), controle positivo (15µg/L metil metanossulfonato) que inibi o
+crescimento radicular e chás verde e preto que tiveram infusões preparadas na concentração
+de 1g chá/150mL de água à 100ºC durante 1 minuto. Foram realizadas medições do
+crescimento radicular em 72, 120 e 168 horas após o início da exposição dos bulbos aos
+diferentes tratamentos. Para análise estatística foi utilizado teste ANOVA one-way e pósteste de comparação de Tukey (p<0,05), disponíveis no software GraphPad Prisma 6.
+Observou-se que ambos os chás apresentaram efeito citotóxico no crescimento radicular,
+inibindo a realização de mitoses.
+
+Palavras-chave: Plantas medicinais; chá preto; chá verde; bioensaio
+
+21
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+COMO OS ALUNOS DO IFSP SE MANTÊM INFORMADOS SOBRE OS
+FATOS QUE OCORREM NO BRASIL E NO MUNDO?
+Josiely do Carmo Gomes da Costa
+Maria Isabel d' Andrade de Sousa Moniz (orientador)
+josiely_cgomes@icloud.com, isabel.moniz@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Este trabalho insere-se nos estudos da área de Língua Portuguesa sobre leitura e
+escrita e analisa, especialmente, a relação dos jovens com a leitura de notícias. Pesquisas
+indicam que os principais meios utilizados para obtenção de informaçoes sobre os fatos da
+atualidade são os sites da internet e as redes sociais. Porém, ainda não existem muitos
+trabalhos a esse respeito quando se trata do público mais jovem. Assim, esta pesquisa
+analisará quais os meios mais utilizados pelos alunos do Ensino Médio do IFSP de Bragança
+Paulista para se manterem informados sobre os fatos que ocorrem no Brasil e no mundo. Por
+meio de entrevistas, serão analisados os temas de interesse dos jovens e a forma como obtêm
+e compartilham informações. Os dados serão analisados, organizados em gráficos e tabelas e
+poderão, futuramente, contribuir para adequar as formas de divulgação das informações, pela
+escola ou outras instituições, para o público jovem.
+
+Palavras-chave: Jovens; leitura; notícias
+
+22
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+ENTRE TUCANOS E ESTRELAS: ANÁLISE DISCURSIVA DA PRIMEIRA
+PÁGINA DE JORNAIS NOS INÍCIOS DE MANDATO DE FHC, LULA E
+DILMA
+Maria Silveira Oliveira, Camila Reis de Godoy
+Rafael Prearo Lima (orientador)
+mariaantonia.ifmec@gmail.com, rprearo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Esta pesquisa, integrada à área de Linguagens, tem como objetivo analisar o
+discurso da primeira página de jornais utilizando os conhecimentos teóricos da Análise do
+Discurso de linha francesa. Para isso, selecionamos como corpus de análise a primeira
+página no dia 1º de janeiro de dois jornais, Estadão e Folha de São Paulo, porocasião da
+posse da eleição dos presidentes FHC, Lula e Dilma. A escolha desses jornais se deu porque,
+além de suas edições possuírem acervo digitalizado, o que facilita a pesquisa e obtenção das
+publicações, eles possuem grande circulação nacional. A partir da análise da primeira página
+de doze exemplares dos jornais citados, conseguimos observar os efeitos de sentido nas
+manchetes sobre um mesmo assunto, a saber, o início de um novo mandato presidencial, e,
+por meio deles, constatar as formações ideológicas que permeiam esses jornais.
+
+Palavras-chave: Jornais; Política; Análise do Discurso de linha francesa; Linguística.
+
+23
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+FILOSOFIA DA INTELIGÊNCIA ARTIFICIAL: ASPECTOS ONTOLÓGICOS
+E ÉTICOS
+Paulo Roberto Campos
+Fernando Rodrigues (orientador)
+paulo.pr236@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. A Filosofia da Inteligência Artificial – AI é um campo de investigação bastante
+recente e dedica-se, primariamente, aos temas e aos problemas associados à possibilidade
+(ou à impossibilidade) de se construir máquinas inteligentes. Essa discussão supõe o conceito
+de inteligência, cuja complexidade vem suscitando questionamentos háséculos, sobretudo
+por parte de filósofos. É no século XX, contudo, especialmente após as pesquisas de Alan
+Turing e mediante os avanços tecnológicos que possibilitaram a criação do computador
+digital, que se impõem os seguintes questionamentos básicos: é possível, afinal, replicar o
+pensamento humano em uma máquina? Em caso afirmativo, isso significa também replicar o
+próprio comportamento humano? O presente projeto de pesquisa visa, diante disso, a
+promover uma aproximação dos saberes oriundos da filosofia (especialmente da filosofia da
+mente) e dos saberes próprios das ciências da computação, a fim de colocar,
+subsequentemente, as questões ontológicas e éticas inerentes aos intuitos de pesquisa que
+visam à construção da inteligência artificial.
+
+Palavras-chave: Inteligência;Artificial;Filosofia;
+
+24
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+IDENTIDADE E CRISE DO RIO JAGUARI: ATORES E INSTITUIÇÕES
+PÚBLICAS
+Wellington Martins Luiz
+Orlando Leonardo Berenguel (orientador)
+wellington_martinsluiz@hotmail.com, oberenguel@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. O estudo do Rio Jaguari abarca uma variedade de temas, incluindo sua instância
+política e pública fundamentais para a compreensão da importância desse recurso para os
+atores sociais presentes nos territórios que estão no seu trajeto. É o principal recurso hídrico
+que abastece o município de Bragança Paulista e demanda um conjunto de ações, resultantes
+de Políticas Públicas integradas que possam deflagar um programa de mitigação dos
+problemas ambientais antrópicos, gerados pelos processos de urbanização e industrialização
+desordenados. Esta pesquisa apresenta como objetivo identificar a percepção ambiental dos
+atores sociais locais, utilizando a pesquisa qualitativa. As análises da percepção dos atores
+podem auxiliar na compreensão das razões que determinam o porquê de certas políticas de
+intervenção não resolverem adequadamente os problemas sociais e ambientais a que elas se
+propõem. A pesquisa parte do pressuposto teórico de que a percepção de ambiente envolve
+respostas e reações a impressões, estímulos e sentimentos, mediados pelos sentidos, assim
+como pelos processos mentais relacionados com experiências individuais, associações
+conceituais e condicionamentos culturais das diversas ações humanas sobre o ambiente, o
+que determina o significado do Rio Jaguari para os atores sociais de Bragança Paulista – SP.
+
+Palavras-chave: Rio Jaguari; Políticas Públicas.
+
+25
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+INFLUÊNCIA DA SAZONALIDADE NA QUALIDADE DAS ÁGUAS DO LAGO
+DO TABOÃO, EM BRAGANÇA PAULISTA (SP)
+Renê Ferreira Lopes
+Ana Cristina Gobbo César (orientador)
+rene.lopes16@outlook.com, anagobbo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Bioensaios usando cebola (Allium cepa) têm sido muito utilizados no
+biomonitoramento da qualidade das águas dos rios, córregos e lagos. O crescimento das
+raízes de cebola é um método sensível na detecção dos efeitos citotóxicos promovidos por
+poluentes ambientais, industriais e residenciais. Este estudo objetivou avaliar o potencial
+citotóxico das águas do Lago do Taboão, em Bragança Paulista (SP), nos períodos de
+estiagem e chuvas. Amostras de águas foram coletadas em três pontos do lago e utilizou-se o
+teste Allium cepa. O anel primordial das cebolas, onde emergem as raízes, foi limpo,
+retirando-se as raízes ressequidas. Posteriormente, cinco cebolas foram expostas às águas
+coletas, cinco bulbos foram expostos ao controle negativo (água sem cloro) e outros cinco
+foram expostos ao controle positivo (15µg/L metil metanossulfonato), capaz de promover
+alterações celulares. O crescimento de 10 raízes escolhidas aleatoriamente de cada bulbo foi
+medido após 72, 120 e 168 horas de exposição. Para análise estatística foi usado o programa
+GraphPad Prisma 6. A sazonalidade pode ter interferido na qualidade das águas do Lago do
+Taboão, demonstrando alterações na citotoxicidade dessas águas.
+
+Palavras-chave: Allium cepa; biomonitoramento; citotoxicidade
+
+26
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+JOGO LITERÁRIO - LITERAÇÃO
+Ariele Dias Alves, Beatriz Araújo Costa, Nathalia Brito da Conceição
+Tainah Regina Buscariolo Almeida Bueno (orientador), Ana Paola de Azevedo Dias
+Ludgero (coorientador)
+beatrizz.weise@gmail.com
+Escola Estadual de Ensino Integral Major Juvenal Alvim
+
+RESUMO. O projeto visa auxiliar os estudantes do Ensino Médio a compreenderem o contexto
+histórico-social dos movimentos literários, bem como, inserir os autores nesses períodos,
+levando em consideração as influências que tiveram. Para isso, foi elaborado um jogo
+interadivo com enfoque da literatura Brasileira e Portuguesa. Em suma, houve a plena
+assimilaçâo dos alunos que interagiram com o jogo.
+
+Palavras-chave: Diversão; Aprendizado; Literatura;
+
+27
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+LEVANTAMENTO DE DADOS LITERÁRIOS
+Ana Beatriz Destro, Débora Machado Rosa
+Maria Isabel d' Andrade de Sousa Moniz (orientador)
+bia.destro99@gmail.com, isabel.moniz@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Este estudo identifica hábitos e preferências de alunos do Ensino Médio e
+funcionários do Instituto Federal de São Paulo campus Bragança Paulista. Analisando
+questionários buscamos traçar o perfil dos leitores voluntários, levantar hipóteses que
+ajudarão em projetos, professores e outros setores da escola, além da tentativa de integração
+dos alunos com a leitura. A partir destas constatações, finalizamos nosso estudo trazendo
+algumas considerações que visam melhorar práticas relacionadas à literatura dentro do
+campus. Com isso, esperamos que a leitura tanto por opção própria quanto a exigida pela
+escola sejam mais presentes no cotidiano.
+
+Palavras-chave: Leitura; escola; hábitos e preferências;
+
+28
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+MÃO NA TERRA
+Anselmo Mori Bueno, Leonardo Rodrigues da Silva, Wanderson Barros da Silva
+Sabrina Centofanti Mori (orientador)
+Escola Estadual Professor Luiz Roberto Pinheiro Alegretti
+
+RESUMO. O projeto Mão na Terra surgiu a partir de uma Disciplina Eletiva desenvolvida na
+escola neste primeiro semestre de 2016, por sua preocupação em relação ao meio
+ambiente, com o reaproveitamento de materiais, otimização da ocupação do espaço e
+a produção de produtos saudáveis. Consiste na construção de horta vertical com garrafas
+pet e material proveniente de compostagem para cultivo das plantas.
+
+Palavras-chave:
+
+29
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+O BULLIYNG EM QUESTÃO: UM ESTUDO DE CASO NO IFSP – CAMPUS
+BRAGANÇA PAULISTA
+Isabella Fernanda Barbosa
+Rafael de Oliveira Coelho dos Santos (orientador)
+fofura.legal@gmail.com, rocs@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. As regras de comportamento impostas aos jovens de hoje nem sempre são
+suficientes para impedir práticas abusivas de assédio moral ou físico, com comportamentos
+de discriminação ou exclusão devido a não aceitação do diferente. O Bullying escolar é um
+problema cada vez mais debatido, por expor essa não aceitação do outro, seja em relação à
+maioria, seja em relação ao padrão dominante. O projeto “O bullying em questão: um estudo
+de caso no IFSP - campus Bragança Paulista” é um esforço no sentido de expor dados e
+informações iniciais sobre o assunto para que se traduzam posteriormente em ações
+sensibilizadoras na instituição, e está inserido na grande área das Ciências Biológicas,
+Humanas e Linguagens. O levantamento dos dados e informações foi feito por meio de
+questionários respondidos por estudantes do ensino técnico integrado ao ensino médio e por
+estudantes da licenciatura em Matemática, de idades variadas e ambos os sexos. De modo
+geral, o objetivo deste trabalho é analisar a prática do bullying no campus de Bragança
+Paulista por meio do levantamento de dados e informações que identifiquem em quais
+condições e situações ele acontece, e quais as principais consequências relacionadas. Os
+resultados apontam os aspectos físicos como principal motivo do assédio, resultando em
+violência psicológica na maioria dos casos. A maior parte das vítimas não se manifestam,
+não procuram qualquer tipo de ajuda para superar seus traumas ou não os percebem. Os que
+se manifestam apontam a baixa autoestima como principal prejuízo emocional, mas não
+procuram ajuda. Uma parcela dos que praticam o assédio assinala que se sente induzida a
+praticar, por ter amigos que praticam e outros que incentivam, e raramente recebem
+punições, no máximo uma advertência da direção escolar. Com base nos dados é possível
+dizer que o bullying precisa ser debatido de forma mais ampla pela comunidade, pois as
+vítimas se calam diante da violência e os agressores ficam impunes na maioria das vezes,
+sem ter conhecimento dos traumas psicológicos que podem causar.
+
+Palavras-chave: Bullying; relações interpessoais; violência piscicológica
+
+30
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+OFICINA DE ROBÓTICA EM MOVIMENTO
+Eduardo Ledo Rodrigues Neto, Pablo Augusto da Costa
+Bruno do Amaral (orientador), Fabíola Tocchini de Figueiredo (coorientador)
+eduardoledo@live.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O conhecimento científico ainda desperta pouco interesse dos alunos pelos métodos
+de ensino tradicionais, fazendo com que poucos se interessem pela área de ciências exatas. A
+aplicação dos conhecimentos teóricos no desenvolvimento de projetos robóticos com o uso
+de tecnologias é feito de forma divertida, aguçando a curiosidade, estimulando a criatividade
+além de desenvolver o raciocínio lógico.Se utilizando de aulas dinâmicas o projeto "oficina
+de robótica de movimento" apresenta problemas relacionados ao dia-a-dia com o intuito de
+os problemas serem resolvidos com técnicas de programação, eletrônica e lógica.Desse
+modo estimulando o aluno a usar o raciocinio lógico de modo que se encontre a solução da
+melhor maneira possivel.O projeto ja vem sendo desenvolvido de maneira que pode-se
+observar o interesse dos alunos, deste modo que os problemas vem sendo resolvidos com
+soluções cada vez melhores.
+
+Palavras-chave: Robótica; escola; pública; arduino; programação; eletrônica;
+
+31
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+ORIGEM DAS LÍNGUAS: ESTUDO SOBRE APLICABILIDADE DE UMA
+TEORIA
+Keteli Batista, Eduardo Guimarães Arantes
+Rafael Prearo Lima (orientador)
+keteliflycastagnoli@gmail.com, rprearo@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Diferentes línguas são usadas por diferentes povos e civilizações. Algumas
+palavras, no entanto, mesmo em línguas muito distintos entre si, são parecidas. Embora
+existam várias teorias a esse respeito, decidimos estudar a mais recente e testar sua
+aplicabilidade. Portanto, este projeto objetiva desenvolver uma análise a respeito de uma
+teoria sobre a origem das línguas indo-europeias, com a finalidade de verificar como essa
+teoria pode ser aplicada na prática. Usando alguns sites, como Nice translator, iremos
+comparar palavras em diferentes línguas, com o objetivo de encontrar semelhanças fonéticas
+e semânticas. Dessa maneira, visamos entender e demostrar como uma teoria sobre a origem
+das línguas indo-europeias funciona.
+
+Palavras-chave: Origem das línguas; História; Linguística.
+
+32
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CIÊNCIAS EXATAS E ENGENHARIA
+
+33
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+BONÉ COM SENSOR DE OBSTÁCULO PARA AUXÍLIO A DEFICIENTES
+VISUAIS.
+Matheus Henrique Araujo Barbosa, Tiago Viana Chaves
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+mathgamer507@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Tendo em vista os problemas enfrentados cotidianamente por deficientes visuais,
+como obstáculos em seu caminho como degraus, mesas, cadeiras entre outros obstáculos.
+Pensando nisso, o protótipo pretende atenuar os problemas do dia-a-dia no qual o deficiente
+se expõe, ampliando assim a independência do individuo.O projeto se constituirá de um boné
+com sensores de obstáculos que atuarão se a pessoa deficiente estiver a uma distância
+próxima do obstáculo, avisando-o por meio de um alarme.Esse projeto tem como objetivo
+servir de ferramenta para deficientes visuais, ampliando sua mobilidade em ambiantes
+fechados e evitando acidentes, além de amplificar a autonomia dos mesmos.Inicialmente será
+realizado testes iniciais para adequar a distância para atuar o sensor e o tempo de reposta do
+sensor. Após verificar o funcionamento adequado do protótipo, será feito a soldagem na
+placa perfurada. Todos os testes serão realizados na própria escola.
+
+Palavras-chave: auxílio; deficiente; sensor
+
+34
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+CAIXA DE CORREIO INTELIGENTE
+Gabriel Neri de Oliveira, João Vitor Teixeira de Almeida, Maria Vitória França Bezerra
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+big.neri09@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Pensando em trazer uma maior comodidade para a vida das pessoas, esse projeto
+visa chamar a atenção do proprietário quando ele receber uma correspondência, por meio de
+uma lampada led. Com isso espera-se que as pessoas não esquecam de olhar sua caixa de
+correio, ajudando a não atrasar os pagamentos de contas.
+
+Palavras-chave: correio;carta;aviso
+
+35
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CARREGADOR SOLAR PORTÁTIL: ENERGIA LIMPA APLICADA AO
+COTIDIANO.
+Lucas Silva Melo
+Adilson Vitor Rodrigues (orientador)
+lucasmelo000@hotmail.com, adilson.vrodrigues@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. A energia proveniente de fontes não-renováveis, a escassez de tais recursos e a atual
+preocupação do homem em minimizar os danos causados ao meio ambiente ao longo dos
+anos motivam a busca por energias sustentáveis. Este projeto objetiva a fabricação de um
+carregador solar portátil de baixo custo para utilização em celulares. A execução do projeto
+se dá por meio da montagem de um circuito simples que inclui basicamente capacitores,
+resistores e uma pequena placa solar fotovoltaica ligados à uma placa de circuito impresso.
+Espera-se que este projeto não apenas contribua, ainda que de forma singela, para a redução
+do consumo de energia oriunda de fontes não-renováveis, mas também inspire a busca por
+métodos alternativos de geração de energia.
+
+Palavras-chave: energia solar; energia limpa.
+
+36
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+CONSTRUÇÃO DE UMA IMPRESSORA 3D DE BAIXO CUSTO
+Gabriel Watanabe, Vinícius Rafael Máximo dos Santos
+Fabíola Tcchini de Figueiredo Kokumai (orientador), Érico Pessoa Felix (coorientador)
+gabrielwatanabe1998@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Impressoras 3D são máquinas de prototipagem rápida comumente utilizada no ramo
+industrial para elaboração de protótipos de maneira ágil e com qualidade. Assim, o projeto
+visa o desenvolvimento e fabricação de uma Impressora 3D controlada por arduíno e com o
+uso de componentes eletrônicos de baixo custo que podem ser encontrados facilmente. Este
+projeto busca por meio de pesquisas em materiais disponíveis na literatura e internet
+referências bem sucedidas sobre a construção de impressoras 3D. É objetivo também deste
+projeto se aprofundar no assunto sobre prototipagem rápida e fornecer uma base de
+elaboração destas máquinas para comunidade interna e externa de modo a favorecer o estudo
+de novas tecnologias e a replicação da máquina desenvolvida. Como resultado, espera-se que
+o campus Salto possua uma impressora 3D de baixo custo produzida dentro da própria
+Instituição e que possa ser utilizada por professores durante as aulas e por alunos na
+elaboração de outros projetos.
+
+Palavras-chave: impressão 3D; prototipagem rápida; arduíno; impressora educacional
+
+37
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DESENVOLVIMENTO DE UM KIT ROBÓTICA EDUCACIONAL DE BAIXO
+CUSTO
+Guilherme Christovam Maganha, Gabriel Tavore de Arruda, João Vitor de Almeida
+Fabíola Tocchini de Figueiredo Kokumai (orientador)
+guilhermec.maganha@gmail.com, fabiolatdef@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O objetivo deste projeto é desenvolver um kit de robótica de baixo custo uma vez
+que os kits comerciais disponíveis atualmente possuem valores a partir de R$360,00, sendo
+que os mais conhecidos podem chegar a, aproximadamente, R$3000,00. Assim, para que
+seja viável o aprendizado de robótica propõe-se o desenvolvimento de um kit robótica com
+custo menor do que os encontrados atualmente. O desenvolvimento do kit visa solucionar o
+problema de acessibilidade à robótica dos estudantes do 1º ensino médio do Instituto Federal
+de São Paulo - Campus Salto na disciplina PJI - Projeto Integrador. A disciplina PJI tem o
+objetivo de desenvolver e integrar ao longo do ano as disciplinas do curso de Automação
+Industrial para a construção de dois robôs, um por semestre. O primeiro robo deve atender os
+requisitos de um robô sumô, que tem o objeito de empurrar o adversário para fora de uma
+arena, e o segundo robô, gladiador, deverá estourar uma bexiga que está presa no adversário.
+
+Palavras-chave:
+
+38
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DESENVOLVIMENTO E IMPLEMENTAÇÃO DE GERENCIADOR DE
+CONTROLE E CUSTOS DE ÁGUA
+Paula Campos Cruz, Rafael Rodrigo de Azevedo Lyra
+Aliandro Costa Henrique (orientador), Cleudiane Soares Santos (coorientador)
+aliandrosantos@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Hortolândia
+
+RESUMO. O projeto consiste no desenvolvimento de um sistema que realiza um controle do
+uso da água e consequentemente auxilia na redução de custos. Para elaboração do projeto,
+foi desenvolvida uma análise e estudo de mercado, para compreender os diversos tipos de
+dificuldades, sugestões e melhorias dos consumidores, a fim de atender as necessidades
+impostas. No decorrer do trabalho é possível encontrar todos os passos e etapas cumpridas
+no percurso do projeto, descritas, explicadas e exemplificadas para melhor entendimento. O
+principal objetivo do produto consiste no diferenciamento dos concorrentes através do baixo
+custo, facilidade de manuseio e fácil entendimento. Como metodologia foi realizada uma
+busca a fontes de materiais alternativos, opções para instalações, leitura e compreensão
+simples e didáticas para que os clientes não tenham dificuldades ao manusear o equipamento
+e o produto tenha baixo custo ao consumidor final. Além disso, foi realizado o modelamento
+3D do protótipo com o auxílio do InventorTM para verificar a funcionalidade. O aparelho
+contém um programa que irá mostrar o consumo diário e mensal e os gastos com a água para
+cada família, através de mensagens e sinalizadores sonoros. Como resultados pode-se
+concluir que o protótipo é de fácil acesso e manuseio, leve e simples e com grande
+durabilidade. Além disso, os resultados finais demonstram que o produto tem impacto
+relevante no controle de custos e água, ajudando na economia e consumo familiar e evitando
+desconforto para os usuários.
+
+Palavras-chave: Água; Custos; Projeto; Controle.
+
+39
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DIAGNÓSTICO E ELABORAÇÃO DE PLANOS DE MANUTENÇÃO DOS
+DINOSSAUROS MECANIZADOS DO PARQUE DA ROCHA MOUNTONNÉE
+EM SALTO-SP
+William Ferreira Dias
+(orientador)
+wiiferreira@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. A principal abordagem do projeto é realizar a manutenção de réplicas animatrônicas
+de dinossauros, as mesmas se encontram em alto grau de deteriorização.Será utilizado para a
+manutenção, além do conhecimento dos envolvidos, equipamentos mecânicos e eletrônicos,
+como fontes chaveadas, sistemas de áudio, motores elétricos entre outros.Com a manutenção
+das réplicas, se visa aumentar o índice de turismo na cidade, e trazer conhecimento para os
+alunos envolvidos em várias matérias distitintas, como elétrica e mecânica.
+
+Palavras-chave: Manutenção; Turismo; Automação
+
+40
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+DISPOSITIVO ANTIFURTO PARA BOLSA
+Kleberson Aparecido Dias de Almeida, Felipe Ramalheira Cardoso, Beatriz Maria Leal
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+kleberson709@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O objetivo com esse projeto é fazer um alarme de mochila para evitar que ocorram
+furtos, roubos ou o esquecimento de bolsas e mochilas. Segundo o Instituto Brasileiro de
+Geografia e Estatística (IBGE) que no período de um ano, 11,9 milhões de brasileiros foram
+vítimas de roubo ou furto, nos quais muitos desses objetos eram valiosos como
+computadores e matérias de trabalho. Nas maiorias das ocorrências o proprietário da bolsa
+está dormindo ou descuidado como exemplo uma pessoa que em um dia de trabalho
+cansativo, pega um metro e acaba dormindo no banco deixando sua mochila desprotegida e
+com uma alta probabilidade de roubo ou de perca. O projeto consiste em um dispositivo que
+será colocado na bolsa que quando acionado ligará um alarme se a bolsa for aberta. O
+protótipo terá um controle remoto que ligará e desligará o alarme com a utilização de Rádio
+Frequência. O sistema detectara a distancia da bolsa com seu proprietário, avisando quando a
+bolsa se distanciar. Com o alarme acionado ligara o buzzer no controle e na bolsa.
+
+Palavras-chave: Bolsa;Alarme;Segurança
+
+41
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+ESTEIRA DE ENVASE AUTOMATIZADA
+Rubens Abreu Abreu, Bruno Luis, Alan Jones Dantas
+Fabíola Tocchini de Figueiredo (orientador)
+rubinho_netto@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Atualmente a automação industrial tem sido cada vez mais utilizada e valorizada,
+pois proporciona diversos benefícios as empresas, principalmente em relação a substituição
+da mão de obra humana, a maior produtividade e ainda por trazer preços mais acessíveis.
+Partindo dessas informações e sabendo que existem diversas empresas utilizando processos
+manuais, os quais são sujeitos a falhas, imprecisos e lentos, além de exigirem custos
+elevados para a produção e manutenção e necessitarem de treinamentos contínuos dos
+operadores, fora desenvolvida uma esteira de envase automatizada, a qual substitui o esforço
+físico e mental do operador através da mecânica e da computação, trazendo assim maior
+precisão, eficiência e continuidade ao processo. O projeto utiliza em sua construção,
+materiais acessíveis e de baixo custo, fornecendo aos usuários alta produtividade com custos
+reduzidos. Através do desenvolvimento desse trabalho podemos obter contribuições diversas,
+assim como o uso do dispositivo em empresas nos mais variados setores, por exemplo, na
+indústria automobilistica e em escolas, tendo fins didáticos, pois além de ser um projeto
+eficaz e de fácil acesso, o mesmo também integra diferentes áreas do conhecimento como a
+matemática, física, mecânica, etc. Para a realização do projeto, foi montado um protótipo
+contendo na parte mecânica, a esteira, o motor, a mangueira acoplada ao cano e a rampa que
+transporta as garrafas até a esteira. Na parte eletrônica foram utilizados uma placa Arduino,
+sensores, válvula solenoide e um temporizador para controlar a vazão. De maneira geral o
+trabalho obteve bons resultados, com o funcionamento correto do projeto e ideias que
+surgiram dele para próximos trabalhos. Portanto além da experiência adquirida pelos
+integrantes do grupo, este projeto mostra que é possível automatizar um processo de forma
+mais barata, não somente a envasadora, mas também a maioria das máquinas projetadas
+utilizando automação industrial.
+
+Palavras-chave: Envase; Automação; Baixo Custo.
+
+42
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+ESTEIRA SELETORA DE CORES
+Laís Melo Olivero, Heloísa Marques da Silva, Michele Fernanda da Silva
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+bra.gantec2016@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Em muitas empresas como por exemplo, a Coca-Cola, os acidentes são frequentes
+com trabalhadores na linha de produção. Na etapa de empacotamento pode acontecer de
+alguns produtos serem misturados e prejudicar o lote e devido a algumas matérias-primas já
+trazerem custo na sua extração e purificação acarreta em prejuízo para a empresa. Pensando
+nisso, o protótipo visa automatizar os processos de separação de embalagens por cores assim
+ganhando variedade maior de produtos para o empacotamento e transporte. Será testado o
+circuito do protótipo na protoboard após a finalização dos testes, o circuito será transferido
+para uma placa ilhada. Após todo o processo do circuito, será montada a estrutura do projeto.
+Todo o processo de montagem mecânica, eletrônica e escrita será realizado na própria
+instituição.
+
+Palavras-chave:
+
+43
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+GIRASSOL FOTOVOLTAICO – GERADOR DE ENERGIA SUSTENTÁVEL
+Eduarda Grizoste de Mattos, Tiago Lucas Leal, Roberto Carlos Corazza Cordeiro
+Ricardo Dantas Dematte (orientador)
+dematte@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O Girassol Fotovoltaico é um sistema de geração de energia alimentado por placas
+solares que se movimenta de acordo com a posição da fonte geradora de energia: o Sol. Este
+dispositivo é alto sustentável pois não depende de alimentação externa de energia. Incentivar
+o uso de fontes renováveis de energia é um dos objetivos principais deste projeto.
+
+Palavras-chave: Painel Solar, Energia Sustentável
+
+44
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+INFLADORES DE BALÕES: COMO ENCHER O BALÃO DO TAMANHO QUE
+VOCÊ QUER.
+Marianne Oliveira Menezes, Fernanda Cristina Rodrigues, Igor da Silva Ferreira
+Tulio Cesar Rodrigues (orientador), Sidney Pereira Martins (coorientador)
+marioliveira2008@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. O nosso trabalho é inserido nas áreas de mecânica e eletroeletrônica, o problema
+que encontramos foi no meio de eventos, percebemos que os compressores de ar não
+conseguem delimitar um tamanho para os balões. Nosso objetivo principal é agilizar e
+facilitar o serviço do funcionários desses eventos que enche vários balões, os compressores
+realizaram um trabalho que os funcionários levam muito tempo praticando. Começamos
+fazer o trabalho com a intenção de criar um protótipo no Arduino juntando com o sensor de
+volume, porém percebemos que alguns balões não atinge o mesmo tamanho em altura
+quando colocamos a mesma quantidade de ar dentro dele, assim começamos de novo. Ai
+veio a ideia de usar o sensor ultrassônico, começamos a escrever um programa no Arduino
+mas agora o sensor seria o ultrassônico. O programa começou a ser escrito no Arduino em
+linguagem C, após essa fase usaremos uma mesa de pneumática para realizar os primeiros
+testes do programa em contato com o balão e com o sensor, assim acaso algum erro o
+programa voltara a ser reescrito. No entanto a fase de pesquisa sobre linguagem C ajudou
+muito para que os erros sejam detectados rapidamente e reescritos em um programa que o
+Arduino disponibiliza.
+
+Palavras-chave:
+
+45
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+LÂMPADA PARA CORRETO FUNCIONAMENTO DO CICLO CIRCADIANO
+Lucas Ryuiti Nukamoto Shimabukuro
+Cíntia Gonçalves Mendes da Silva (orientador), Carlos Eduardo Freitas (coorientador)
+lucasrnukamoto@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Câmpus São Paulo
+
+RESUMO. O presente trabalho visa o desenvolvimento de uma lâmpada biologicamente
+correta e indutora de produtividade. Isto é, que apresente o mínimo de interferência possível
+no ciclo circadiano e possibilite um maior bem-estar ao indivíduo. Para isso, realizou-se uma
+pesquisa bibliográfica de estudos já feitos no campo da luminotécnica que relacionam
+iluminação artificial e saúde ou bem-estar. Tais estudos indicaram a importância da
+melatonina, que é o principal hormônio regulador do ciclo circadiano. Tal hormônio é
+sensível à luminosidade e tem sua produção alta durante a noite e praticamente nula ao longo
+do dia. Ou seja, a exposição do indivíduo à luz artificial durante o período noturno inibe a
+produção da melatonina. Tal inibição, porém, é relativa à algumas características da luz, fato
+que foi pesquisado durante a revisão bibliográfica. A partir da detecção das variáveis que
+mais interferem na produção da melatonina e consequentemente no ritmo biológico (espectro
+da luz, intensidade luminosa, IRC e iluminação dinâmica), foi possível a escolha dos
+materiais apropriados para a construção do protótipo. Depois foram feitos cálculos e testes
+luminotécnicos para melhor estimar a executabilidade do projeto. Como exemplo de
+ambiente utilizou-se um quarto residencial de tamanho médio e fez-se uso do método do
+ponto a ponto e do programa Dialux para a realização dos cálculos e simulações. Sendo
+assim, a partir da Pesquisa Bibliográfica e dos valores obtidos, conseguiu-se projetar uma
+lâmpada com o mínimo de interferência possível da luz artificial na saúde e no conforto do
+ser humano.
+
+Palavras-chave: iluminação; ciclo circadiano; melatonina
+
+46
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+MÃO ROBÓTICA CONTROLADA POR UMA LUVA
+Luis Bento de Santana, Kauã Menezes Bintencourt Chaves
+Fabíola Tcchini de Figueiredo Kokumai (orientador), Érico Pessoa Felix (coorientador)
+l-bento99@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Este projeto visa a construção e a apresentação de uma mão robótica controlada por
+rádio frequência. Este projeto é de alta complexidade e está em fase de desenvolvimento
+assim, este trabalho é uma fase inicial deste estudo. Neste projeto uma mão robótica
+construída artesanalmente será controlada à curta distância, utilizando um sistema de
+transmissão de informações por radio frequência. Para que ocorra o controle da mão robótica
+será utilizada uma luva controladora com sensores do tipo flex que ira mandar sinais para a
+mão de acordo com o movimento realizado nela, com a intenção de que a mão copie o
+movimento realizado pelo usuário da luva. É necessário para esse projeto o micro
+controlador Arduino, os sensores flex, o módulo de rádio frequência e os componentes da
+mão mecânica como servo-motores e a estrutura. Para que a mão e a luva se comuniquem
+entre si e realizem sua função será feito uma programação na placa micro controladora
+Arduino. Quando o usuário usar a luva será possível que ele controle a mão robótica de
+acordo com seus movimentos, ou seja, ao movimentar um dedo de determinado modo a mão
+irá detectar o sinal enviado e copiará o mesmo movimento.
+
+Palavras-chave:
+
+47
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PIPA TETRAÉDRICA: GRAHAM BELL VS. SIMON NEWCOMB
+Marcos Henrique Belotti Castilha, Enzo Henrique Próspero, William Masaharu Yoshida
+Diana Terezinha Amaro (orientador)
+castilha@live.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. A possibilidade de alçar vôo sempre foi um tema que encantou e despertou muito
+interesse nos seres humanos. A tentativa de construir aparatos voadores grandes o suficiente
+para levar um homem aos céus e ao mesmo tempo aerodinamicamente estáveis esbarrava no
+argumento de Simon Newcomb (1835–1909), um reconhecido matemático e astrônomo
+desta época, o qual dizia: “Considere duas máquinas voadoras semelhantes, sendo que uma
+tem o dobro da escala da outra. Todos sabemos que o volume e, então, o peso de dois corpos
+semelhantes são proporcionais aos cubos de suas dimensões. O cubo de dois é 8; então a
+máquina maior terá 8 vezes o peso da máquina menor. As áreas das superfícies destas
+máquinas, por outro lado, são proporcionais aos quadrados de suas dimensões. O quadrado
+de dois é 4. Desta maneira, a máquina mais pesada exporá ao vento uma superfície com área
+apenas 4 vezes maior, tendo então uma nítida desvantagem na razão eficiência por peso.”
+(Newcomb in BORTOLOSSI, 2013a). Todavia, Alexander Graham Bell, cientista, escritor,
+inventor e fundador da companhia telefônica Bell, propôs um modelo de pipa
+aerodinamicamente estável e cujo tamanho pode ser aumentado mantendo-se constante a
+razão eficiência por peso. A ideia de Graham Bell era utilizar células tetraédricas. Teria,
+então, Graham Bell construído um aparato que viola o argumento proposto por Simon
+Newcomb? O presente trabalho visa responder a esta indagação e explorar as propriedades
+geométricas encontradas no objeto voador construído por Graham Bell, evidenciando os
+diversos conceitos matemáticos que a pipa tetraédrica apresenta, propondo uma abordagem
+divertida da Matemática. Para tanto, construímos pipas tetraédricas de diferentes tamanhos e
+comprovamos que estas, de fato, podem alçar vôo. De posse deste resultado, apresentamos a
+história de Graham Bell e Simon Newcomb, visando entender como deu-se a construção
+tanto da pipa tetraédrica quanto do conceito de Newcomb e suas implicações à época e um
+estudo detalhado dos conceitos matemáticos que justificam e formalizam o “embate
+científico” entre Graham Bell e Newcomb. Porém, a semelhança de sólidos geométricos,
+áreas e volumes e a releitura do princípio de Newcomb, prova que a pipa tetraédrica de
+Graham Bell não viola o argumento proposto, uma vez que a espessura das arestas da pipa
+não aumentam proporcionalmente ao comprimento. Dessa forma, verificamos que ambos
+obtiveram sucesso em suas pesquisas e construções, Graham Bell, de fato, construiu um
+objeto capaz de alçar vôo e que pode ser ampliado tanto quanto seja necessário e Simon
+Newcomb ao divulgar um argumento verídico.
+
+Palavras-chave: Pipa tetraédrica; Graham Bell; Simon Newcomb;
+
+48
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PISCINA INTELIGENTE CONTRA AFOGAMENTOS
+Heloisa Schiffel Mariano, Bianca Regina, Maria Eduarda Picinini
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+helo.schiffel123@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. No Brasil é a segunda causa de morte e a oitava de hospitalização, por acidentes, na
+faixa etária de 1 a 14 anos. Segundo Ministério da Saúde, em 2005, 1.496 crianças de até 14
+anos morreram vítimas de afogamentos. É importante salientar que os perigos não estão
+apenas nas águas abertas como mares, represas e rios. Para uma criança que está começando
+a andar, por exemplo, três dedos de água representam um grande risco. Assim elas podem se
+afogar facilmente em piscinas residenciais. O problema resumidamente é o grande risco que
+crianças pequenas têm de se afogar em piscinas, ocorrendo não só pela falta de atenção dos
+pais, mas também pela rapidez do acontecimento, que é maior que qualquer reflexo humano,
+lembrando que 30 segundos é o suficiente para um afogamento ou sérias sequelas cerebrais.
+O protótipo irá funcionar como um dispositivo de segurança para piscina, que quando
+acionado a uma distância de no mínimo um metro um sensor de presença irá atuar quando
+uma pessoa passar por ele. Com o sensor de presença atuado o Arduino irá receber esse sinal
+e atuar o motor que fará subir uma grade envolta da piscina.
+
+Palavras-chave: piscina;inteligente;afogamento;protótipo
+
+49
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PLATAFORMA DE DESENVOLVIMENTO DE BAIXO CUSTO
+Rafael Silva Cirino, Guilherme Cruz Moutinho
+Érico Pessoa Félix (orientador), Nilson Roberto Inocente Junior (coorientador)
+rafacirino@live.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. A plataforma Arduino® tem sido usada para desenvolvimento de projetos
+eletrônicos desde 2005. Apesar de seu custo não ser extremamente elevado é possível
+construir placas semelhantes por menos da metade de um Arduino® original. Isto é possível
+pois o Arduino® possui seu projeto totalmente disponível, ou seja, trata-se de um projeto de
+fonte aberta. O presente trabalho tem como objetivo projetar e construir uma placa de
+desenvolvimento do tipo Arduino®, com eletrônica necessária para controle de motores de
+corrente continua e comunicação Bluetooth já incorporadas. Foram adquiridos os
+componentes e desenvolvido o projeto de uma placa de circuito impresso para a construção
+da placa. Finalmente serão realizados os testes necessários para se garantir que a placa
+desenvolvida cumpra todas as funções de um original. Espera-se com este projeto gerar o
+conhecimento necessário para que os alunos possam construir suas próprias placas de
+desenvolvimento, reduzindo assim os custos de seus projetos.
+
+Palavras-chave: Robótica; Arduino; Microcontroladores.
+
+50
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PROPORÇÃO ÁUREA: A MATEMÁTICA POR DETRÁS DO BELO
+Luís Guilherme Pinto, Gabriel Albinati Sandrini, Vinicius Bento de Souza
+Diana Terezinha Amaro (orientador)
+luguiguilherme@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Por meio do estudo da Geometria no que tange a Proporção Áurea, pudemos notar a
+sua presença à nossa volta, tanto nas obras de arte e construções quanto na natureza, o qual é
+justificado porque o cérebro humano interpreta como belo as formas que obedecem a esta
+proporção. Com isso, a Proporção Áurea serviu de base para o desenvolvimento de aparelhos
+odontológicos, design de websites e máscaras de photoshop. Por outro lado, percebendo a
+grande dificuldade que inúmeros alunos trazem com relação à Matemática, vimos na
+Proporção Áurea uma possibilidade de não só evidenciar a presença desta área do
+conhecimento em nosso cotidiano, mas também apresentar a Matemática de forma
+interessante e atrativa. Com isso, pretendemos despertar o interesse pela Matemática e
+quebrar certos paradigmas de preconceito quanto à mesma.
+
+Palavras-chave: Razão Áurea; Mátematica; cotidiana
+
+51
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PULSEIRA ELETRÔNICA PARA PREVENÇÃO DE ACIDENTES COM
+CRIANÇAS.
+Leonardo Ferreira Lima, Vanessa Terra Sabino dos Santos
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+leo2875419@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O projeto consiste em duas pulseiras com comunicação de Rádio Frequência,
+quando a comunicação entre as pulseiras é rompido o circuito ativa o buzzer, o led e um
+vibrador em ambas as pulseiras, mostrando que a responsável e a criança se afastaram além
+de uma distância segura. O projeto será realizado no laboratório da escola e em situaçõs reais
+de forma a comprovar a eficácia do protótipo. Os primeiros testes serão realizados na
+protoboard, no qual validares o pleno funcionamento do projeto.O projeto foi pensado a
+partir de dois problemas,o primeiro se trata do risco de perda de crianças em lugares
+movimentados. Segundo uma reportagem foi realizada uma pesquisa que demonstra que em
+apenas segundos de descuido a criança pode ser perdida ou sequestrada. Também ocorre de
+pais esquecerem os filhos dentro do carro. Segundo uma reportagem a necessidade de um
+modo eficiente de evitar que as crianças sejam esquecidas ou fiquem perdidas. O problema
+se estende por todo o mundo, como no exemplo citado nos EUA 40 crianças morrem por ano
+dentro de carros,basta apenas 30 minutos para que a temperatura varie 80%.A maioria desses
+problemas ocorrem por descuido dos reponsáveis. Pensando nisso, a pulseira será
+desenvolvida com uma limitação pequena na distancia entre o responsavel e da criança de
+modo que não ocorra um distânciamento grande entre eles.
+
+Palavras-chave: Pulseira
+
+52
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+REUTILIZADOR DE ÁGUA DA CHUVA E DE MAQUINA DE LAVAR
+Henrique de Souza, Matheus Ferreira, Davi Cardoso
+Bruno do Amaral (orientador)
+henrique.desouza2000@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. O projeto visa reutilizar a água dá chuva e a água que sai das maquinas de lavar
+porque as pessoas esquecem dessa água, e ele pode fazer um papel fundamental se for bem
+reutilizada. O projeto se baseia em tanques de armazenamento, cujo a água da chuva vai
+descer po calhas e canos até chegar nesses tanques e a água da maquina de lavar irá passar
+por canos e pela mangueira da própria maquina até chegar nos tanques. Nesses tanques terá o
+filtro para tirar algumas impurezas dá água e um bomba de nivel pra mostrar quando os
+tanques se enxerem. Após isso essa água pode ter varios destinaos, como descarga, lavagem
+de quintal e até mesmo regagem de plantas, pra cada coisa dessa terá uma ligação de
+mangueiras e canos especificos para que possa chegar ao local correto. Em tese o projeto usa
+apenas componentes básicos e facéis de achar, um projeto que é bem utíl nos dias de hoje
+com esse enorme desperdicio de água que estamos enfrentando.
+
+Palavras-chave: Reutilizador de água
+
+53
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SENSOR DE ENCHENTES
+Renata Maria Borba Leite Proença, Juliane Sobral Caldato, Guilherme da Silva Barbosa
+de Souza
+Bruno do Amaral (orientador), Nayari Marie Lessa (coorientador)
+renatashimi@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Como em muitos lugares há enchentes, pensamos em uma forma de precaução é um
+Sensor de Enchentes. De acordo com dados de um site, estatísticas de Janeiro de 2011 a
+Dezembro de 2014, o estado de São Paulo ocupou o primeiro lugar no ranking com mais de
+33% das ocorrências de enchentes. Santa Catarina ocupou o segundo lugar com 11% e Rio
+Grande do Sul com 9%. Alguns dos problemas causados pelas enchentes são deslizamentos,
+prejuízos nos imóveis, mortes por afogamento, etc.O projeto se constitui de dois eletrodos
+que funcionarão como sensores de nível, no qual seu funcionamento pode se basear como
+uma chave que quando a água passar por seus terminais irá fecha-la atuando o sistema de
+alarme. Todas as etapas de execução e criação do protótipo serão realizas na Instituição.
+Sendo uma das primeiras etapas a montagem do circuito na protoboard e a montagem de um
+reservatório com os sensores de nível, para fins de testes. Após essas primeiras etapas será
+soldado o circuito na placa e a montagem de uma maquete final para a apresentação do
+protótipo.
+
+Palavras-chave: Enchentes;Água;Prevenção;Segurança
+
+54
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SÉRIES, SEQUÊNCIAS E LIMITE: UMA ABORDAGEM VOLTADA AO
+ENSINO MÉDIO
+Eliezer Taffuri Rosa
+Diana Terezinha Amaro (orientador)
+eliezer.rosa@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Motivados pelo estudo da série de Grandi (S= 1-1+1-1+1….) e suas curiosidades,
+despertou-se o interesse pelo estudo de outras séries e sequências. Durante o estudo da Série
+de Grandi, apresentado durante a V Bragantec, surgiu a necessidade do estudo mais
+detalhado de sequências e séries. Contudo, este estudo demandava o conceito de limite, que é
+um dos primeiros fundamentos da disciplina de Cálculo, a qual está presente em grande parte
+dos cursos voltados às Ciências Exatas. Através do estudo deste conceito, que é aplicável
+não só em séries e sequências, mas também em outras áreas, nos deparamos com suas
+próprias curiosidades e peculiaridades, as quais podem esclarecer e motivar o interesse pela
+matemática.
+
+Palavras-chave: Séries; Sequências; Limite;
+
+55
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SISTEMA DE LOCOMOÇÃO PARA DEFICIENTES VISUAIS
+Samuel Batista Souza
+SÉRGIO RICARDO PACHECO (orientador)
+samsouza98@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. De acordo com o censo realizado em 2010 pelo Instituto Brasileiro de Geografia e
+Estatística (IBGE) existem 6,5 milhões de brasileiros com deficiência visual, sendo 582 mil
+cegos. Um dos grandes problemas enfrentados por eles é a questão da locomoção em
+ambientes abertos, como praças e ruas, onde existe uma infinidade de obstáculos diferentes
+que muitas vezes equipamentos como bengalas, que os auxiliam a encontrar obstáculos
+próximos, podem falhar, ocasionando acidentes. Baseando-se nessas falhas, o projeto
+consiste em diversos sensores e vibradores que dispostos em diversas regiões do corpo
+detectam objetos de diferentes tipos e tamanhos e os sinalizam para o usuário.
+
+Palavras-chave: Deficiência Visual; Sensoriamento; Locomoção
+
+56
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SISTEMA PARA TESTE DE VALIDAÇÃO DE UM SENSOR DE
+ACELERAÇÃO
+Larissa Martins de Paula
+Tainara Martins de Paula (orientador)
+larissampaula@hotmail.com
+Escola Estadual Doutor Vicente Rizzo
+
+RESUMO. Atualmente, o uso da tecnologia está amplamente disseminado e há cada vez mais o
+uso de dispositivos eletrônicos para a realização de medidas de diversos parâmetros, os
+sensores, em grande quantidade de processos de automatização nos mais diferentes setores.
+Os sensores eletrônicos de aceleração, também conhecidos como acelerômetros, são muito
+utilizados. Sua saída, ou seja, os valores brutos de medição, é dada em tensão elétrica de
+valor proporcional à aceleração em relação à gravidade (g), já que a composição estrutural
+do sensor baseia-se em um circuito elétrico ou eletrônico. Porém, ao aplicar diretamente este
+sensor em qualquer projeto não tem como se comprovar que suas medidas são equivalentes à
+realidade, o que põe em risco a confiabilidade da aplicação e, além disso, pode gerar
+resultados errôneos. Em razão disso, propõe-se o desenvolvimento de um sistema simples, de
+baixo custo de controle de velocidade de um motor de corrente contínua e monitoramento de
+sua aceleração através do sensor com uma interface virtual que permite a interação do
+usuário com o sistema para a realização de testes que validem o uso do sensor. Para isso,
+aplica-se uma velocidade conhecida ao motor pelo método PWM e um pequeno sensor de
+aceleração é acoplado a um disco rotatório vinculado ao mesmo e a partir do envio das
+medidas coletadas pelo ADC interno um microntrolador ao computador é possível comparar
+a aceleração medida com a aceleração calculada pela interface usuário-máquina a partir da
+velocidade configurada. Com isso, tem-se um sistema para testar e validar as medidas de um
+acelerômetro, tornando sua aplicação confiável e com resultados corretos.
+
+Palavras-chave: acelerômetro; motor dc; teste de validação
+
+57
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+TREM MAGLEV
+Sabrina Faria Godoi, Tamara Lopes Rodrigues da Silva
+Roberto Sidney Fahl de Oliveira (orientador)
+
+Escola Estadual Professor Luiz Roberto Pinheiro Alegretti
+
+RESUMO. Nos dias atuais, a preocupação com assuntos relacionados a sustentabilidade,
+tecnologia e novas possibilidades ou melhorias sobre aquilo que já existe, ou de repente algo
+novo, nos faz refletir sobre as diversas áreas relacionadas às atividades humanas. Uma delas
+é o transporte, que vem sendo um grande vilão tanto nas questõs ambientais assim como na
+ocupação de espaço e gasto de tempo para se locomover de um ponto para outro. Neste
+sentido temos o trem maglev, um veículo de levitação magnética com o objetivo de
+revolucionar o transporte coletivo com alta tecnologia, eficiênte, não poluente e de custo
+acessível para grandes centro urbanos. O maglev apresenta um custo energético equivalente
+a apenas 13% do consumo médio de onibus urbano, em comparação com um transporte
+individual apresenta valores ainda mais significativos. Em relação a infraestrutura, a
+instalação do trem de levitação pode custar o equivalente a um terço do valor de um metrô
+subterraneo. Os estudos relacionados ao trem de levitação Maglev tem o objetivo de
+apresentar e explorar seus princípios físcos afim de disseminar e consciêntizar as pessoas
+sobre novas possibilidades que venham a contribuir com o meio em que vivemos e trazer
+melhorias para a qualidade de vida das pessoas e de repente despertar o interesse de pessoas,
+empresas ou orgãos públicos sobre a implementação de algo neste sentido.
+
+Palavras-chave:
+
+58
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+VEÍCULO ROBÓTICO PARA MONITORAMENTO DE LOCAIS DE DIFÍCIL
+ACESSO
+Leonardo Cardoso VillasLobo, Guilherme Cardoso Oliveira, Flavio Cezar Amate
+Leonardo Ribeiro (orientador)
+kiritokun244@gmail.com, leonardoribeiro203@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Os ROVs são veículos operados a distância com a finalidade de busca e pesquisa
+em locais onde existe risco para pessoas. Existem diferentes aplicações possíveis que vão
+desde veículos subaquáticos operando em profundidades de altas pressões até locais com
+exposição a radiação ou mesmo escombros. Sendo assim, neste trabalho foi desenvolvido um
+veiculo pelo smartphone para monitoramento de vazamentos de gás em locais onde uma
+pessoa não consiga se movimentar devido as dificuldades de acesso. Para desenvolvimento
+do aplicativo de controle foi utilizado a propria IDE do arduino que permite a codificação e o
+upload diretamente através da conexão USB do computador. Para desenvolver o software
+que integra do dispositivo móvel foi utilizada a ferramenta MIT app Inventor que posibilita o
+desenvolvimento de aplicações Android de forma rápida através da ligação de blocos
+lógicos. Sendo assim, o veiculo desenvolvido permitiu executar medidas atravez dos
+sensores HC-06, DHT-22, MQ-2 e HC-SR04 possibiltando o monitoramento destas variaveis
+á distância.
+
+Palavras-chave: Remotely Operating Vehicle; Arduino; Android
+
+59
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+ZOOM: CONSTRUÇÃO DE UMA MÁQUINA CNC DE BAIXO CUSTO PARA
+PRODUÇÃO DE PLACAS DE CIRCUITO IMPRESSO.
+Raul Galdino Tancredo, Bruno Watanabe, Clara Rodrigues Moreira
+Nilson Roberto Inocente Júnior (orientador)
+raul_tancredo@hotmail.com, inocente@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Este projeto busca o desenvolvimento de um equipamento destinado a facilitar a
+confecção de placas eletrônicas, muitas vezes chamadas de placas de circuito impresso
+(PCI), para projetos interdisciplinares das comunidades interna e externa do Instituto Federal
+de Educação, Ciência e Tecnologia de São Paulo (IFSP), Campus Salto.O equipamento a ser
+desenvolvido se trata de uma máquina CNC que pode ser controlada/programada através de
+um computador. Para o controle da máquina, utiliza-se Arduino UNO e uma Shield CNC,
+placa extensora de funções compatível com Arduino. Para que uma placa eletrônica seja feita
+na máquina, primeiramente deve ser desenvolvido o projeto de placa eletrônica em algum
+software dedicado (EAGLE, ISIS Proteus/Ares, Ultiboard, Altium) que consiga, a partir do
+modelo virtual da placa, gerar uma extensão de arquivo chamada GERBER (arquivos .txt
+com as coordenadas das trilhas). Utilizando esses arquivos, outro software chamado
+CopperCAM cria um modelo virtual de uma placa de fenolite cobreada onde o circuito é
+desenhado e é feita a simulação das trilhas. Depois de definidas as dimensões da ferramenta,
+trilhas e feita a simulação, o CopperCAM possibilita ao usuário salvar as trilhas da PCI em
+outro arquivo de texto que já informa a programação de código G, muito similar às de
+máquinas CNC presentes no mercado. A partir desse código G, um programa chamado
+Universal G Code Sender é responsável por estabelecer uma comunicação com o Arduino
+através da porta USB e passando assim, o código G para o Arduino. Dentro da placa
+microcontroladora, está presente a biblioteca GRBL (disponível na internet e que deve ser
+colocada dentro do Arduino) que interpreta o código G e controla os motores. Com esse
+projeto, também, espera-se contribuir para o FABLAB: conceito de laboratório que tem
+como proposta oferecer equipamentos capazes de trazer à realidade projetos de alunos e
+pessoas externas ao campus.
+
+Palavras-chave: Fresadora; CNC; PCI; FABLAB; GRBL;
+
+60
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+INFORMÁTICA
+
+61
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+APLICATIVO DE APOIO AOS ESTUDOS COM AUXÍLIO DE JOGOS PARA
+ALUNOS DO ENSINO MÉDIO.
+Heitor Michel Teixeira dos Santos, Thiago Jose Nascimento da Silva, Leonardo Silva
+Magalhaes Bueno
+Andre Luis Maciel Leme (orientador)
+heitorsantos93@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Muitos estudantes acabam esquecendo ou não tendo tempo para estudar. Um
+aplicativo móvel poderia ajudar muito, pois em qualquer lugar é possível abrir o aplicativo e
+estudar o conteúdo que o estudante quiser, isto poderia facilitar e ajudar o aluno a se sair
+melhor em suas provas. Baseado nesta ideia, um aplicativo para celular foi criado para
+auxiliar os estudantes em suas provas. Este aplicativo será composto por dois jogos, um de
+perguntas e respostas e o outro um jogo mais divertido, no qual só os estudantes que
+obtiverem determinada pontuação no primeiro jogo poderão ter acesso. Primeiramente, o
+estudante devera escolher a matéria de sua prova e estudar pelo tempo que ele desejar, e
+somente após responder as questões neste primeiro jogo, poderá acessar o segundo. O
+primeiro jogo foi desenvolvido na plataforma Appinventor, que é uma ferramenta para
+desenvolvimento de aplicativos móveis criada pelo MIT juntamente com a Google. O
+segundo jogo foi feito na plataforma Unity, que é uma ferramenta comercial própria para
+desenvolvimento de jogos.
+
+Palavras-chave: Informatica,Educação,Aplicativo
+
+62
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+AUTOMAÇÃO DE CONTROLE ACADÊMICO E ESCOLAR
+Felipe Amorim de Paula Andrade, Gilson Gabriel Coutinho Carvalho, Gustavo Brandão
+Silva
+Humberto Augusto Piovesana Zanetti (orientador), Leandro Felipe Carvalho
+(coorientador)
+hzanetti@gmail.com
+ETEC Rosa Perrone Scavone
+
+RESUMO. A partir da identificação dos problemas presentes no dia a dia escolar, se destaca a
+falta de controle no que se diz respeito ao controle da presença dos alunos em sala. Dessa
+forma, pensando em maneiras efetivas para solucionar o problema, foi desenvolvido um
+protótipo para identificar a presença dos alunos automaticamente no ambiente acadêmico. A
+partir de identificadores por rádio frequência, e de sensores previamente instalados, será
+possível sistematizar, através de softwares desenvolvidos, a frequência dos discentes. Após a
+conclusão do projeto, pretende-se realizar testes em ambientes reais para que ocorra o devido
+aprimoramento do protótipo em desenvolvimento. É possível também, com o
+encaminhamento correto da proposta, aplicar o produto desenvolvido em outros ambientes,
+como eventos, jogos, festas, entre outros. Visando sempre o controle no que se diz respeito a
+presença dos indivíduos.
+
+Palavras-chave: automação; rfid; arduino; controle de presença
+
+63
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DESENVOLVIMENTO DE JOGOS PARA O ENSINO DE CIÊNCIAS NO
+ENSINO FUNDAMENTAL A PARTIR DE LIBRAS
+Rebeca Molieri Barbosa, Julyana Santos Fraga
+Elisandra Aparecida Alves da Silva (orientador)
+rebecamb05@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Segundo as Diretrizes Nacionais (2001), por muito tempo, o diferente (como os
+surdos) foi colocado à margem da educação. Neste contexto, os Parâmetros Curriculares
+Nacionais (PCNs, 1997) ressaltam a importância que as Ciências Naturais e a Matemática
+desempenham na construção da cidadania, enfatizando a participação crítica e a autônoma do
+aluno. Pontuam também que diferentes métodos ativos despertam o interesse dos estudantes
+pelos conteúdos que não são possíveis ao se estudar apenas em um livro. (PCNs, 1998, 3º e
+4º ciclos, p.27). Nota-se que o jogo, como uma forma natural de aprendizado lúdico, pode se
+tornar um grande aliado da educação, desde que possua um objetivo pedagógico.A partir
+deste cenário, esta pesquisa visa a elaboração de um jogo a fim de apoiar o professor de
+crianças surdas ou com déficit auditivo durante as aulas de Matemática e Química no ensino
+Fundamental a partir da LIBRAS.Para o desenvolvimento do jogo, a game engine escolhida
+foi a Unity 5, que mostra-se fácil e programa para diversos sistemas operacionais.
+Resultados: Foi realizado a elaboração do GDD (Game Design Document), criação da arte
+do jogo (cenários e personagens), uma introdução à game engine e elaboração do
+contexto/história do jogo (que acontecerão em cenários fantasiosos que visam chamar a
+atenção dos alunos sintam prazer em aprender) para que e programação dos conteúdos a
+serem aplicados.
+
+Palavras-chave: Jogos; Ciências; LIBRAS
+
+64
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+DESENVOLVIMENTO DE UM JOGO QUE AUXILIA NO ENSINO DE
+LIBRAS POR MEIO DE EXERCÍCIOS DE MNEMÔNICA.
+Isabella Domingues de Oliveira, Raphael Alves Brasil, Leonardo Gomes Spina
+Wallace Gattinoni de Moraes (orientador), Eliane Andreoli G dos Santos (coorientador)
+bellinha0012@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. O projeto consiste em fazer um jogo de plataforma para auxiliar o ensino de libras a
+surdos (ou interessados). Para isso será necessário o estudo de quais são as reais dificuldades
+dos deficientes auditivos, como é o processo de aprendizagem e inclusão da língua a ele e as
+pessoas ao seu redor, buscando entender as barreiras proporcionadas em cada uma dessas
+etapas. Após o estudo do público alvo e a elaboração do GDD (Game Design Document), o
+jogo enfim passará a ser desenvolvido através da ferramenta Construct 2 Free. O
+desenvolvimento durará cerca de 3 meses, e no final desse processo o protótipo do jogo
+estará pronto e hospedado em um site feito para o projeto.
+
+Palavras-chave: LIBRAS; jogo; auxilio; educação; aprendizado
+
+65
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+MÉDICO FÁCIL
+Gabriel de Oliveira Santos, Matheus Esteves Zanoto, Dorival Alves da Silva Junior
+Andréia Cristina de Souza (orientador), Simone Pierini Facini Rocha (coorientador)
+gabrielsantosrv@outlook.com
+Universidade Estadual de Campinas Colégio Técnico de Campinas
+
+RESUMO. O nosso trabalho se enquadra no âmbito social e aborda os principais problemas
+relacionados à área da saúde no Brasil: a demora nos processos burocráticos de marcação de
+consultas em clínicas e nos atendimentos médicos em pronto socorros. Procuramos entender
+melhor as relações entre médico, paciente e administrador para que adentrássemos no
+contexto dos hospitais e pudéssemos obter resultados mais relevantes. Os objetivos deste
+projeto baseiam-se em tornar mais ágil e dinâmica a marcação de consultas, fornecer ao
+paciente dados sobre médicos, especialidades, centros médicos e atendimentos em
+determinado dia e horário e beneficiar a organização do médico e do administrador. Todos
+esses benefícios serão fornecidos através de uma plataforma virtual de atendimento ao
+paciente e organização dos profissionais da saúde. Nosso trabalho foi realizado tendo em
+vista dois contextos diferentes: clínica e prontos-socorro. Em ambos os casos, dividimos o
+projeto em aplicativo Android e web site. No aplicativo, o paciente poderá visualizar centros
+de atendimento médico (clínica e pronto-socorro) em um mapa e pesquisá-los conforme o
+nome e as especialidades médicas presentes. Para cada instituição que for exibida,
+poderemos obter informações relevantes da mesma como localização, convênios médicos,
+dados dos médicos de plantão (para pronto socorro) e dos médicos fixos (para clínica), seus
+horários de atendimento e especialidades. Além disso, o paciente poderá marcar uma
+consulta pelo próprio aplicativo através da seleção da clínica, do médico, da especialidade e
+do horário disponível, bem como desmarcá-la ou alterá-la. No web site, o administrador do
+sistema terá acesso à visualização e alteração de dados referentes aos médicos, à visualização
+dos horários desses médicos e de todos os pacientes e consultas. O médico também poderá
+acessar a plataforma web para a manutenção dos seus horários de atendimento e para
+visualização das consultas que o envolvem na clínica. O sistema também possui mais uma
+funcionalidade: a assinatura do ponto por médicos em pronto socorros através de leitura
+biométrica. Há um programa desktop que obtém as digitais do profissional e através disso
+colhe as informações principais dele, associando-as ao dia e horário em que se assinou o
+ponto, tanto no início quanto no fim do plantão. Esse sistema ainda está em processo de
+desenvolvimento e, portanto, ainda não notamos resultados visíveis em âmbito real nos
+próprios centros de saúde. Todavia, observamos claramente a sua importância para a
+evolução da ciência e da tecnologia: através da pesquisa, do trabalho em equipe e da
+tentativa de criação de ferramentas inovadoras que auxiliem na vida social cotidiana e nos
+seus processos burocráticos e desgastantes. Por meio de softwares como esse, boa parte dos
+problemas sociais, como na área da saúde no Brasil, poderão ser minimizados e a tecnologia
+de informação e comunicação começará a interpretar as ações e os conflitos humanos.
+Palavras-chave: médico fácil; saúde; social
+
+66
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+MEDMAP
+Diego Abrantes Lima, Antônio Melo Ramirez, Felipe Ferreira dos Santos
+Gilberto Alves da Rosa Junior (orientador)
+diegosantos.abrantes@gmail.com
+ETEC Monte Mor
+
+RESUMO. O site "MEDMAP" é uma plataforma de busca a locais de atendimento, onde os
+usuários poderão digitar o especialista que precisam ser atendidos, e o sistema retornará os
+locais de atendimento mais próximos, informando o endereço, horário de funcionamento e a
+localização no mapa do local. Visto que muitos sites ou catálogos não oferecem informações
+completas ou atualizadas, faz-se necessário a criação de uma nova ferramenta de buscas
+focada no atendimento médico. Segundo os especialistas questionados pelo grupo, é
+indubitável de muita valia a criação de uma ferramenta que forneça locais próximos de
+atendimento a diversas especialidades de saúde, principalmente para atendimento em locais
+públicos, onde ocorrem maiores atrasos, ou não possui o especialista necessário para o
+atendimento de determinadas pessoas, o que gera uma viagem sem resultado ao centro de
+atendimento. O site tem como objetivo oferecer os locais de atendimento presentes na cidade
+de Monte Mor, local onde o sistema está sendo desenvolvido. Para o desenvolvimento deste
+site, será realizada programação em ferramentas para linguagem de internet, como HTML
+(Linguagem de Marcação de Hipertexto, que é utilizada para a programação de páginas de
+texto), CSS (linguagem que atribui estilo ao site), e outras secundárias que trabalharão em
+conjunto a estas duas. Também pretende-se desenvolver uma versão móvel do serviço.
+
+Palavras-chave: Localização, Saúde, Atendimento
+
+67
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+OUVITRONIC-DISPOSITIVO DE AUXÍLIO PARA DEFICIENTES
+AUDITIVOS
+Rodrigo Araújo Costa, Leonardo Fumagalli
+Bruno do Amaral. (orientador), Nayari Marie Lessa (coorientador)
+rodrigoaraujo156@outlook.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Utilizamos constantemente ferramentas desenvolvidas para favorecer as atividades
+do cotidiano, que são instrumentos que facilitam nosso desempenho em determinadas
+funções. Assim, o objetivo do dispositivo é proporcionar com que a pessoa com deficiência
+tenha maior independência, qualidade de vida e inclusão social, por meio da maior
+comunicação, mobilidade, controle de seu ambiente, habilidades de seu aprendizado e
+trabalho. Em sentido amplo percebe-se que a evolução tecnológica caminha na direção de
+tornar a vida do deficiente mais fácil. O propósito do projeto é facilitar o deficiente auditivo
+a se localizar e auxiliar em tarefas diárias. Considera-se que essa ferramenta, contribuirá para
+minimizar os problemas enfrentados, podendo integrá-lo ao ambiente cotidiano,
+possibilitando percepções e visualizações de ruídos sonoros, embora não existam
+demonstrações de resultados parciais em virtude do início da construção do protótipo. Este
+será utilizado pelo surdo mediante pulseira e/ou por um dispositivo celular que fará a
+comunicação por um sistema bluetooth com o dispositivo que integra o protótipo. Esse
+dispositivo terá um microfone que ao identificar um alerta sonoro irá se comunicar com a
+pulseira ou o celular. Ao receber o sinal através de comunicação sem fio, a pulseira vibrará
+intensamente em intervalos sequenciais e acenderá leds, formando uma mensagem de aviso
+ao deficiente. A proposta futura do trabalho é reunir diversos elementos de ruídos diferentes
+do ambiente de captação do microfone para ocorrer à integração e identificação desses
+ruídos, necessário se torna reconhecer um padrão sonoro, utilizando softwares de
+reconhecimento de voz e os diferentes tipos de ruídos detectados pelo microfone no
+ambiente do surdo. Assim, se possibilitará a identificação do tipo de ruído captado pelo seu
+ambiente.
+
+Palavras-chave: dispositivo; inclusão;deficiente.
+
+68
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PROTÓTIPO DE APLICATIVO PARA O AUXÍLIO NA ALFABETIZAÇÃO DE
+CRIANÇAS COM TRANSTORNO DO DÉFICIT DE ATENÇÃO COM
+HIPERATIVIDADE (TDAH)
+Letícia Aparecida Pereira Lisboa, Daniela de Lima Souza
+Talita de Paula Cypriano de Souza (orientador), Maria de Lourdes da Silva (coorientador)
+liisboaleticia@gmail.com, talitapcypriano@gmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Crianças diagnosticadas com Transtorno do Déficit de Atenção com Hiperatividade
+(TDAH) sofrem com dificuldade de concentração e apresentam atitudes de hiperatividade e
+impulsividade. O diagnóstico normalmente é feito na infância e seus sintomas causam
+impacto na vida escolar e no seu aprendizado. O tratamento pode ser feito com o uso de
+medicação combinado com terapia. A disciplina de Interação Humano-Computador (IHC) se
+preocupa com os aspectos humanos aplicados nos sistemas interativos, definindo um
+conjunto de técnicas e diretrizes para a elaboração de interfaces que atendam as necessidades
+dos usuários. Nesse contexto, o objetivo deste projeto é aplicar os conceitos de IHC para a
+elaboração do protótipo de um aplicativo que auxilie na alfabetização de crianças com
+TDAH. O aplicativo será modelado na forma de um jogo, no qual a criança será incentivada
+a realizar tarefas dentro do contexto de lições de alfabetização. Para a realização do projeto
+será feita uma pesquisa bibliográfica, em seguida um levantamento de requisitos baseado no
+perfil do grupo de usuários, no caso crianças com TDAH, e por fim a elaboração dos esboços
+e protótipos funcionais seguindo as diretrizes de IHC
+
+Palavras-chave: IHC, jogos educativos, TDAH
+
+69
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+PROTÓTIPO DE APLICATIVO PARA O AUXÍLIO NO APRENDIZADO DE
+BIOLOGIA DE ADOLESCENTES COM TRANSTORNO DO DÉFICIT DE
+ATENÇÃO COM HIPERTIVIDADE (TDAH)
+Julia Noriko Ohashi, Mariana Pereira, Talita de Paula C. de Souza
+Maria de Lurdes da Silva (orientador)
+julianoriko@gmail.com, malusilva75@uol.com.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+
+RESUMO. Jovens diagnosticados com Transtorno do Déficit de Atenção com Hiperatividade
+(TDAH) sofrem com dificuldade de concentração e apresentam atitudes de hiperatividade e
+impulsividade. O seu diagnóstico é feito na infância e normalmente a acompanha por toda
+vida. Além disso, seus sintomas causam impacto na vida escolar e no seu aprendizado. O
+tratamento é feito com o uso de medicação e abordagem psicoterápica. A disciplina de
+Interação Humano-Computador (IHC) se preocupa com os aspectos humanos aplicados nos
+sistemas interativos, definindo um conjunto de técnicas e diretrizes para a elaboração de
+interfaces que atendam às necessidades dos usuários. Nesse contexto, o objetivo deste
+projeto é aplicar os conceitos de IHC para a elaboração do protótipo de um aplicativo que
+auxilie no aprendizado da disciplina de biologia, para os adolescentes com TDAH. O
+aplicativo será modelado na forma de um aplicativo, o qual auxiliará nos estudos do
+conteúdo da disciplina, por meio de textos e imagens organizados e em seguida a realização
+de exercício, tais como quiz. Para a realização do projeto será feita uma pesquisa
+bibliográfica, em seguida um levantamento de requisitos baseado no perfil do grupo de
+usuários, no caso adolescentes com TDAH, e por fim a elaboração dos esboços e protótipos
+funcionais seguindo as diretrizes de IHC.
+
+Palavras-chave: Jovens; TDAH; aplicativo.
+
+70
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SISTEMA DE APOIO AOS DEFICIENTES VISUAIS EM COMÉRCIOS
+Rafaela Pelisson Euflásio, Thaíssa Rojas Pereira, Thais Freire
+Humberto Augusto Piovesana Zanetti (orientador), Leandro Felipe Carvalho
+(coorientador)
+hzanetti@gmail.com
+ETEC Rosa Perrone Scavone
+
+RESUMO. A visão é um dos sentidos mais importantes para se relacionar com o mundo,
+entretanto, para os que possuem a cegueira, sua relação com o ambiente externo não é
+claramente acessível. Deficientes visuais passam por dificuldades em sua rotina diária, já que
+estabelecimentos comerciais, muitas vezes, não estão preparados para receber pessoas com
+essa deficiência. Analisando a dependência dos deficientes visuais em comércios,
+principalmente em supermercados, o objetivo desse projeto foi desenvolver um dispositivo
+que irá auxiliar o individuo para que seja capaz de fazer suas compras de maneira
+independente. Como resultado deste projeto, será desenvolvido um dispositivo que possa ser
+entregue aos deficientes assim que entrarem no estabelecimento. O equipamento será
+desenvolvido na plataforma Arudino, e fará a leitura de uma etiqueta inteligente RDIF
+(Radio-Frequency Identification) para identificação do produto. Esse dispositivo fará a
+comunicação com um dispositivo móvel, que estará em posse do deficiente, e u aplicativo na
+plataforma Android terá as informações necessárias sobre os produtos, como por exemplo,
+categoria do produto, informações nutricionais, marca do produto, validade, fabricação, entre
+outros. Essas informações serão descritas verbalmente( arquivos de áudio) por um aplicativo
+móvel, que terá uma comunicação por bluetooth com o dispositivo de litura das etiquetas.
+Com esse conjunto de tecnologias, é esperado prover a inclusão social aos deficientes visuais
+em comércios, auxiliando em sua autonomia e independência.
+
+Palavras-chave: rfid; arduino; aplicativo móvel; cegueira; inclusão social
+
+71
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+SISTEMA DE GERENCIAMENTO DE SEGURANÇA RESIDENCIAL
+AUTOMATIZADO
+Gabriel da Silva, Gabriel Malaquias, Gustavo de Souza
+Ricardo Dantas Dematte (orientador)
+dematte@ifsp.edu.br
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto
+
+RESUMO. Sistema de monitoramento residencial com sensores Arduino conectados a um
+aplicativo de gerenciamento de invasões residenciais desenvolvido em Java utilizando banco
+de dados Postgre
+
+Palavras-chave: Automação residencial
+
+72
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+SOFTWARE DE INTEGRAÇÃO A LIBRAS (SIL)
+Adriana Yumi, Gustavo Soldado Peres, Juliana Thomaz
+Sergio Montagner (orientador)
+drikha.yumi@gmail.com
+ETEC Atibaia Professor Carmine Biagio Tundisi
+
+RESUMO. Atualmente, um fator preocupante em nosso país é a ineficiência dos poucos
+recursos na área da educação voltados à Língua Brasileira de Sinais (LIBRAS) que é o
+segundo idioma oficial do Brasil. Para suprir esta carência surgiu a idéia de conceber e
+desenvolver um Software de Integração a Libras (SIL). Criado no ano de 2015 pelos alunos
+do ensino médio da Etec Atibaia Prof. Carmine Biagio Tundisi, o software tem o propósito
+de facilitar o aprendizado e permitir a disseminação do idioma. Para alcançarmos este
+objetivo, foi desenvolvido um personagem que atua como um interprete virtual, modelado
+através de softwares específicos, capacitado a ensinar sinais básicos da LIBRAS. A estrutura
+que permitirá o acesso dos usuários ao programa foi construída através das linguagens de
+programação voltadas para web. A primeira aplicação do que viria ser mais tarde o SIL, foi
+realizado em uma escola de libras, sendo visíveis os resultados, o que demonstrou a
+eficiência do projeto. Partindo do princípio de que o projeto ainda está em desenvolvimento,
+este poderá trazer diversos resultados positivos, tais como, a ampliação dos primeiros
+resultados obtidos, promoção da acessibilidade aos que necessitam desta língua para
+comunicação e aproximação da mesma.
+
+Palavras-chave: libras, deficiencia, audição, sinais, aprendizado
+
+73
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+STRIGO – AMBIENTE VIRTUAL BASEADO NO ENSINO COLABORATIVO
+Bianca Vitória Rodrigues Moreira, Letícia Sayuri Kawakami, Pedro Miguel Bueno Leite
+da Silva
+André Luís dos Reis Gomes de Carvalho (orientador)
+andre@unicamp.br
+Universidade Estadual de Campinas Colégio Técnico de Campinas
+
+RESUMO. Strigo é uma plataforma educacional com base no ensino colaborativo. Atualmente,
+o mundo enfrenta uma situação na qual há um exorbitante número de 743 milhões de pessoas
+adultas que não tiveram acesso à educação por diversos fatores, dentre os quais se pode citar
+a falta de profissionais na área educacional, além das quatro milhões de crianças sírias fora
+das escolas por diversos outros fatores externos e internos. Assim, o desenvolvimento de um
+ambiente educacional que permite a difusão de conhecimentos técnicos, culturais e
+científicos se mostrou como uma importante alternativa para minimização dessa situação.
+Dessa forma, a plataforma Strigo possibilitará que qualquer indivíduo transmita
+conhecimentos específicos culturais, técnicos e ou científicos a partir da criação de cursos
+por um ou mais indivíduos de forma colaborativa, visando o compartilhamento do
+conhecimento e uma educação mais acessível, quebrando barreiras como idiomas – elemento
+que, muitas vezes, dificulta o aprendizado –; falta da necessidade de ambientes físicos para o
+aprendizado; entre outros.
+
+Palavras-chave: Ensino Colaborativo; Comunidades de Aprendizagem; EAD; AVA
+
+74
+
+Resumos da BRAGANTEC 2016
+© 2016, copyright by IFSP
+
+6º Feira de Ciência e Tecnologia – IFSP
+22-24 de setembro de 2016, Bragança Paulista, SP, Brasil
+
+UNI-CLICK SUA UNIVERSIDADE A UM CLIQUE DE DISTÂNCIA!
+Gabriela Lima Barbosa, Andressa Nascimento Toffanin, Matheus Antonio Cardoso Reyes
+André Luis Maciel Leme (orientador), Karin Kagi (coorientador)
+gabi_nerds@hotmail.com
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Bragança Paulista
+Escola Estadual Ministro Alcindo Bueno de Assis
+
+RESUMO. O projeto em questão aborda as dificuldades encontradas por estudantes que
+desejam ingressar na faculdade, mas que estão incertos de qual instituição seguir carreira
+estudantil. Além das instituições, o projeto oferece ao estudante opções de estado, município
+e curso que deseja cursar, exibindo as instituições que atendem aos critérios
+desejados.Simultânea á seleção da instituição, o usuário pode acessar o fórum de avaliações
+da mesma, mantido por alunos veteranos e professores da faculdade em questão, oferecendo
+diversas informações como se a localização, segurança e custo de vida são vantajosos para os
+futuros estudantes.Vale ressaltar que o Sistema de informação acadêmica visa auxiliar os
+futuros alunos em suas indecisões quanto á sua carreira acadêmica, proporcionando a eles
+interagir com pessoas que estiveram na mesma situação que eles e atualmente estão se
+graduando na instituição almejadas, tornando este contato real e benéfico para ambas as
+partes.
+
+Palavras-chave: Faculdade; Instituição; Estudantes;
+
+75
+
+

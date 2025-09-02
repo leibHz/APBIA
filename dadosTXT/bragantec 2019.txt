@@ -1,0 +1,2849 @@
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+RESUMOS da IX BRAGANTEC
+FEIRA DE CIÊNCIA E TECNOLOGIA DO
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA
+E TECNOLOGIA DE SÃO PAULO – CÂMPUS
+BRAGANÇA PAULISTA.
+ISSN 2526-9097
+
+De 19 a 21 de setembro de 2019 – IFSP Bragança Paulista.
+Comissão Organizadora
+Adilson Vitor Rodrigues
+Diana Terezinha Amaro
+Iara Leme Russo Cury
+Karin Kagi
+Maurício Costa Carreira
+Talita de Paula Cypriano de Souza
+Vitor Garcia
+
+Realização:
+
+Apoio:
+
+Bragança Paulista
+Setembro de 2019.
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+Publicação anual
+Evento organizado e realizado por:
+Instituto Federal de São Paulo - Câmpus Bragança Paulista
+Av. Major Fernando Valle, 2013
+São Miguel – Bragança Paulista
+CEP 12903-000
+Tel. (11) 4034. 7800
+
+IX BRAGANTEC – 2019
+Organização e realização
+Diretor Geral do Campus
+Prof. Dr. João Roberto Moro
+Diretor Adjunto Educacional
+Prof. Dr. André Marcelo Panhan
+Diretor Adjunto Administrativo
+Jade Schevenin
+Coordenadoria de Apoio ao Ensino
+Prof. Rosalvo Soares Cavalcante Filho
+Coord. de Registros Acadêmicos
+Camila Fátima dos Santos
+Coordenadoria de Extensão
+Prof. Enzo Gaudino Mendes
+Coordenadoria de Pesquisa
+Prof. Dr. Alexandre Jorge Fonseca
+Comunicação visual
+Me. Karin Kagi
+
+Comissão Organizadora
+Prof. Dr. Adilson Vitor Rodrigues
+Profa. Me. Diana Terezinha Amaro
+Profa. Dra. Iara Leme Russo Cury
+Me. Karin Kagi
+Prof. Me. Maurício Costa Carreira
+Profa. Me. Talita de Paula Cypriano de Souza
+Prof. Me. Vitor Garcia
+
+Comitê Técnico-Científico
+Prof. Dr. Adilson Vitor Rodrigues
+Profa. Me. Diana Terezinha Amaro
+Profa. Dra. Iara Leme Russo Cury
+Me. Karin Kagi
+Prof. Me. Maurício Costa Carreira
+Profa. Me. Talita de Paula Cypriano de Souza
+Prof. Me. Vitor Garcia
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+1. Apresentação
+Bem-vindos à Nona Feira de Ciências e Tecnologia do Instituto Federal de
+Educação Ciência e Tecnologia de São Paulo no Campus de Bragança Paulista, a IX
+BRAGANTEC, uma feira afiliada a FEBRACE – Feira Brasileira de Ciências e
+Engenharia e a MOP – Mostra Paulista de Ciências e Engenharia.
+Contamos com o apoio financeiro do Conselho Nacional de Desenvolvimento
+Científico e Tecnológico – Edital CNPq/MCTIC/SECIS Nº 27/2018 – Feiras de Ciências
+e Mostras Científicas – Abrangência Municipal. Contamos também com o apoio de
+empresas, empresários, comerciantes e indústrias da região:
+
+Nesta edição, após processo de avaliação, foram selecionados 83 trabalhos para
+apresentação. Além disso, este ano, a BRAGANTEC contou com 2 feiras afiliadas:
+• XIII MOCITEC - Mostra de Ciências e Tecnologias IFSul Câmpus
+Charqueadas – 1 projeto.
+• XVIII Mostra Científica do Colégio FAAT - 1 projeto.
+Totalizando 92 projetos apresentados na feira. Em 3 dias de apresentação mais de
+230 alunos de 27 escolas diferentes expondo trabalhos nas áreas de (I) Ciências da
+Natureza e Exatas, (II) Ciências Humanas e Linguagens e (III) Engenharias e (IV)
+Informática. Além disso, esperamos também a visita de cerca de 1200 alunos da rede
+estadual e municipal de ensino, pais e membros da comunidade local. Neste ano, o IFSP
+está sendo representado na feira com trabalhos dos campi Bragança Paulista, Salto, São
+Roque, Jundiaí, Campinas, Registro e Sertãozinho. O IFSUL também está sendo
+representado na feira, com um projeto do câmpus Gravataí. Outras escolas participantes
+foram: CEMEP - Centro Municipal de Ensino Profissionalizante Osmar Passarelli
+Silveira, Colégio FAAT, Colégio Técnico de Campinas - COTUCA, Escola Estudual
+João Ernesto Figueiredo, Escola Estadual de Período Integral Professor Luiz Roberto
+Pinheiro Alegretti, Escola Estadual Jose Pires Alvim, Escola Estadual Mathilde Teixeira
+de Moraes, Escola Municipal Ensino Fundamental Vicente Camargo Fonseca, Escola
+Estadual Professor Bruno Florenzano, Escola Estadual Cel. João Ernesto Figueiredo,
+Escola Estadual Maria José de Moraes Salles, ETEC Bento Quirino, ETEC Conselheiro
+Antônio Prado, ETEC Prof. Carmine Biagio Tundisi, ETEC Rosa Perrone Scavone e
+Sesi-012;
+
+2. Objetivos
+Incentivar a criatividade e a inovação dos estudantes, buscando despertar
+vocações científicas e/ou tecnológicas e identificar jovens talentosos que possam ser
+estimulados a seguirem carreiras científico-tecnológicas.
+Objetivos Específicos:
+I – Disseminar as atividades científicas dos estudantes a partir da troca de
+experiências e discussão de resultados.
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+II – Propiciar aos participantes a construção do conhecimento a partir da
+experimentação, despertando vocações, revelando capacidades e contribuindo para a
+autonomia intelectual do estudante.
+III – Incentivar a atividade científica e a educação científica por meio do
+desenvolvimento de capacidades, baseadas no pensar, julgar e agir cientificamente.
+IV – Congregar a comunidade estudantil das diferentes instituições de ensino da
+região no sentido de promover integração e troca de experiências.
+V – Incentivar o interesse pela investigação científica, favorecendo o
+descobrimento de novas tecnologias que possam auxiliar a comunidade e,
+consequentemente, incentivar também o desenvolvimento regional.
+
+3. Avaliação dos trabalhos
+O comitê de avaliação é composto por convidados dos organizadores da feira.
+Nesta edição, os convidados são professores do Instituto Federal de São Paulo,
+professores da rede pública estadual e municipal de escolas de Bragança Paulista,
+profissionais que trabalham em empresas da região, estudantes de mestrado e
+doutorado de diferentes instituições de ensino e membros da comunidade local.
+As normas para o julgamento dos trabalhos expostos na BRAGANTEC serão
+baseadas nos critérios a seguir, com uma pontuação de 0 a 5 para cada critério:
+I.
+Criatividade e Inovação
+II. Método científico ou de Engenharia
+III. Profundidade
+IV. Habilidades
+V. Apresentação Oral
+VI. Documentação
+
+4. Premiação
+Os prêmios da IX BRAGANTEC estão divididos nas seguintes categorias:
+Prêmios da Organização IX BRAGANTEC
+1°, 2° e 3° Lugar em Ciências Exatas e da Natureza
+1°, 2° e 3° Lugar Humanas e Linguagens
+1°, 2° e 3° Lugar em Engenharias
+1°, 2° e 3° Lugar em Informática
+Os contemplados receberão medalha e certificado de participação.
+1° e 2° Lugar Geral
+Os contemplados terão garantida a participação na FEBRACE.
+Além disso, serão contemplados com bolsas de Iniciação Científica, oferecidas pelo
+CNPq.
+Prêmios Especiais
+Os seguintes apoiadores irão premiar trabalhos escolhidos por seus
+representantes:
+•
+
+Prêmio Alteridade: prêmio dado pela Comissão Organizadora em parceria com o
+Sindicomerciários, para o trabalho destaque, na área de inclusão social e atendimento
+a minorias.
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+•
+•
+•
+•
+•
+•
+•
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+Prêmio Empreendedorismo: prêmio dado pela Comissão Organizadora em parceria
+com a empresa SAP, para o trabalho de maior destaque, na área de
+empreendedorismo e inovação.
+Prêmio Mulheres na Ciência e Tecnologia: prêmio dado pela Comissão
+Organizadora em parceria com o projeto IF Meninas para o trabalho destaque
+composto na sua maioria por mulheres.
+Prêmio Tecnologias Assistivas: prêmio dado pela Comissão Organizadora em
+parceria com a empresa EFGH, para o trabalho de maior destaque, na área de
+tecnologias assistivas para deficientes físicos.
+Prêmio Robótica e Automação: prêmio dado pela Comissão Organizadora em
+parceria com a empresa Maxgear para o trabalho de maior destaque, na área de
+robótica e automação.
+Prêmio Sustentabilidade: prêmio dado pela Comissão Organizadora em parceria
+com a empresa Konecranes Demag e a Comissão de Sustentabilidade do IFSP Campus Bragança Paulista, para o trabalho destaque, na área de sustentabilidade.
+Prêmio Votação Popular: trabalho escolhido pelo público, por meio de votação
+online em redes sociais e entregue pela Comissão Organizadora em parceria com a
+empresa Sector Aircraft.
+Prêmio Tecnologia Social: prêmio dado pela Comissão Organizadora em parceria
+com a empresa TMax, para o trabalho destaque na solução de algum problema social
+e que atenda aos quesitos de simplicidade, baixo custo, fácil aplicabilidade e impacto
+social comprovado.
+
+5. Atividades Paralelas
+Nos dias da feira, contamos com apresentações culturais
+•
+
+•
+•
+
+•
+
+Plantação de Mudas de Árvore:
+o Comemoração do Dia da Árvore: 21 de Abril – 1º, 2º e 3º Anos Técnico
+Integrado em Eletroeletrônica, Técnico Integrado em Informática, Técnico
+Integrado em Mecânica – Profa. Ana Cristina Gobbo César e Prof. Sidney
+Domingues.
+Roda de Conversa com Orientadores:
+o Espaço para troca de ideias, percepções e práticas entre os orientadores
+dos projetos apresentados na feira.
+Sarau ao meio dia:
+o O projeto de ensino "Saraus ao meio-dia" realiza encontros semanais em
+que os participantes compartilham suas produções ou apresentam poemas
+de seus autores favoritos.
+Apresentações Musicais:
+o Grupo de Fanfarra da Escola Estadual Luiz Roberto Pinheiro Alegretti
+o Grupo de Taiko Aozora Daiko
+
+6. VII BRAGANTEQUINHA
+A Bragantequinha, já na sua sétima edição, é uma idealização do Professor
+Maurício Costa Carreira. Trata-se de uma exposição de trabalhos realizados pelos alunos
+dos anos fundamentais, organizada pela Bragantec em parceria com as escolas da região.
+Este ano, a Bragantequinha contou também com a apresentação de projetos dos cursos de
+extensão de Computação Criativa, realizado no câmpus. Seguem os resumos dos
+trabalhos apresentados.
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+INTERAÇÕES: ESCOLA, SOCIEDADE E MEIO AMBIENTE
+Anna Beatriz Dias Antonini; Cassiano de Moraes Almeida; Beatriz Oliveira Taffuri;
+Milena Ferreguguti Garcia; Nicoly Chistiane da Silva; Sofia Oliveira Silva.
+
+Orientadores: Cleilton de Lima Peixoto, Sarah Valentim Cardoso, Elisandra Aparecida
+Alves da Silva
+IFSP - Câmpus Bragança Paulista
+RESUMO. O mundo globalizado é uma faca de dois gumes e o século XXI é o reflexo
+de ambos os lados. Falta d’água, desastres naturais, aquecimento global, reciclagem, uso
+consciente, temperaturas fora do comum. Em toda a história da humanidade, assuntos
+relacionados ao meio ambiente nunca foram tão debatidos como nos dias de hoje. Essa
+preocupação permeia grandes encontros políticos e sociais, mas também se faz muito
+necessária nas relações familiares e principalmente no ambiente escolar. Desta forma esse
+projeto de pesquisa visa resolver problemas socioambientais de maneira lúdica e
+interativa usando como principal artificio o uso da computação criativa no âmbito do
+IFSP-BRA.
+APLICATIVOS QUE MUDAM O MUNDO
+Alunos da turma do módulo 2 do projeto Computação Criativa
+
+Orientadores: Beatriz Dantas e Mirela Silva
+IFSP - Câmpus Bragança Paulista
+RESUMO. O projeto tecnológico tem como função desenvolver habilidades nos alunos
+através do aprendizado de técnicas para o desenvolvimento de aplicativos. Além disso,
+os alunos são desafiados a pensarem, estruturarem e desenvolverem aplicativos em prol
+da sociedade, abordando os temas inovadores propostos pela ONU. O desenvolvimento
+é feito em uma plataforma didática e adaptada, disponibilizada gratuitamente pelo MIT.
+PROGRAMANDO JOGOS NO SCRATCH
+Arthur Torres B. Moreira, Bibiana Baldo Sanchez, Gabriel Ferreira da Silva Romaro, Kevin
+Andrade Campos, Mateus Panizza Torazza, Rhaíssa Kayra Domingues Lima, Ulisses Baldo
+Sanchez, Yuri Bittencourt Goulant
+
+Orientadores: Ana Luiza Petruso de Melo, Helen de Souza Silva, Isabela Pinheiro de
+Godoi
+IFSP - Câmpus Bragança Paulista
+RESUMO. O Scratch é um software que utiliza blocos lógicos, itens de som e imagem e
+uma interface colorida e divertida para que, de forma simples, qualquer um consiga
+desenvolver suas próprias animações, histórias interativas e jogos. Sendo assim, os alunos
+do curso Computação Criativa aprenderam e desenvolveram alguns jogos na plataforma.
+BIODIVERSIDADE: ANIMAIS DO BIOMA BRASILEIRO
+Turma 5º ano
+
+Orientadora: Alessandra do Prado Travella
+Escola Municipal “Prof. Carlos Fredericio dos Santos Silva”
+RESUMO. O projeto tem por objetivo estudar a biodiversidade apresentando vários
+animais característicos de cada bioma brasileiro, fazendo uso também de vários
+conhecimentos de robótica.
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+ROBÓTICA EDUCACIONAL: MONTAGENS NOS ANOS INICIAIS
+Turma 3º Ano
+
+Orientador: Diego Azevedo C. Lima
+Escola Municipal “Desembargador Prof. Dr. Paulo Sérgio Fernandes de Oliveira”
+RESUMO. Neste projeto, por meio da robótica educacional, com a ajuda do manual de
+montagens do kit Atto e do vídeo em 3D “Montagens iniciais com giro e rotações”, foram
+realizadas diversas montagens com o objetivo de , despertar o interesse, incentivar a
+criatividade e gerar desafios entre os alunos da sala de aula.
+ROBÓTICA EDUCACIONAL: CRIAR, PROGRAMAR E RECICLAR
+Turma 5º ano
+
+Orientadora: Célia Pessanha Payão
+Escola Municipal “Desembargador Prof. Dr. Paulo Sérgio Fernandes de Oliveira”
+RESUMO. Por meio da robótica educacional, os kits de montagem e os materiais
+reciclados ganham vida, despertam interesse, incentivam a criatividade e geram desafios
+entre os alunos da sala de aula, melhorando a relação ensino-aprendizagem.
+CAÇADORES DE MICROORGANISMOS: IDENTIFICANDO A PRESENÇA
+DE MICROOORGANISMOS
+Turma 2º Ano
+
+Orientadora: Maria Cristina Muñoz Franco
+Escola Municipal “Coronel Ladislau Leme”
+RESUMO: Seguindo as premissas do ensino de ciências por investigação, o presente
+trabalho foi desenvolvido para atender as expectativas de aprendizagem da disciplina de
+natureza e sociedade com foco na importância dos hábitos de higiene e teve como objetivo
+verificar, através da realização de um experimento, a presença de bactérias e outros
+microorganismos em partes do corpo e objetos usados no dia-a-dia pelos alunos.
+
+7. Programação das Atividades
+19/09 - QUINTA-FEIRA
+
+20/09 - SEXTA-FEIRA
+
+21/09 – SÁBADO
+
+CREDENCIAMENTO E
+MONTAGEM DOS
+TRABALHOS
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+12h - 13h
+
+ALMOÇO LIVRE
+
+ALMOÇO LIVRE
+
+DESMONTAGEM DOS
+TRABALHOS/ALMOÇO
+LIVRE
+
+13h - 14h
+
+CERIMÔNIA
+ABERTURA
+
+Apresentação Cultural
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+APRESENTAÇÃO DOS
+TRABALHOS
+
+9h - 10h
+10 - 11h
+11h - 12h
+
+Apresentação Cultural
+
+14h - 15h
+15h - 16h
+16h - 17h
+
+ENCERRAMENTO E
+PREMIAÇÃO
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+Sumário
+CIENCIAS EXATAS E DA NATUREZA .................................................................... 10
+AGITADOR MAGNÉTICO A BAIXO CUSTO PARA USO EM LABORATÓRIO DE
+CIÊNCIAS. ..................................................................................................................... 11
+BALANÇA DE PRECISÃO AUTOMATIZADA POR MEIO DE
+MICROCONTROLADOR UTILIZANDO MATERIAIS A BAIXO CUSTO ............. 11
+BIOMONITORAMENTO DO RIO ATIBAIA E CÓRREGO ONOFRE, EM ATIBAIA
+(SP), USANDO PLANTAS ........................................................................................... 12
+DISPOSITIVO ELETRÔNICO PARA PREVENÇÃO DE CASOS DE DENGUE ..... 12
+DIVULGAÇÃO CIENTÍFICA VERSUS FAKE NEWS .............................................. 13
+ESTAÇÃO METEOROLÓGICA .................................................................................. 13
+HAVA- HORTA AGROECOLOGICA VERTICAL AUTOMATIZADA ................... 14
+JARDIM DOS SENTIDOS ............................................................................................ 14
+LOGÍSTICA REVERSA: UMA ESTRATÉGIA SUSTENTÁVEL PARA O
+DESCARTE CORRETO DE MEDICAMENTOS. ....................................................... 15
+MOTIVAÇÃO INDUZIDA POR PROBLEMAS: UM IMPORTANTE
+INSTRUMENTO NO PROCESSO EDUCACIONAL.................................................. 15
+O USO DE ÁLCOOL POR ADOLESCENTES DE UMA INSTITUIÇÃO DE ENSINO
+PÚBLICA ....................................................................................................................... 16
+OSMOSE REVERSA COM MEMBRANA EGGOLÓGICA ....................................... 16
+PRÓTESE AUDITIVA VIA INDUÇÃO ÓSSEA ......................................................... 17
+PRÓTESE MECÂNICA FEITA DE MATERIAL RECICLÁVEL MOVIDA A
+HIDRÁULICA. .............................................................................................................. 17
+SISTEMA MICROCONTROLADO PARA AVALIAÇÃO DO CRESCIMENTO DE
+PLANTAS UTILIZANDO LUZ ARTIFICIAL. ............................................................ 18
+SOUND MODIFIER ...................................................................................................... 18
+TABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS UNIVERSAL EM
+BRAILLE. ...................................................................................................................... 19
+TABELA PERIÓDICA INTERATIVA MAIS ACESSÍVEL COM QRCODE PARA
+USO EM LABORATÓRIO DE CIÊNCIAS .................................................................. 19
+TINTA ECOLOGICA .................................................................................................... 20
+ZOOLOGRAMA ............................................................................................................ 20
+CIÊNCIAS HUMANAS E LINGUAGENS .................................................................. 21
+“QUEM SOU EU? ” APRENDA BRINCANDO COM O MANUAL VIRTUAL
+INTERATIVO. ............................................................................................................... 22
+A CHEGADA DO HOMEM À LUA: DEBATENDO AS FAKE NEWS .................... 22
+A CONFIGURAÇÃO BIOPOLÍTICA DO RACISMO AMBIENTAL NO QUILOMBO
+DO CARMO - SÃO ROQUE......................................................................................... 23
+A HISTÓRIA POR TRÁS DE UM PÃO: O PÃO PRP ................................................. 23
+A MULHER BRASILEIRA NO MERCADO DE TRABALHO: APONTAMENTOS
+SOBRE O CUMPRIMENTO DA LEI DE LICENÇA MATERNIDADE .................... 24
+APRENDIZAGEM SIGNIFICATIVA: UMA ABORDAGEM INTEGRADA NO
+CURSO TÉCNICO EM INFORMÁTICA ..................................................................... 24
+AS NOVAS CARACTERÍSTICAS DA COMENSALIDADE NA MODERNIDADE
+LÍQUIDA: A DINÂMICA DA VIDA CONTEMPORÂNEA COMO INTERFERENTE
+DA SOCIABILIDADE À MESA. ................................................................................. 25
+DE AVILONE ATÉ SCARDANIA ............................................................................... 25
+DESMITIFICANDO O VEGANISMO ATRAVÉS DA CULTURA, FILOSOFIA E
+MEIO AMBIENTE ........................................................................................................ 26
+DIREITO E CIDADANIA NO MUNDO DIGITAL ..................................................... 26
+DRAL - DESENVOLVIMENTO DO RACIOCÍNIO LÓGICO COM AUXÍLIO DA
+ROBÓTICA .................................................................................................................... 27
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+EFEITOS DA TECNOLOGIA NA MODERNIDADE LÍQUIDA: APONTAMENTOS
+SOBRE DEPRESSÃO E SUICÍDIO NA JUVENTUDE A PARTIR DA ANÁLISE DA
+OBRA "OS 13 PORQUÊS" ........................................................................................... 27
+LIXO ELETRÔNICO: REUTILIZAÇÃO E CONSCIENTIZAÇÃO AMBIENTAL .. 28
+MENINOS NÃO CHORAM? O CHORO COMPARTILHADO EM UMA
+SOCIEDADE AINDA MACHISTA. ............................................................................. 28
+O ENSINO MÉDIO INTEGRADO E EDUCAÇÃO FISICA: O CASO DO
+IFSP/SALTO .................................................................................................................. 29
+O PERFIL POLÍTICO E A "ONDA VERDE" NO ELEITORADO DE BRAGANÇA
+PAULISTA ..................................................................................................................... 29
+O SMARTPHONE COMO FERRAMENTA DE PESQUISA E INSTRUMENTO
+PEDAGÓGICO .............................................................................................................. 30
+O USO DAS MÍDIAS SOCIAIS COMO MEIO DE ADMISSÃO NO PROCESSO
+COMPETITIVO DA POLÍTICA INSTITUCIONAL: UM ESTUDO DE CASO ........ 30
+POLÍTICAS PÚBLICAS DE LAZER: ESPAÇOS E EQUIPAMENTOS NA CIDADE
+DE SALTO. .................................................................................................................... 31
+PROPOSTA DE ESTUDO DA PERCEPÇÃO DA POPULAÇÃO SÃO-ROQUENSE
+QUANTO AO SANEAMENTO BÁSICO. ................................................................... 31
+REIS E RAINHAS DA AFRICA ................................................................................... 32
+STONE JUNGLE: VIVENDO A HISTÓRIA ............................................................... 32
+ENGENHARIAS ............................................................................................................ 33
+ACTIVE NOISE CONTROL HEADPHONE ............................................................... 34
+ALARME RESIDENCIAL INTELIGENTE ................................................................. 34
+ARMAZÉM AUTOMATIZADO COM TRANSELEVADOR PARA INDÚSTRIA 4.0
+........................................................................................................................................ 35
+AUTOMAÇÃO DE UM TELESCÓPIO DE BAIXO CUSTO ..................................... 35
+BAG ALARM - SINALIZADOR MICROCONTROLADO VESTÍVEL DE EXCESSO
+DE PESO PARA MOCHILAS ESCOLARES............................................................... 36
+BIKEPLUS - BICICLETA MULTIFUNCIONAL ........................................................ 36
+CISTERNA ELETRÔNICA PARA SISTEMA DE GOTEJAMENTO POR HASTE . 37
+CORTE CERTO NO VALOR CORRETO! "DISPOSITIVO MICROCONTROLADO
+PARA REFERENCIA NO CORTE DE BOLO CASEIRO" ......................................... 37
+CROWD BUS: SISTEMA DE SINALIZAÇÃO DE EXCESSO DE PASSAGEIROS
+EM TRANSPORTE PÚBLICO ..................................................................................... 38
+DISPOSITIVO DE AUXÍLIO VISUAL PARA CONDUTORES MONOCULARES . 39
+DISPOSITIVO PARA ALERTA DE QUEIMADAS NA SERRA DO ITAPETINGA 39
+DISPOSITIVO PARA MONITORAMENTO DE COMPOSTAGEM CASEIRA,
+TECNOLOGIAS SOCIAIS E AGROECOLOGIA EM ASSENTAMENTOS DE
+REFORMA AGRÁRIA .................................................................................................. 40
+DISPOSITIVO PORTÁTIL PARA O TRATAMENTO IMEDIATO DE LESÕES DE
+IMPACTO NA DISCIPLINA DE EDUCAÇÃO FÍSICA UTILIZANDO CÉLULA DE
+PELTIER ........................................................................................................................ 40
+ECO PLASTIC - RECICLAGEM DE GARRAFAS PETS EM SACOLAS
+ECOLÓGICAS. .............................................................................................................. 41
+ESTUFA ECOEFICIENTE ............................................................................................ 41
+FAIXA CONTÍNUA ...................................................................................................... 42
+IMPRESSORA 3D COM CÂMARA DE ISOLAMENTO ........................................... 42
+MIAU: A TECNOLOGIA A SERVIÇO DAPROTEÇÃO ANIMAL ........................... 43
+MISTURADOR AUTOMATIZADO PARA VACINAS E SOLUÇÕES ..................... 43
+PROTÓTIPO DE TAPETE PIEZOELETRICO: UTILIZAÇÃO DA TECNOLOGIA
+PIEZOELETRICA PARA A REDUÇÃO DOS CUSTOS COM ENERGIA DO IFSP
+CÂMPUS BRAGANÇA PAULISTA ............................................................................ 44
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+QUICK-HAND: DESENVOLVIMENTO DE PROTÓTIPO PARA REABILITAÇÃO
+DO MOVIMENTO DE PREENSÃO EM MÃOS ......................................................... 44
+REPET - SISTEMA DE RECICLAGEM DE GARRAFAS PET BASEADO EM
+CASHBACK. ................................................................................................................. 45
+SDTA- SISTEMA DIDÁTICO DE TRATAMENTO DE ÁGUA ................................ 45
+SEM GÁS, JAMAIS! MEDIDOR PARA O MONITORAMENTO DA
+MASSA/VOLUME DO GÁS DO BOTIJÃO RESIDENCIA ....................................... 46
+SIDSOUND - INTRODUÇÃO MUSICAL PARA SURDOS. ...................................... 46
+SISTEMA DE LEITURA BRAILE MULTIMÍDIA ..................................................... 47
+SISTEMA DE LEITURA DE TEXTOS SIMPLES PARA CEGOS BASEADOS EM
+FERRAMENTAS DE CLOUD COMPUTING ............................................................. 47
+TECNOLOGIA ASSISTIVA: ADAPTAÇÃO DO PEDAL DE EXPRESSÃO DE UM
+ÓRGÃO PARA MELHORIA DA ERGONOMIA PARA PESSOAS COM
+LIMITAÇÃO FÍSICA TEMPORÁRIA OU PERMANENTE ...................................... 48
+TOTALIZADOR DE PESSOAS EM RECINTO FECHADO COM
+MONITORAMENTO REMOTO NA NUVEM ............................................................ 48
+TOTEM PORTÁTIL A BAIXO CUSTO PARA CARREGAR CELULARES COM
+SISTEMA ANTI-FURTO POR RFID ........................................................................... 49
+UM MINUTO A MAIS .................................................................................................. 49
+WASTE NOT - "COMPOSTEIRA TECNOLÓGICA" ................................................. 50
+WATER WIRELESS SUSTAIN.................................................................................... 50
+INFORMÁTICA ............................................................................................................ 51
+AUXÍLIO À CUIDADORES DE IDOSOS COM ALZHEIMER: ESTÁGIOS DO
+ALZHEIMER, IMPORTÂNCIA DA ROTINA E DIFICULDADES ........................... 52
+COMUNICAPET ........................................................................................................... 52
+DESENVOLVIMENTO DO BANCO DE DADOS SOBRE DESLIZAMENTO DE
+TERRA. .......................................................................................................................... 53
+FERRAMENTA DE AUXÍLIO A DALTÔNICOS....................................................... 53
+FIBROFLY: APLICATIVO PARA O APRIMORAMENTO DAS CAPACIDADES
+FÍSICAS E MENTAIS DE PORTADORES DE FIBROMIALGIA. ............................ 54
+FIND EATS .................................................................................................................... 54
+GEOMATIC: SOFTWARE PARA APRENDIZAGEM DE GEOMETRIA ................ 55
+IHELPP: A LUTA CONTRA O FEMINICÍDIO ........................................................... 55
+MAPEAMENTO DE ESTABELECIMENTOS ACESSÍVEIS À PESSOAS COM
+DEFICIÊNCIA NA CIDADE DE CAMPINAS ............................................................ 56
+MOTUM: IA PARA PROCESSAMENTO E PLANEJAMENTO DINÂMICO DE
+TRANSPORTES PÚBLICOS ........................................................................................ 56
+O CÓDIGO CRIATIVO (CREATIVE CODING) ALIADO AO APRENDIZADO DA
+ORIENTAÇÃO A OBJETOS ........................................................................................ 57
+PROTOTIPAÇÃO DE JOGO EDUCACIONAL PARA APRENDIZADO DE LÓGICA
+DE PROGRAMAÇÃO ................................................................................................... 58
+ROBOCODE: UMA FORMA LÚDICA DE APRENDER PROGRAMAÇÃO. .......... 58
+SISTEMA DE CURRÍCULOS DA ETEC..................................................................... 59
+SISTEMA DE GERENCIAMENTO DE BOLSAS DE SANGUE, MEDULAS
+ÓSSEAS E LEITOS DISPONÍVEIS PARA HOSPITAIS. ........................................... 59
+SOYP - UMA APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS NO
+RECONHECIMENTO DE PRAGAS DE SOJA ........................................................... 60
+TALK – TRADUTOR AUTOMÁTICO DE IDIOMAS PARA CRIANÇAS .............. 61
+CIENCIAS EXATAS E DA NATUREZA
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+AGITADOR MAGNÉTICO A BAIXO CUSTO PARA USO EM LABORATÓRIO
+DE CIÊNCIAS.
+Guilherme Henrique Alves Pereira, guilherme_cps@outlook.com
+Rafael Muffo Araujo, rafao.ma8@gmail.com
+Alexsander Fonseca Moreira, alexfon015@gmail.com
+Edson Anício Duarte, edsonduarte@ifsp.edu.br(orientador)
+João Alexandre, jabortoloti@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto é o desenvolvimento de um agitador magnético a baixo custo utilizado e
+necessário em laboratórios de Ciências para misturar soluções químicas. No Brasil existem
+mais de 150 mil escolas públicas e boa parte delas não tem acesso a equipamentos didáticos
+para a realização de experimentos laboratoriais, quer seja por não possuírem laboratórios ou
+verbas para operação, manutenção e instalação. Como se trata de um equipamento importante
+para as atividades de ensino prático de Ciências foi projetado um agitador microcontrolado a
+baixo custo utilizando componentes comerciais tais como: motor DC, madeira MDF,
+microcontrolador e botões. Assim é possível fornecer uma alternativa de solução para as
+escolas que não possuem este equipamento. O protótipo desenvolvido está operacional
+realizando a agitação de soluções químicas e em fase de testes. É possível ajustar a velocidade
+de agitação por meio de um potenciômetro e visualizar as informações em um display LCD,
+garantindo assim padronização durante a realização das atividades experimentais. O
+equipamento é portátil permitindo o seu uso em bancadas de laboratório.
+Palavras-chave: Baixo Custo; Automação; Kit Didáticos
+
+BALANÇA DE PRECISÃO AUTOMATIZADA POR MEIO DE
+MICROCONTROLADOR UTILIZANDO MATERIAIS A BAIXO CUSTO
+Itallo De Jesus Guimarães Oliveira, itallooliveira1000@gmail.com
+Jessé Ferreira Lima, jesselima142@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. O uso de balanças em laboratórios de ciências é parte fundamental para o
+desenvolvimento dos experimentos propostos. O seu uso se dá tanto em escolas particulares
+ou públicas, porém devido ao custo nem sempre estes equipamentos estão disponíveis para o
+uso. Assim este projeto apresenta o desenvolvimento de uma balança para uso em laboratório
+de ciências utilizando componentes comerciais visando equipar o laboratório da escola com
+um equipamento adequado a realizar as medidas de massa necessárias ao desenvolvimento dos
+experimentos. Serão utilizadas uma impressora e cortadora para cortar o material a ser
+utilizado na estrutura da balança, células de carga, microcontrolador e um display LCD para
+apresentar os dados ao usuário. O protótipo desenvolvido foi construído utilizando
+componentes comerciais que facilita sua multiplicação para outras instituições. Este protótipo
+realiza medidas de 0 a 1000g com duas casas decimais e está em fase de testes para coleta de
+dados para estudo estatístico das medidas.
+Palavras-chave: Balança De Laboratório; Automação; Equipamentos Educacionais
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+BIOMONITORAMENTO DO RIO ATIBAIA E CÓRREGO ONOFRE, EM
+ATIBAIA (SP), USANDO PLANTAS
+Maria EduardaMalengo, mariaeduardamalengo@gmail.com
+Igor Oliveira Munhoz, igormunhoz12@gmail.com
+Ana Cristina Gobbo César, anagobbo@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Os poluentes encontrados nos rios, geralmente não são degradados pelo tratamento
+da água e, podem ser responsáveis por impactos na saúde humana. O biomonitoramento dos
+efeitos citotóxicos promovidos por estes resíduos pode ser realizado por plantas, como a cebola
+(Allium cepa), por ser sensível e apresentar resultados possíveis de serem correlacionados com
+os animais. Esta pesquisa objetivou avaliar o potencial citotóxico das águas superficiais do rio
+Atibaia e Córrego Onofre, em Atibaia (SP). Cinco cebolas foram expostas às águas coletadas
+em dois pontos do rio Atibaia e dois pontos do Córrego Onofre. Outros cinco bulbos foram
+colocados em água sem cloro (controle negativo) e mais cinco, em solução de 15mg/L metil
+metanossulfonato (MMS), usada como controle positivo por promover alterações celulares.
+Dez raízes por bulbo escolhidas aleatoriamente, tiveram seu crescimento mensurado, após
+72,120 e 168 horas de exposição. Para análise estatística foi utilizado GraphPad Prisma 6. A
+comparação entre a média do crescimento radicular dos bulbos expostos ao controle negativo
+e aos pontos de coleta demonstrou diferenças estatisticamente significativas (p<0,001),
+evidenciando a inibição do crescimento. Comparando com o controle positivo não foi
+observada diferença significativa (p>0,05), demonstrando que as raízes expostas às águas
+coletadas cresceram tão pouco quanto aquelas expostas ao controle positivo. Na comparação
+entre os pontos pode-se observar que a média de crescimento radicular não apresentou valores
+significativos (p>0,05), evidenciando que as raízes cresceram de forma semelhante. Pode-se
+inferir que a inibição do crescimento radicular dos bulbos expostos às águas do rio Atibaia e
+Córrego Onofre, seja possivelmente pela presença de substâncias químicas.
+Palavras-chave: Citotoxicidade; Poluição Dos Rios; Allium Cepa
+
+DISPOSITIVO ELETRÔNICO PARA PREVENÇÃO DE CASOS DE DENGUE
+Giovanna Carolina Badari Do Amaral, giovanna.badari05@gmail.com
+Heloísa Graciano Soares, gracianoheloisa19@gmail.com
+Simone Alves Graciano, simone11graciano@gmail.com(orientador)
+Julio Cesar De Souza Bueno, julio.cesarsb@hotmail.com(coorientador)
+E. M. E. F. "Vicente Camargo Fonseca"
+RESUMO. A dengue é uma doença transmitida aos seres humanos pela picada de um mosquito
+fêmea das espécies Aedes aegypti e Aedes albopictus portadores do vírus. Porém, o controle
+do Aedes tem sido um grande desafio, principalmente nos países em desenvolvimento. Deste
+modo, pensamos se a prevenção de dengue é possível através do desenvolvimento de um
+dispositivo eletrônico que identifique água parada? Com isso, o projeto tem como objetivo
+aplicar uma estratégia de controle do Aedes aegypti, com ênfase nas inovações tecnológicas.
+Oferecendo um gerenciamento das regiões que apresentam água parada, além de propiciar
+uma ação rápida na tentativa de erradicar a doença nos munícipios, fazendo uso do conceito
+de “Internet das Coisas”. O Sistema compreende em um dispositivo acoplado no possível local
+do criadouro, conectado por rede Wi-Fi a uma plataforma chamada ThingSpeak, que recebe
+os dados referentes ao nível de água no local analisado. Ao acessar as informações e gerenciar
+os dados a instituição de saúde local tem a possibilidade de visualizar o mapeamento, o que
+facilita a atuação imediata do agente sanitário ou mesma a notificação dos responsáveis,
+eliminando o foco de água parada e evitando a procriação do vetor. Espera-se que seja possível
+monitorar os locais criadouros do mosquito, através dos dados oferecidos sobre o nível de água
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+nos recipientes. Sendo assim, este projeto contribui como um meio de auxiliar as políticas
+públicas de combate à dengue.
+Palavras-chave: Dengue; Dispositivo; Internet Da Coisas
+
+DIVULGAÇÃO CIENTÍFICA VERSUS FAKE NEWS
+Giovanna Vitória Jesus De Oliveira, giovannavjoliveira@gmail.com
+Antonia Edna Takamine, takamine@prof.educacao.sp.gov.br(orientador)
+E. E. Mathilde Teixeira de Moraes
+RESUMO. Para combater a fake news na ciência foi criado um canal no youtube onde é feita a
+divulgação científica e o combate destas notícias falsas.O objetivo do canal é despertar o
+interesse dos alunos sobre divulgação científica confiável e relevante, identificando a
+qualidade e a confiabilidade daquilo que encontram on-line. Além de saber realizar buscas
+mais seguras.Através do canal do youtube pretende-se orientar e combater boatos da internet
+sobre a ciência. Para isto, será observado as características mais recorrentes dos boatos on-line
+seguindo a metodologia em 5 etapas: Pesquisar as fake news na ciência que estão prejudicando
+a sociedade, pesquisar fontes confiáveis e relevantes, realizar pesquisas com a comunidade,
+consolidar a pesquisa e fazer a divulgação científica dos resultados no canal do youtube
+Divulgação científica versus fake news - Fatos da Astronomia.
+Palavras-chave: Internet; Ciência; Fake News
+
+ESTAÇÃO METEOROLÓGICA
+Lucas Ferreira Lima, lucaslima0803@gmail.com
+Lucas Benelli Tilli, ltillivgalaxie@gmail.com
+ThiagoColuccini, thiago.coluccini@gmail.com
+Marcelus Guirardello, marcelus.guirardello@gmail.com(orientador)
+Regina Kawakami, regina.kawakami@etec.sp.gov.br(coorientador)
+CEETEPS ETEC Bento Quirino - Campinas/SP
+RESUMO. No Brasil a agricultura tem um papel importantíssimo para a economia, porém os
+agricultores constantemente sofrem com secas, problemas no solo e mudanças climáticas.
+Pensando nesse tipo de pessoas, o grupo realizou a montagem de uma estação meteorológica
+de baixo custo. O equipamento tem a função de analisar, detalhar e apresentar os dados em
+relação ao clima no ambiente onde está. Para a sua criação, foram utilizados sensores
+adquiridos separadamente e integrados através de uma placa de arduíno, que apresentam os
+dados coletados tanto por meio de um display como pode disponibiliza-los através de uma
+interface wi-fi conectada a Internet. A alimentação da placa pode ser realizada por meio de
+uma tomada, ou por meio de um painel solar fotovoltaico. Toda a montagem levou em conta
+uma mentalidade: criar uma estação completa e eficaz, porém com custo reduzido, levando
+em conta o pequeno agricultor, trabalhador que não tem condição de comprar estações mais
+caras (algumas têm um custo 10 vezes maior que a estação montada pelo grupo).
+Palavras-chave: Clima; Agricultura; Tecnologia
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+HAVA- HORTA AGROECOLOGICA VERTICAL AUTOMATIZADA
+Lucas Henrique Santos Noronha, lucashsn9@hotmail.com
+Ana Flavia Maltarolo Ferreira, flaviamaltaroloferreira@gmail.com
+André Leme Da Silva, lemeandre@gmail.com(orientador)
+Ana Clara Ciglioni Salustiano, ana_ciglioni@hotmail.com(coorientador)
+ETEC Bento Quirino
+RESUMO. O projeto se trata de uma horta orgânica vertical, com um sistema de irrigação
+automatizado, ecologicamente correta, incentivando a produção orgânica em casa. Esta ideia
+surgiu quando foi pesquisado sobre produções orgânicas, percebendo um grande aumento
+populacional e que as produções convencionais não estão suportando essa demanda. A horta
+será feita verticalmente para melhor aproveitamento do espaço e serão plantadas culturas como
+temperos, hortaliças, plantas medicinais, entre outras. Serão utilizados um pallet de madeira
+como estrutura fixadora e vasos dimensionados de acordo com as culturas escolhidas, que
+serão confeccionados em uma Impressora 3D. O sistema de irrigação será programado a partir
+de uma plataforma de Arduino. Inicialmente, a pesquisa teórica será feita a partir de livros,
+pesquisas e sites acadêmicos, pesquisas de campo e entrevistas com especialistas nas áreas
+envolvidas (como produtores, nutricionistas, psicólogos, agrônomos, entre outros).
+Posteriormente serão feitos os dimensionamentos, a programação da irrigação e a montagem
+da estrutura com apenas um vaso. Após observações e ajustes a horta será montada por
+completo.
+Palavras-chave: Produção De Alimentos; Automação; Sustentabilidade
+
+JARDIM DOS SENTIDOS
+Marcia Aparecida De Lima Vieira, marcialvieira@gmail.com
+, (orientador)
+E.E. PROFª MARIA JOSÉ MORAES SALLES
+RESUMO. Criar no ambiente escolar um lugar de produção que esteja relacionado com nossos
+sentidos colocando-os em formas geométricas. Com nosso trabalho podemos investigar sobre
+o meio ambiente, vendo reações das plantas a serem tocadas, o sabor de cada, um espaço
+também onde pode se investigar mais sobre como é a vida de um deficiente visual,
+experimentando alimentos com os olhos vendados, sentindo uma planta, ouvindo sons sem
+poder vê-los de onde vem.
+Palavras-chave:
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+LOGÍSTICA REVERSA: UMA ESTRATÉGIA SUSTENTÁVEL PARA O
+DESCARTE CORRETO DE MEDICAMENTOS.
+Renata Cascaval Alves, renatacascaval18@gmail.com
+Giovanna Gonçalves Mariano, giovaninhagmariano@hotmail.com
+Orlando L. Berenguel, oberenguel@ifsp.edu.br(orientador)
+Miriam Mariani Da Chagas, miriammarianicha@gmail.com(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. A correta destinação dos resíduos sólidos é condição primordial para uma prática
+cidadã sustentável. A Política Nacional de Resíduos Sólidos (PNRS) tem como pilar o
+princípio da responsabilidade compartilhada. Isso significa que indústrias, distribuidores e
+varejistas, poder público e consumidores são todos responsáveis pelos resíduos gerados pelas
+suas atividades, incluindo-se aqui os medicamentos. Nesse sentido, esse projeto de pesquisa,
+buscou compreender por meio de uma pesquisa entre alunos do ensino médio, seus hábitos de
+descarte de medicamentos. A pesquisa tem como fio condutor os elementos preconizados pela
+PNRS e pelos princípios da logistica reversa.
+Palavras-chave: Logística Reversa; Descarte De Medicamentos; Sustentabilidade Ambiental
+
+MOTIVAÇÃO INDUZIDA POR PROBLEMAS: UM IMPORTANTE
+INSTRUMENTO NO PROCESSO EDUCACIONAL
+Henrique Oliveira Silva, oliveira.henrique@aluno.ifsp.edu.br
+Adriana Danielle Conceição Cunha, adriana.danielle@aluno.ifsp.edu.br
+Adilson Souza Cândido, candido@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O processo educativo deve estar em uma permanente metamorfose com vistas à
+formação de cidadãos conscientes, éticos e responsáveis, inseridos plenamente no complexo
+mundo do trabalho que está em rápida transformação. No entanto, o que se observa na maioria
+das instituições de ensino é a estagnação das práticas pedagógicas, focada muitas vezes em
+aulas expositivas, o que acaba não acompanhando as transformações e exigências da
+sociedade. Aliado a este problema, cada vez mais, os educadores se queixam da aparente baixa
+motivação dos alunos no que se refere ao interesse para o estudo de determinadas disciplinas.
+Este fato implica em outras consequências diretas como a elevação das taxas de evasão,
+reprovação, aversão ao ambiente escolar e desmotivação dos educadores. A fim de quebrar
+este ciclo, é necessário o desenvolvimento de novas práticas pedagógicas que resgatem estas
+características motivacionais tanto dos alunos quanto dos educadores. Neste sentido, é
+proposto neste projeto a análise quantitativa da influência da motivação do aluno submetido a
+técnicas de aprendizagem baseada em problemas de modo a consolidar uma práxis educativa
+que contribua para a inserção social, a formação integral vocacional e a produção do
+conhecimento, além de, obviamente, contribuir com ações de inovação tecnológica.
+Palavras-chave: Motivação; Permanência E Êxito Estudantil; Aprendizagem Baseada Em
+Problemas
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+O USO DE ÁLCOOL POR ADOLESCENTES DE UMA INSTITUIÇÃO DE
+ENSINO PÚBLICA
+Hellen Sara Moraes Bueno, hellensarah19@gmail.com
+Emily Lucas Gomes De Oliveira, oliveremy@gmail.com
+Felipe Moraes Abrahão, feguibre@gmail.com
+Victor Pellegrini Mammana, vpmammana@gmail.com(orientador)
+Ana Cristina Gobbo César, anagobbo@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Por várias razões, os jovens são mais vulneráveis ao consumo excessivo de álcool.
+Esta alta vulnerabilidade é produto de um conjunto de riscos que surgem durante o processo
+de desenvolvimento. A iniciação do uso de álcool é inﬂuenciada por fatores individuais e
+interpessoais, incluindo aspectos familiares, biológicos, de temperamento e ambientais, dentre
+os quais se encontra a publicidade de bebidas alcoólicas. Este trabalho objetivou investigar o
+consumo de bebida alcoólica por alunos do ensino médio, em uma instituição de ensino técnica
+e pública, localizada em Bragança Paulista, SP e comparar os dados coletados em 2014 e 2019.
+A metodologia empregou o desenvolvimento e a aplicação de um questionário confidencial
+com respostas objetivas de múltipla escolha, portanto tratou-se de uma pesquisa com
+abordagem qualitativa, com objetivos descritivos e exploratórios. A aplicação do instrumento
+ocorreu após a aprovação pelo Comitê de Ética (nº274/13) e o consentimento dos pais e/ou
+responsáveis dos participantes menores de 18 anos, assim como o assentimento dos menores
+participantes. A pesquisa realizada em 2014, envolveu 194 estudantes dos cursos técnicos
+integrados entre 14 e 18 anos de idade e, em 2019, foram 186 estudantes com idade entre 14 e
+19 anos. As questões permitiram reconhecer o perfil dos alunos (sexo e idade), se o participante
+ingere bebidas alcoólicas, a frequência de ingestão, a idade que ingeriu pela primeira vez, se
+já passou por situações perigosas, devido o abuso no consumo de álcool, se os pais têm ciência
+sobre o consumo e se o participante tem ciência sobre os danos causados à saúde pelo consumo
+de álcool. Ao final, os dados obtidos na pesquisa de 2014 e na de 2019 foram comparados,
+permitindo observar algumas mudanças no comportamento dos jovens.
+Palavras-chave: Adolescente; Bebidas Alcoólicas; Fatores De Risco
+
+OSMOSE REVERSA COM MEMBRANA EGGOLÓGICA
+Gian Augusto Pizane Da Rocha, gianpizanedarocha88@gmail.com
+Marcelo Augusto Bellopedo De Aquino, marceloaquino132@gmail.com
+HenriqueBatista Da Silva, henriquebats578@gmail.com
+JosiasFalararo Pagotto, josias.pagotto@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Osmose é o nome que se dá à passagem de água de um meio menos concentrado
+(hipotônico) para um meio mais concentrado (hipertônico) através de uma membrana
+semipermeável (que só passa água). Este processo ocorre por transporte passivo, ou seja, sem
+gasto de energia, e tem como objetivo manter equilibrada as concentrações de sais de ambos
+os lados. A osmose reversa, por outro lado, é o fenômeno inverso da osmose; ou seja, a
+passagem da água ocorrerá do meio mais concentrado (hipertônico) para o menos concentrado
+(hipotônico). Utilizando-se deste processo é possível remover sais, bactérias e outras
+impurezas, deixando a água purificada. Porém, como esse não é um fenômeno espontâneo, é
+preciso aplicar uma pressão para que a água passe pela membrana, tendo o cuidado de não
+exceder a resistência mecânica desta, para que ela não se rasgue. As membranas utilizadas em
+filtros convencionais de osmose reversa (disponíveis no mercado) são muito caras, limitando
+as possibilidades de seu uso e aplicações, e onerando os setores que dependem deste recurso.
+Assim, neste projeto foram testados diversos materiais que possuíssem algum potencial de uso
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+como membrana semipermeável, para aplicação em filtro de osmose reversa. Após vários
+materiais terem sido investigados e testados, a membrana encontrada no ovo mostrou-se um
+material ideal para a aplicação proposta, além de ter baixo custo e não agredir o meio ambiente
+para ser produzido.
+Palavras-chave: Osmose; Ovo; Purificação
+
+PRÓTESE AUDITIVA VIA INDUÇÃO ÓSSEA
+Availdo Praxedes Oliveira Junior, availdooliveirapraxedes@gmail.com
+Priscila De Souza Paula, priscilasouzapaula41@gmail.com
+Pascoal De Oliveira Neto, pascoal538@gmail.com
+Simone Alves Graciano, simonegraciano@prof.educacao.sp.gov.br(orientador)
+Paloma Alves Marinho Lucena, palomamarinho@prof.educacao.sp.gov.br(coorientador)
+E.E. Cel. João Ernesto Figueiredo
+RESUMO. A audição é uma das principais funções vitais para o nosso corpo, pois ela nos ajuda
+na comunicação com os seres e sempre ficar alerta com o que está acontecendo ao seu redor.
+Para um deficiente auditivo tudo se torna mais difícil, pois não conseguem se comunicar
+facilmente. Objetivo deste projeto é desenvolve uma prótese auditiva via indução óssea onde
+o deficiente não precisará fazer uma cirurgia, pois a mesma é muito cara para a grande maioria.
+A prótese que queremos desenvolver, consiste de motores que vibram e conduzem o som por
+meio do nossos ossos temporais que vibrará a cóclea, e dela a vibração será enviada para o
+cérebro que a traduzirá em som. Como resultados, espera-se construir um protótipo de uma
+prótese auditiva de baixo custo em que seja reestabelecimento da audição para portadores da
+surdez condutiva.
+Palavras-chave: Audição; Prótese; Indução Óssea
+
+PRÓTESE MECÂNICA FEITA DE MATERIAL RECICLÁVEL MOVIDA A
+HIDRÁULICA.
+Alexandre Civitanova Freitas, alexandreciviatnovafreitas@gmail.com
+Sayara Roberta Martins Silveira, pmhprojeto@gmail.com
+Josué Augusto De Mello Santos, josuemelllo23@gmail.com
+Rozilene Elaine Da Silva, rozilenee@prof.educacao.sp.gov.br(orientador)
+SolangeA. Correia, sacorreia@prof.educacao.sp.gov.br(coorientador)
+E.E. PROFª MATHILDE TEIXEIRA DE MORAES
+RESUMO. Projeto de elaboração de uma prótese mecânica movida à hidráulica feita de materiais
+reciclados com o objetivo de estimular e auxiliar os músculos atrofiados dos membros
+inferiores decorrentes de atrofias de desuso e alguns casos específicos de atrofias neurológicas
+que podem ser revertidas dependendo de diagnóstico médico. Por meio de pesquisas auxiliadas
+por profissionais de diversas áreas do conhecimento, está sendo possível dar corpo e vida ao
+“protótipo” da prótese e da relevância de sua utilidade, além da importância do investimento
+em materiais reciclados como plástico polietileno de alta densidade para melhoria do custo e
+preservação do meio ambiente integrando a sustentabilidade.
+Palavras-chave: Prótese; Reciclagem; Hidráulica
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+SISTEMA MICROCONTROLADO PARA AVALIAÇÃO DO CRESCIMENTO
+DE PLANTAS UTILIZANDO LUZ ARTIFICIAL.
+Fernanda Eduarda Inácio Gomes Da Silva, tormenta.gomes@gmail.com
+Mariana Mitiko Yamaguti Toldo, tieko.yamaguti@gmail.com
+Paula Yumi Kai, japabr0405@gmail.com
+Edson Anício Duarte, edsonduarte@ifsp.edu.br(orientador)
+João Alexandre, jabortoloti@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto tem a proposta dedesenvolver um equipamento para estudar o
+crescimento de plantas utilizando iluminaçãoartificial feita por leds. O Brasil utiliza somente
+8% de seu território paraatividades agrícolas e esta área depende quase que integralmente
+deiluminação natural, aliada a uma tendência de hortas urbanas onde se pretenderealizar o
+plantio orgânico dentro de casas e apartamentos surgiu estaproposta para otimizar o processo
+de cultivo de plantas para o consumopróprio. Este estudo irá verificar dentre três condições
+pré-determinadasqual é a mais eficiente para o crescimento de uma planta, as condições
+serão:iluminação durante 24 horas com luz branca, iluminação durante 12h com luzbranca e
+uma iluminação com mudanças de cores durante o dia inteiro. Para ocontrole do sistema será
+utilizada uma placa microcontroladora Arduinio, ledsRGB, fonte de alimentação e uma
+estrutura de mdf (Fibra de Média Densidade)para acomodar as plantas. Como não se dispunha
+de um equipamento pararealizar este experimento o grupo projetou e construiu um
+protótipoutilizando materiais comerciais e de baixo custo que possibilitarão a suamultiplicação
+no futuro. Atualmente o protótipo está em funcionamento e sendomonitorado 3 culturas
+iniciais para que posteriormente seja feita uma análiseestatística de qual é a melhor condição
+de cultivo.
+Palavras-chave: Microcontrolador; Leds; Planta
+
+SOUND MODIFIER
+Emily Mayumi OkunoDoAmaral, princesinha08may@gmail.com
+Isabela Gonçalves Martins, ig0592828@gmail.com
+Marjorie Vitória PiresAntequera, spires7741@gmail.com
+Karine Damaceno de Souza, karinedama@gmail.com(orientador)
+Luciano Silva Prates, lucianosilvaprates@gmail.com(coorientador)
+Escola Estadual José Pires Alvim-Atibaia-SP
+RESUMO. Nosso projeto é basicamente,um gerador de energia com um refletor de intensidade
+daquilo que foi emitido,e tudo isso através do som.Já pensou gerar energia sem afetar o nosso
+planeta? Com o Sound Modifier isso é possível! Ele é capaz de produzir energia sem utilizar
+os recursos que o nosso planeta oferece,apenas usando um bem que a maioria de nós temos:o
+som,que é muito mais poderoso do que parece.Pretendemos fazer um projeto sustentável e
+acessível a todos.Estamos pensando no futuro de todos nós,no futuro do nosso planeta.
+Palavras-chave: Som; Energia; Acessível
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+TABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS UNIVERSAL EM
+BRAILLE.
+Vitória Da Trindade Carvalho, vtc12585@gmail.com
+Lucas Guilherme Lima De Andrade, andrade.lucasguilherme@gmail.com
+Vitória Da Trindade Carvalho, vtc12585@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. O ano de 2019 foi escolhido pelas Nações Unidas para celebrar e reconhecer a tabela
+periódica como uma das conquistas mais influentes da ciência moderna. O estudo da tabela
+periódica está presenta nas mais de 180 mil escolas brasileiras e seu uso fica mais evidente nos
+laboratórios de ciências, porém as tabelas convencionais não são muito inclusivas, ou seja,
+muitos alunos que possuem algum tipo de deficiência visual não conseguem fazer o uso ou
+estudo da tabela periódica em sua plenitude. Desta forma a proposta deste trabalho é
+desenvolver uma Tecnologia Assistiva que faça adaptações em uma tabela periódica de forma
+que ela seja acessível a todos, conforme preza o Desenho Universal. Para que a tabela seja a
+mais acessível possível, os elementos mais importantes serão desenhados em 3D e impressos
+utilizando uma impressora 3D. A proposta é ter um cartão de cada elemento com seu
+respectivo código Braille em relevo e outros símbolos que facilitem o estudo da tabela
+periódica. Durante este desenvolvimento os usuários finais participarão do processo desde o
+início, não somente na validação final.
+Palavras-chave: Tecnologia Assistiva; Educação; Tabela Periódica
+
+TABELA PERIÓDICA INTERATIVA MAIS ACESSÍVEL COM QRCODE
+PARA USO EM LABORATÓRIO DE CIÊNCIAS
+João Marcelo Francisco Felício, joao.marcelo.francisco@gmail.com
+Ana Júlia Barbosa Gastaldelo, anajuliagdl@gmail.com
+Daltamir Justino Maia, daltamir.maia@ifsp.edu.br(orientador)
+Edson Anício Duarte, edson.a.duarte@uol.com.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este trabalho apresenta o desenvolvimento de uma Tabela Periódica interativa
+utilizando QRCode e materiais de baixo custo para otimizar o estudo de Química em
+laboratórios de Ciências. A interação com o usuário de dará através da leitura de um QRCode
+impresso na parte traseira de cada elemento químico que irá direcionar o usuário a um vídeo
+explicativo sobre o elemento por ele selecionado. As mais de 180 mil escolas brasileiras
+poderão ser beneficiadas com a utilização deste projeto uma vez que possui baixo custo e os
+dispositivos móveis necessários à leitura do código estão presentes nas vidas dos alunos
+brasileiros. Foi projetado para cada elemento da tabela periódica um desenho que foi impresso
+em uma folha de madeira MDF com o respectivo símbolo e dados técnicos, ao final tem-se
+um quadro onde os alunos poderão interagir com a tabela periódica selecionando qual o
+elemento deseja estudar. Com a utilização de uma cortadora laser foi desenvolvido o primeiro
+protótipo que estará em utilização no 2° semestre de 2019 na escola, dados iniciais mostram
+que é possível realizar as leituras dos códigos impressos bem como a interatividade com os
+alunos.
+Palavras-chave: Educação Básica; Tabela Periódica; Empreendedorismo
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+TINTA ECOLOGICA
+Anselmo Mori Bueno, anselmomoribueno@gmail.com
+Andrey H. L. Almeida, anselmomoribueno@gmail.com
+Isaque Rafael Elias, anselmomoribueno@gmail.com
+Roberto, robertofahl@prof.educacao.sp.gov.br(orientador)
+Sabrina C. Mori, sabrinamoric@gmail.com(coorientador)
+E. E. de Período Integral Professor Luiz Roberto Pinheiro Alegretti
+RESUMO. Produzir tinta com materiais alternativos que agridem menos o meio ambiente, sejam
+mais baratos, usando para isso:argila,cinza,carvão,água,cal entre outros. Como já existem
+projetos parecidos, nosso foco é pesquisar sua durabilidade, custo e rentabilidade; suas
+vantagens ecológicas e econômicas.No momento estamos desenvolvendo ensaios com
+dinâmicas ecológicas pois queremos atingir algumas tonalidades que antes não conseguimos
+como verde e azul.
+Palavras-chave: Tinta; Ecologica; Argila
+
+ZOOLOGRAMA
+Lethicia Ayumi Imada, lethy-18@hotmail.com
+Kauan Henrique Vieira, kauanhvieira@hotmail.com
+Marcos Alexandre Fernandes, marcos.alexandre@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Desde os períodos mais primitivos da historia humana, o homem tem utilizado do
+animal para diversos fins, como: animais domésticos; alimento; realização de trabalhos
+pesados e para o entretenimento próprio. A utilização desses seres para satisfazer os desejos
+humanos acaba gerando grande impacto na natureza, em especial na vida desses animais que
+sofrem pela ambição humana. Diante disso, esse projeto objetiva salientar a condição vivida
+pelos animais utilizados como entretenimento nas áreas de zoológico, e como, através da
+tecnologia, esses podem ser poupados de habitarem esses locais, tendo a sua presença
+substituída por hologramas. O trabalho consiste na apresentação de uma alternativa, para a
+resolução do problema que tem como base a exposição, os maus tratos e o abuso na utilização
+do animal nos ambientes de zoológico. A execução do projeto incluiu a pesquisa referente às
+condições dos animais nesses ambientes através de veículos de noticia e artigos, com base do
+que seria realizado e como seria o resultado de sua substituição por hologramas (que será
+ilustrado através da confecção de uma maquete expositiva). O projeto mostra-se adequado ao
+objetivo proposto, de conscientizar e apresentar uma alternativa para a resolução do problema
+apresentado.
+Palavras-chave: Zoologico; Tecnologia; Hologramas
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+CIÊNCIAS HUMANAS E LINGUAGENS
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+“QUEM SOU EU? ” APRENDA BRINCANDO COM O MANUAL VIRTUAL
+INTERATIVO.
+Isabela Fávaro Da Silva, isabelafavarosilva@gmail.com
+Lívia Estéfani Cardoso, liviaestafani@gmail.com
+Daniel Aparecido De Souza, danieldesouza@ifsp.edu.br(orientador)
+Caroline Domingues Porto Do Nascimento Barbieri,
+caroline.barbieri@ifsp.edu.br(coorientador)
+IFSP - Câmpus Capivari
+RESUMO. Fizemos um jogo físico acompanhado de um manual virtual, unindo os conteúdos
+estudados das matérias de História e Sistemas operacionais. Um dos nossos objetivos
+principais é atingir pessoas que têm interesse em tornar o processo de aprendizagem da matéria
+de História, uma experiência lúdica e agradável utilizando a tecnologia ao seu favor.
+Palavras-chave: Ensino De História; Educação Tecnológica; Sistemas Operacionais
+
+A CHEGADA DO HOMEM À LUA: DEBATENDO AS FAKE NEWS
+Nayara Gisele Borges, bnayara394@gmail.com
+Hellen Caroline Ferreira, carolinehellen399@gmail.com
+Beatriz Belanga Brajão, beatriz.230802@gmail.com
+Daniel Aparecido De Souza, danieldesouza@ifsp.edu.br(orientador)
+IFSP - Câmpus Capivari
+RESUMO. Este trabalho pretende relatar brevemente o contexto histórico da disputa entre duas
+potências da Guerra Fria, protagonizada pela corrida espacial. Além de abordar as inovações
+tecnológicas e seus impactos, almeja-se tratar dos significados e disputas de interpretação
+(inclusive fake news [notícias falsas]) acerca da chegada do Homem à Lua. Outrossim, desejase demonstrar algumas estratégias utilizadas na propagação das fake news referentes ao
+assunto em questão.
+Palavras-chave: Chegada À Lua; Fake News; Divulgação Científica
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+A CONFIGURAÇÃO BIOPOLÍTICA DO RACISMO AMBIENTAL NO
+QUILOMBO DO CARMO - SÃO ROQUE
+Rodrigo Da Silva Rocha, rrifsp2017@gmail.com
+Gleisy Tatiane Picoly, gleisy.picoli@ifsp.edu.br(orientador)
+Rafael Fabrício De Oliveira, rafael.oliveira@ifsp.edu.br(coorientador)
+IFSP - Câmpus São Roque
+RESUMO. Mesmo 130 anos após a abolição da escravidão, os quilombos são, hoje, duramente
+afetados por medidas públicas, as quais muitas vezes são impostas a estes grupos sem seu
+consentimento, tornando os direitos à participação nas atividades políticas e sociais da
+comunidade quilombola intensamente limitados. Destarte, o presente projeto tem como
+objetivo expor a existência do racismo ambiental no Quilombo do Carmo, sobretudo no que
+condiz à construção e implantação da Estação Ferroviária Sorocabana, através de uma série de
+análises qualitativas, bibliográficas e documentais na cidade de São Roque - SP, em que se
+localiza o quilombo. Para isso, buscar-se-á mostrar os impactos que essa construção trouxe à
+saúde psicológica dos quilombolas, as alterações em seus fatores culturais e a forma a qual
+essa construção afetou ao fator ambiental da região. A partir de um embasamento teórico
+inicial, percebe-se também o intenso processo de conflitos sociais e políticos entre o interesse
+público e privado, o que fundamenta a tese de que a biopolítica estabelece direta relação com
+a construção da Estrada de Ferro Sorocabana.
+Palavras-chave: Biopolítica; Racismo Ambiental; Quilombo Do Carmo
+
+A HISTÓRIA POR TRÁS DE UM PÃO: O PÃO PRP
+Matheus Felipe Gonçalves De Souza, math.comjoasp@gmail.com
+Natasha Fernanda Da Silva, natashafernandagm222@gmail.com
+Sandy Hellen Ribeiro, sandyhellenshrs@gmail.com
+Rhaysa Duarte Zappa, rhaysa_zappa@hotmail.com(orientador)
+Paloma Alves Marinho Lucena, palomamarinho@prof.educacao.sp.gov.br(coorientador)
+E. E. Cel. João Ernesto Figueiredo
+RESUMO. O pão PRP é produzido e consumido no município de Joanópolis-SP há quase um
+século, mas tem o seu contexto de surgimento relativamente pouco conhecido pelos seus
+habitantes e na comunidade científica. Partindo de tal fato, iniciou-se o presente trabalho com
+o intuito de fazer com que a população joanopolense perceba essa relação e valorize sua
+cultura, principalmente a parcela mais jovem. Através de pesquisa qualitativa e de finalidade
+exploratória, foi pesquisada na literatura histórica a conjuntura política da época de criação da
+receita. Confirmou-se então que o pão PRP é um dos principais elementos da cultura de
+Joanópolis e está diretamente ligado à história do município e do estado, ainda inserindo-se
+em um importante contexto nacional. Após a realização de pesquisa bibliográfica e de campo,
+e encontrada a relação do pão com o contexto histórico e científico, foram pensadas maneiras
+de divulgar este conhecimento para a comunidade jovem joanopolense. Decidiu-se pela
+divulgação dos resultados em feiras científicas de duas escolas da cidade, com o intuito de
+alcançar um segmento bastante jovem da população - pré-adolescentes e adolescentes –, e a
+distribuição de panfletos informativos em locais estratégicos, como comércios e o portal
+turístico. Espera-se, dessa forma, não apenas mostrar ao público contemporâneo parte da
+história da cidade, mas também contribuir com a literatura científica com um conhecimento
+que ainda é muito pouco trabalhado.
+Palavras-chave: Revolução De 1932; Pão Prp; Joanópolis
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+A MULHER BRASILEIRA NO MERCADO DE TRABALHO:
+APONTAMENTOS SOBRE O CUMPRIMENTO DA LEI DE LICENÇA
+MATERNIDADE
+SophiaAlonso Carrenho, sophiaalonso.sr@gmail.com
+Alice Kelly Fonseca Souza, alice.kelly.fs91@gmail.com
+NabillyAdriani Rodrigues, nana33ro@gmail.com
+RogérioSouza Silva, rogeriosrq@gmail.com(orientador)
+IFSP - Câmpus São Roque
+RESUMO. A presente pesquisa pretende analisar os problemas que as mulheres enfrentam no
+mundo do trabalho durante e após a licença-maternidade no Brasil, visando mostrar que esta
+é uma questão que milhões de brasileiras enfrentam. Destarte, o objetivo é compreender as
+vicissitudes do tema, aprofundando-se em analisar a condição da mulher em seu local de
+trabalho após a licença-maternidade de forma a conscientizar a população brasileira que o
+problema existe e precisa ser combatido, já que colabora com o aumento do preconceito e,
+consequentemente, leva a uma maior taxa de desemprego entre as mulheres. Para isso,
+buscamos a maioria dos dados em fontes documentais como a legislação e artigos relacionados
+ao tema, adotando uma metodologia de caráter exploratório. Conseguimos observar que o
+estereótipo existente na sociedade atual de que é obrigação da mulher cuidar da criança
+também afeta a sua participação no mundo do trabalho. Portanto, é perceptível que muitas
+mulheres são demitidas de forma injusta, por consequência destas falsas crenças, que
+relacionam o seu potencial em encarar a maternidade com sua vida profissional.
+Palavras-chave: Direitos Trabalhistas; Maternidade; Mundo Do Trabalho
+
+APRENDIZAGEM SIGNIFICATIVA: UMA ABORDAGEM INTEGRADA NO
+CURSO TÉCNICO EM INFORMÁTICA
+Jeferson Ferreira Dos Santos, jeeh71ferreira@gmail.com
+Heloísa Fernandez Palmas, loisa22palma@gmail.com
+Cleiton Dos Santos Cunha, cleitn04cunha@gmail.com
+Daniel Aparecido De Souza, danieldesouza@ifsp.edu.br(orientador)
+Adriana Morais Da Silva, adrianam@ifsp.edu.br(coorientador)
+IFSP - Câmpus Capivari
+RESUMO. Este trabalho pretende relatar brevemente o projeto desenvolvido no presente ano
+correnteproposto na disciplina de História e Lógica de Programação, visando integrar
+conteúdos da áreatécnica de informática e aprofundar conhecimentos tornando a aprendizagem
+significativas pelaimplementação dos saberes. Assim sendo, sob a ótica discente, pretende-se
+apresentar asatividades desenvolvidas e, principalmente, detalhar os ganhos pedagógicos da
+prática.
+Palavras-chave: Ensino De História; Educação Tecnológica; Lógica De Programação
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+AS NOVAS CARACTERÍSTICAS DA COMENSALIDADE NA
+MODERNIDADE LÍQUIDA: A DINÂMICA DA VIDA CONTEMPORÂNEA
+COMO INTERFERENTE DA SOCIABILIDADE À MESA.
+Talita Rodrigues Oliveira, talitairon@gmail.com
+Brenda Oliveira Buzzo, brendabuzzo82@gmail.com
+Rogério De Souza Silva, rogerio.souza@ifsp.edu.br(orientador)
+IFSP - Câmpus São Roque
+RESUMO. Com base nos conceitos e reflexões do sociólogo Zygmunt Bauman à respeito da
+modernidade líquida e sua influência nas interações humanas, este projeto tem o fito, a partir
+de revisão bibliográfica e aplicação de questionário, analisar os hábitos de sociabilidade
+alimentar de jovens estudantes de uma escola federal de Educação profissional e dos
+participantes de um Centro de Convivência de Idosos (CCI). Para tal fim, realizar-se-á a
+averiguação dos dados quantitativos e qualitativos coletados nos questionários que
+apresentarão as características alimentares dos jovens estudantes em paridade ou não com as
+dos idosos. Objetiva-se, portanto, depreender o processo de mudanças e fragilização com que
+a mentalidade contemporânea concebe as relações humanas de convívio à mesa, no processo
+denominado comensalidade.
+Palavras-chave: Comensalidade; Modernidade Líquida; Hábitos Alimentares
+
+DE AVILONE ATÉ SCARDANIA
+Erick Christyan, erickchristyan123@gmail.com
+Saulo, saulogiordani@gmail.com
+Karine Damacento De Souza, karinedama@gmail.com(orientador)
+Luciano Silva Prates, lucianosilvaprates@gmail.com(coorientador)
+E. E. Jose Pires Alvim
+RESUMO. De Avilone Ate scardania é um jogo de tabuleiro que tem como principal objetivo
+trabalhar seu raciocínio lógico de uma forma legal e divertido o jogo tem como base scolhas
+que podem mudar seu comando sobre a nação no jogo tera batalhas navis e terrestres o jogo
+se passa em continente chamado ourena em 1879 onde a sociedade esta em desenvolvimeto
+econômico e retrocesso social. O jogo pode ser jogadoem ate 10 pessoas conta com 4 paises
+industrializados 3 agrarios e 3 subdesenvolvidosNo jogo voce podera escolher um pais agrario
+ou industrial porém é necessário ressautar que essas escolhas contera com pontos positivos e
+negativos como por exemplo falta de comida ou dinheiro para movimentar as tropas e contruir
+industrias e etc...
+Palavras-chave: Estratégia; Guerra; Ação
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+DESMITIFICANDO O VEGANISMO ATRAVÉS DA CULTURA, FILOSOFIA E
+MEIO AMBIENTE
+Isabella Fernanda Barbosa, isabella_fernands@outlook.com
+Adriano Machado Henrique, adrianohis@ifsp.edu.br(orientador)
+Lucas Miguel De Carvalho, lucas.miguel@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Os tópicos vegetarianismo e veganismo ainda são mal julgados, incompreendidos ou
+simplesmente desconhecidos por muitos apesar do seu crescimento social. Devido ao fato de
+se tratar de um tema que abrange a proteção animal, preservação do meio ambiente, melhoria
+da saúde e mesmo com fins religiosos, a relevância de esclarecer do que o movimento e estilo
+de vida se trata e se preocupa, de forma acessível à toda a população é de extrema importância
+para criar uma maior inclusão social. Para que isso ocorra de forma eficaz, informações
+embasadas em livros e artigos acadêmicos ficarão disponíveis no site “Desmistificando o
+Veganismo”, oferecendo a todos informações atuais, históricas, biológicas, sociológicas,
+recomendações de leituras, aplicativos, filmes, documentários. Com isso, o tema se tornará
+um assunto mais acessível, com menos incógnitas e tabus, de fácil entendimento e fornecedor
+de informações para ricos debates, além de fornecedor de informações para futuros projetos
+de pesquisa.
+Palavras-chave: Vegetarianismo; Veganismo; Especismo
+
+DIREITO E CIDADANIA NO MUNDO DIGITAL
+Pedro Vinícius Angelin Furlan, pedroangelin10@hotmail.com
+João Pedro Oliveira, jp.oliveira172002@gmail.com
+Pedro Henrique Salles dos Santos, phsallesmagicdossantos@gmail.com
+Daniel Aparecido De Souza, danieldesouza@ifsp.edu.br(orientador)
+IFSP - Câmpus Capivari
+RESUMO. O presente trabalho é fruto das pesquisas realizadas para o Trabalho de Conclusão do
+Curso Técnico em Informática Integrado ao Ensino Médio. Este está pautado na pesquisa dos
+riscos e direitos no mundo digital. Dessa maneira, essa pesquisa descritiva-qualitativa com
+aporte bibliográfico e documental (documentos digitais) visa conhecer os principais riscos e
+os desvios legais (crimes virtuais) em face do poder público. Ainda, em fase a se concluir, com
+esse cabedal teórico se almeja produzir conteúdos educativos com vistas à segurança e uso
+consciente de espaços digitais.
+Palavras-chave: Cidadania Digital; Crimes Digitais; Educação Digital
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+DRAL - DESENVOLVIMENTO DO RACIOCÍNIO LÓGICO COM AUXÍLIO
+DA ROBÓTICA
+Leonardo Da Silva Cassanelli, leonardocassanelli12@outlook.com
+Rafael Faustino Olmo, rafaelf.olmo@gmail.com
+Guilherme Henrique Trevisan, guilherme.hct@hotmail.com
+José Maurício Lima Da Silva, maurililico@gmail.com(orientador)
+ETEC Conselheiro Antônio Prado
+RESUMO. Ao presenciarmos o déficit no raciocínio lógico de colegas e identificar que esse
+déficit é bem frequente e prejudicial ao progresso dos estudantes, decidimos tentar resolver tal
+problema e ajudar as pessoas em situações semelhantes. A partir disso, o projeto consiste na
+construção de um kit educativo para crianças a partir de 4 anos de idade, que desenvolva o
+raciocínio sequencial da [lógica de] programação e portanto, o raciocínio lógico. O kit é
+composto por um robô, um aplicativo de celular e um tabuleiro, sendo este montável pela
+criança. Com isso, toda vez que a ela for brincar, uma sequência diferente de movimentos será
+necessária, possibilitando desta forma, inúmeras formas de resolução. Há também no material
+educativo um manual com sugestões de estórias e desafios, para que os responsáveis utilizem-o
+como base ou criem uma estória juntos, desenvolvendo também a criatividade. Esse kit
+baseia-se nas ideias de Piaget (1971) em que os jogos infantis, até o estágio de maturidade
+intelectual (que ocorre por volta de 15 anos), proporcionam o exercício do intelecto, da
+atenção, da memória e de tantas outras dimensões da natureza humana. O intuito é fazer com
+que o robô, através de uma estória, faça corretamente o percurso criado. Para isso, o robô será
+comandado por um aplicativo que acumulará os movimentos e realizá-los -á sequencialmente.
+Sabendo que a lógica é essencial para qualquer disciplina, buscamos tornar o jogo aplicável
+em mais áreas de conhecimento. E para isso, visamos torná-lo mais acessível para que os
+responsáveis em educar a criança possam obtê-lo com maior facilidade.
+Palavras-chave: Robótica; Lógica; Jogo
+
+EFEITOS DA TECNOLOGIA NA MODERNIDADE LÍQUIDA:
+APONTAMENTOS SOBRE DEPRESSÃO E SUICÍDIO NA JUVENTUDE A
+PARTIR DA ANÁLISE DA OBRA "OS 13 PORQUÊS"
+Miriã Santos Pereira, miriasantos2002@gmail.com
+Rogério De Souza Silva, rogerio.souza@ifsp.edu.br(orientador)
+IFSP - Câmpus São Roque
+RESUMO. A presente pesquisa discute a coerção que a juventude sofre na atualidade com o
+advento da tecnologia, sobretudo os casos pertinentes à depressão e ao suicídio. Para isso,
+recorre à análise de dados sobre os jovens, especialmente as estatísticas brasileiras, e a
+designação da hodierna comunidade, denominada de modernidade líquida. Assim, emprega
+conceitos desenvolvidos pelo pensador polonês Zygmunt Bauman (1925-2017), com destaque
+para sua noção de mundo on-line e off-line. Para ilustrar a pressão sofrida pela juventude,
+cotejamos os conceitos de Bauman com a obra “Os 13 porquês” de Jay Asher, romance
+adaptado para um seriado e que alcançou significativa repercussão entre o público juvenil.
+Concluímos que há uma relação entre a depressão, e no limite o suicídio, e o tempo despendido
+na frente de aparelhos eletrônicos, especialmente computadores.
+Palavras-chave: Depressão; Tecnologia; Modernidade Líquida
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+LIXO ELETRÔNICO: REUTILIZAÇÃO E CONSCIENTIZAÇÃO
+AMBIENTAL
+Emilly F. De Sá Rissardo, emillyrissardo05@hotmail.com
+Nayélli HanielZampolli, nayzamp@hotmail.com
+Ana Cristina Gobbo Céssar, anagobbo@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O crescimento constante do uso da tecnologia traz para a sociedade infinitos
+benefícios, porém a incansável coação pela substituição dos recursos (celulares, tablets e
+computadores), sejam por questões técnicas ou ideais acessíveis e, desta forma, pressionando
+os recursos naturais. A eliminação do lixo eletrônico tem se mostrado um grande
+emprazamento para o mundo, pois diversos componentes eletrônicos trazem risco a saúde
+humana e ambiental, os quais contem metais pesados na sua composição e causam danos ao
+solo fértil.No enfrentamento dessa problemática ambiental, surge a importância do
+cumprimento do que está relatado nas políticas públicas instituídas, como a destinação correta
+dos resíduos sólidos, trazendo modificações essenciais para uma cidade sustentável. A Política
+Nacional de Resíduos Sólidos (PNRS) tem como princípio compartilhar todas as
+responsabilidades e o zelo pelo patrimônio ambiental a ações futuras. Isso significa que
+indústrias, cidadãos, gestores públicos e consumidores são todos responsáveis pelos resíduos
+sólidos gerados pelas suas atividades. Nesse sentido, esse projeto de pesquisa, busca por meio
+da junção dos elementos preconizados pela PNRS e pelos princípios da logística reversa,
+colaborar com a conscientização ambiental da população,compartilhando informações sobre
+o descarte correto e a reutilização do lixo eletrônico, pelo intermédio da logística reversa.
+Palavras-chave: Políticas Públicas; Conscientização Ambiental; Lixo Eletrônico
+
+MENINOS NÃO CHORAM? O CHORO COMPARTILHADO EM UMA
+SOCIEDADE AINDA MACHISTA.
+Isabele Freire Ramos, belefreire.r@gmail.com
+Dáphine Aparecida Do Prado Moreira, daphine.prado2005@icloud.com
+Gabriela Sousa Gonçalves, gabisous3@gmail.com
+Sabrina Centofanti Mori, sabrinamoric@gmail.com(orientador)
+Edmilson Nogueira, edmilson@prof.educacao.sp.gov.br(coorientador)
+E. E. de Período Integral Professor Luiz Roberto Pinheiro Alegretti
+RESUMO. Apesar de todos os avanços obtidos nas últimas décadas em relação à igualdade de
+gênero no Brasil e no mundo, o machismo ainda presente em nossa sociedade e, por
+consequência, no cotidiano escolar. Este machismo se encontra implícito nas decisões
+importantes da vida dos educandos, como relacionamentos, vestuários, ciclo de amizades e
+escolha do projeto de vida, prejudicando muitas vezes a realização pessoal não só de meninas,
+mas também dos meninos. Dando continuidade ao projeto do ano passado, assimilamos que
+este tema é recorrente em outras esferas, para tanto, este ano com o objetivo de passar essa
+experiência para outras escolas fizemos um plano de aula em cima do filme Billy Elliot que
+poderá ser utilizado nas escolas de período integral e meio período logo que em 2020 a tão
+importante disciplina (projeto de vida) será incluída no currículo.
+Palavras-chave: Machismo; Plano de Aula; Gênero
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+O ENSINO MÉDIO INTEGRADO E EDUCAÇÃO FISICA: O CASO DO
+IFSP/SALTO
+José Eduardo De Jesus Gomes, joseedu.mota13@gmail.com
+Cathia Alves, cathiaalves@ifsp.edu.br(orientador)
+IFSP - Câmpus Salto
+RESUMO. Essa investigação é fruto de um projeto bolsa ensino nomeado de “Jogos: Ocupação
+do tempo e do espaço lúdico no IF Salto”, realizado em 2018. Assim nesta pesquisa,
+apresentamos um recorte principal sobre a relação que o aluno do IFSP/Salto estabelece com
+essa disciplina a partir do nível de importância que atribui, as motivações para participação e
+atuação com esse conhecimento. A Educação Física compõe o currículo escolar dos alunos de
+Ensino Médio do IFSP campus Salto nos 1º e 2º anos. O objetivo da pesquisa foi verificar qual
+a perspectiva do aluno de ensino médio sobre a educação física no ambiente escolar. A
+metodologia utilizada para coletar os dados foi a aplicação de questionário com abordagem
+qualitativa. Participaram da pesquisa 189 alunos, sobre a importância da matéria de educação
+física no ensino médio, 87% consideram importante, 9% não sabem dizer e 3% consideram
+sem importância. Na abordagem metodológica 51% dos alunos preferem apenas aulas práticas,
+45% práticas e teóricas. Na participação 76% sempre participam das aulas, 22% e 55%
+participam por saúde ou por divertimento, 67% por gostar, e 22% por ser obrigatório. Quanto
+ao conteúdo abordado 45% preferem esporte de invasão ou esporte de redes e raquetes, 20%
+jogos e brincadeiras, 14% saúde e qualidade de vida. Conclui-se que os alunos em sua maioria
+valorizam a disciplina de Educação Física no currículo, participam das aulas, e preferem a
+abordagem metodológico prática e teórica. Quanto ao conteúdo da disciplina, os alunos
+preferem os esportes de invasão e de redes.
+Palavras-chave: Educação Física; Ensino Médio; Perspectiva
+
+O PERFIL POLÍTICO E A "ONDA VERDE" NO ELEITORADO DE
+BRAGANÇA PAULISTA
+Letícia Pereira De Lima, le_pereira_lima@yahoo.com.br
+Nicole Bartolini Izzo, nicole.bartolini.izzo@gmail.com
+Adriano Henriques Machado, adrianohis@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O presente projeto visa contribuir para a ampliação dos estudos sobre o
+posicionamento e o comportamento político do brasileiro, a partir de um estudo direcionado
+aos moradores da cidade de Bragança Paulista. A escolha por tal temática e abordagem foi
+fortemente influenciada pelo crescimento dos movimentos, grupos e pessoas que apóiam as
+ideologias que podem ser classificadas como do espectro político de direita e/ou extremadireita, haja vista os votos obtidos por este grupo político nas eleições presidenciais de 2018.
+Partindo disso, a pesquisa busca fazer um estudo bibliográfico a respeito dessa temática, com
+destaque para as análises produzidas por sociólogos e cientistas políticos que nos últimos anos
+estão estudando esse fenômeno, que vem sendo denominado como “onda verde”. Dessa forma,
+o objetivo central da pesquisa é analisar como esse fenômeno ocorre no cotidiano e no
+comportamento dos moradores da referida cidade, a partir de um questionário produzido com
+perguntas fechadas, aplicado em escolas públicas, com os alunos do 3º ano do Ensino Médio
+e/ou da mesma série correspondente na Educação de Jovens e Adultos (EJA). Com os dados
+coletados, fazer-se-á uma análise quantitativa dos mesmos, a fim de definir quais são os fatores
+determinantes para o apoio a tais grupos, com destaque para a análise do posicionamento
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+econômico, moral e religioso, buscando determinar quais são as características dessa diretriz
+de direita e se a mesma constitui-se numa permanência ou em apenas uma “onda”.
+Palavras-chave: Perfil Eleitoral; Política; Conservadorismo
+
+O SMARTPHONE COMO FERRAMENTA DE PESQUISA E INSTRUMENTO
+PEDAGÓGICO
+Paulo Henrique De Oliveira Lemes, paulohenriqueolemes@gmail.com
+Victor Gabriel Pinheiro De Faria, victorpta102@hotmail.com
+Jonatas Da Silva Gomes, jonatas.silvagomes@gmail.com(orientador)
+E.E. Bruno Florenzano Prof.
+RESUMO. Sabendo que ensinar não é transferir conhecimento, mas criar as possibilidades para
+a sua própria produção ou a sua construção, este projeto propõe o uso de aplicativos de celular
+como instrumento de pesquisa e auxiliador nas atividades pedagógicas em sala de aula,
+incentivando os alunos a utilizar o celular como ferramenta de estudo e disponibilizar ao
+professor uma metodologia de ensino interativa atraindo o discente para o aprendizado.
+Palavras-chave: Celular; Twitter; Brainly
+
+O USO DAS MÍDIAS SOCIAIS COMO MEIO DE ADMISSÃO NO PROCESSO
+COMPETITIVO DA POLÍTICA INSTITUCIONAL: UM ESTUDO DE CASO
+Pedro Bartolomei Oliveira E Silva, pedro.bartolomei9@gmail.com
+Marcos Tarcisio Florindo, marcosflorindo@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Os atos coletivos de manifestação ocorridos a partir de 2013 foram um grande marco
+na história da política brasileira e no âmbito do poder social, uma vez que a organização da
+grande maioria desses atos, os quais movimentaram uma grande parcela das massas populares,
+foi realizada por alguns grupos através de redes sociais, como o Facebook. O sucesso dessas
+manifestações populares e a percepção do poder das ferramentas de mídias sociais na esfera
+política resultaram na ascensão de alguns indivíduos, como o atual deputado estadual Arthur
+Moledo do Val, o qual se tornou conhecido pelo pseudônimo “Mamãe Falei” através de seu
+canal no YouTube, criado em junho de 2015; e também o atual deputado federal Kim Patroca
+Kataguiri, o qual foi cofundador do Movimento Brasil Livre, em 2014. Por meio da análise da
+trajetória política dos deputados citados, percebeu-se que o êxito do ciberativismo e do uso
+das mídias sociais para a propagação de ideais políticos modifica as atuais relações políticosociais de tal forma que amplia o campo de ação do marketing político e faz com que,
+consequentemente, os meios de admissão no poder se tornem mais modernos – a exemplo da
+cada vez mais frequente incorporação das ferramentas de mídias sociais como concretização
+de campanhas eleitorais digitais. Através dessas constatações, é elaborada a hipótese de que o
+uso das mídias sociais para a competição na política institucional rompe com os remotos
+métodos de ascensão política e adapta os mesmos aos novos espaços de sociabilidade da
+sociedade contemporânea.
+Palavras-chave: Mídias Sociais; Poder; Política
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+POLÍTICAS PÚBLICAS DE LAZER: ESPAÇOS E EQUIPAMENTOS NA
+CIDADE DE SALTO.
+Aldrey Iala Ávila, aldreyiavila@hotmail.com
+Cathia Alves, cathiaalves@ifsp.edu.br(orientador)
+IFSP - Câmpus Salto
+RESUMO. Essa pesquisa é um recorte de uma investigação de Iniciação Científica que tem como
+tema, “As políticas públicas de lazer e a cidade de Salto – SP: O olhar dos servidores do IFSP
+câmpus Salto”. O objetivo foi realizar uma leitura inicial sobre o tema do lazer e diagnosticar
+os espaços e equipamentos de lazer na cidade de Salto. A estratégia metodológica é revisão
+bibliográfica e pesquisa de campo. Para levantamento futuro dos dados contaremos com
+aplicação de questionário para todos os servidores do IFSP câmpus Salto, sujeitos escolhidos
+nesta pesquisa, pelos critérios de acessibilidade e intencionalidade. O objetivo geral da
+investigação é compreender se os servidores e servidoras conhecem os espaços e equipamentos
+de lazer da cidade, se gostam e se realizam práticas de lazer no município. Assim, neste recorte
+inicial, escolhemos abordar os espaços e equipamentos da cidade de Salto. Um dos pilares das
+políticas públicas de esporte e lazer, são os locais adequados para o acesso e oportunidade para
+vivências de lazer, já que a grande maioria do tempo passamos no âmbito da cidade. Portanto,
+o questionamento é: A cidade de Salto tem espaços e equipamentos de lazer? Se sim, quais
+são? Até o momento a pesquisa se encontra em andamento.
+Palavras-chave: Lazer; Espaços; Equipamentos
+
+PROPOSTA DE ESTUDO DA PERCEPÇÃO DA POPULAÇÃO SÃOROQUENSE QUANTO AO SANEAMENTO BÁSICO.
+Isabella Cristina De Sousa Ferro, isa.ferro84@gmail.com
+Gustavo Rocha Mendanha, gustavo2001.gr3@gmail.com
+Renan Felicio Dos Reis, renan.felicio@ifsp.edu.br(orientador)
+IFSP - Câmpus São Roque
+RESUMO. É sabido que, embora as informações sobre saneamento sejam publicadas anualmente
+(ex. SNIS – Sistema Nacional de Informações sobre Saneamento), o nível de conscientização
+e conhecimento da população geral ainda é deficiente em relação às implicações e importância
+da existência de serviços de saneamento adequados e bem geridos, bem como a relação destes
+serviços com outras necessidades populacionais, como saúde, meio ambiente, emprego,
+educação, entre outras. Diante disso, e com base em estudos realizados em âmbito nacional
+relativos à percepção da população brasileira sobre saneamento básico e atuação do poder
+público (IBOPE, 2009 e 2012), propôs-se realização desta pesquisa em âmbito local no
+município de São Roque-SP, com o objetivo de levantar estas percepções junto à população
+são-roquense, por meio de aplicação de questionário, compilação dos dados, análise dos
+resultados e disseminação das conclusões e informações obtidas visando à conscientização e
+sensibilização local.
+Palavras-chave: Saneamento; População; Poder Público
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+REIS E RAINHAS DA AFRICA
+Ligia Santos De Oliveira, santosligia2641@gmail.com
+André Santos Luigi, andre.luigi@ifsp.edu.br(orientador)
+Julio Cesar Meiron De Souza Reis, julio.meiron@ifsp.edu.br(coorientador)
+IFSP - Câmpus Registro
+RESUMO. Esta pesquisa busca construir trinta verbetes sobre Reis e Rainhas da África para
+disponibilizar em um website com o objetivo de subsidiar a implementação das Diretrizes
+Curriculares para a Educação das Relações Étnico Raciais e Ensino de História e Cultura AfroBrasileira e Africana, bem como desmontar os estereótipos negativos normalmente associados
+aos africanos e seus descendentes no currículo escolar. A pesquisa aborda a bibliografia
+historiográfica enquanto os processos de construção da memória e da identidade social, bem
+como seus desdobramentos na disputa pela apropriação do ensino de História enquanto lugar
+de memória.
+Palavras-chave: Ensino Da História Da África; Relações Étnico-Raciais; Memória Social
+
+STONE JUNGLE: VIVENDO A HISTÓRIA
+Juliano Dantas De Mello, julianodantasmello@gmail.com
+Gabriela Geney Da Silva, gabrielags.mw@gmail.com
+Kimberly Nazaré Dias Da Silva, binha.binha10@gmail.com
+Antonio Anderson Teixeira Cotrim, anderson.cotrim@ifsp.edu.br(orientador)
+IFSP - Câmpus Avançado Jundiaí
+RESUMO. O projeto pretende fixar e trazer a experiência de viver o período da revolução
+industrial, tema que frequentemente é abordado nas aulas em diversas disciplinas. Será
+apresentado uma gamificação com diversas fases onde o jogador poderá explorar e conhecer
+o cenário, trazendo o conhecimento da época. O jogador terá duas classes, operário e burguês,
+com três regiões, campo, fábrica e cidade, assim, o mesmo poderá explorar locais e vivenciar
+características do período, como o modo de vida dos operários e como os burgueses lidavam
+com eles. Acreditamos que o projeto possa trazer contribuições ao conhecimento dos
+participantes e pretendemos melhorar técnicas de ensino-aprendizagem, inovando o setor
+educacional e incluindo gamificações em instituições.
+Palavras-chave: Vivências; Decisões; Revolução
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+ENGENHARIAS
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+ACTIVE NOISE CONTROL HEADPHONE
+Rafael Pereira De França, rafapereiradefranca@gmail.com
+Alexandre Fortuna Wanderlay Filho, filho-fortuna.wfilho@gmail.com
+Matheus Rocha Ferreira, matheusrocha967@gmail.com
+Luiz Fernando Da Costa Badinhan, luiz.badinhan@etec.sp.gov.br(orientador)
+Regina Morishigue Kawakami, regina.kawakami@etec.sp.gov.br(coorientador)
+ETEC Bento Quirino
+RESUMO. No senso comum, a palavra ruído significa barulho, som ou poluição sonora não
+desejada. Dia e noite nos trabalhos, lares e lazeres o ruído pode produzir um sério estresse
+físico e psicológico e infelizmente atualmente não existe um modo eficaz de isolar o ruído e
+não se isolar de todo o ambiente em volta. Poluição sonora é um termo definido como a
+degradação da qualidade ambiental resultante de atividades que prejudiquem a saúde,
+segurança e o bem-estar da população por meio sonoro. Esse vem sendo muito utilizado
+atualmente uma vez que a mesma se apresenta como uma das principais problemáticas da
+sociedade. Estima-se que 25% da população trabalhadora seja portadora de PAIR de algum
+grau. Em determinados casos além da perda auditiva o ruído pode causar problemas na
+gestação, como hipertensão, enjoo, tontura e até mesmo parto prematuro. Perda Auditiva
+Induzida por Ruído (PAIR) é a perda provocada pela exposição por tempo prolongado ao
+ruído, configurada como uma perda auditiva do tipo neurossensorial, geralmente bilateral,
+irreversível e progressiva com o tempo de exposição ao ruído. O projeto "ANC Headphone”
+por sua vez busca solucionar essa problemática. Consiste na criação de um dispositivo capaz
+de bloquear por meio de princípios físicos da acústica e um esquemático elétrico, determinados
+ruídos presentes no cotidiano como: motores, sirenes, buzinas, eletrodomésticos, etc. Pode-se
+concluir que o ruído reduz a qualidade de vida, gera doenças, estresse e diversos outros
+malefícios à população, portanto a solução da mesma seria de grande importância para a saúde
+humana.
+Palavras-chave: Ruido; Saúde; Pair
+
+ALARME RESIDENCIAL INTELIGENTE
+Igor Siqueira Muniz Dos Santos, munizigor@hotmail.com
+Cristiano Santana Cunha De Oliveira, crisco@ifsp.edu.br(orientador)
+Frederico De Oliveira Simões, fsimoes@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Os assaltos à residência é um problema de Segurança Pública presente em muitas
+cidades. Diante disso, existe a tendência dede muitos cidadãos ampliar a proteção do seu
+patrimônio por meio de um alarme residencial. Por outro lado, a automação e a domótica é
+uma tendência atual, e nesta área a unificação do controle dos sistemas de uma casa é visto
+como um avanço em relação a situação atual, em que a maior parte dos sistemas de uma casa
+são independentes entre si. Frente a este cenário, o projeto se propõem realizar o controle de
+um alarme residencial integrado aos circuitos de iluminação de uma kitnet em vista de integrar
+esses dois sistemas existentes em muitas casas, porém de forma independente. As principais
+tecnologias utilizadas no projeto são: Controlador Lógico Programável e Arduíno, o primeiro
+controla a instalação elétrica de iluminação da casa e o segundo o teclado e display usados
+para ativar e desativar o alarme. O protótipo a ser construído é uma maquete de kitnet, isto
+servirá para provar o conceito, para que assim, possa ser adaptado para residências maiores e
+imóveis comerciais e industriais.
+Palavras-chave: Alarme Residencial; CLP; Arduíno
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+ARMAZÉM AUTOMATIZADO COM TRANSELEVADOR PARA INDÚSTRIA
+4.0
+Marcelo Lima Santos, marcelolima.st@gmail.com
+Izabela Dos Santos, iza.bela00.santos@gmail.com
+Marcelus Guirardello, marcelus.guirardello@gmail.com(orientador)
+Regina Morishigue Kawakami, regina.kawakami@etec.sp.gov.br(coorientador)
+ETEC Bento Quirino
+RESUMO. Este projeto foi fundamentado na necessidade de atender a uma demanda
+administrativa para aperfeiçoar o fluxo de distribuição de uma cadeia logística, no domínio de
+armazenagem mais especificamente. Capaz de modificar aspectos do processo de fabricação,
+linha de montagem para chegar num produto final, passando pelos trâmites da distribuição e
+comercialização, até chegar nas mãos do usuário. Para tanto desenvolveu-se o Transelevador
+de Bancada, protótipo de uma máquina apta a atuar num estoque automaticamente,
+manipulando os itens com precisão de operação; integrado a um sistema de rede local
+conectado com todos os outros domínios da cadeia, corroborando para eficiência da mesma.
+O Transelevador é uma máquina projetada para realizar operações de forma autônoma, e
+desenvolvido com um sistema que garante a integridade do produto, velocidade de operação e
+mínima margem de erro ao manipulá-lo no ambiente de operação. Possibilitando atender a
+demanda de transporte, organização e registro de todos os itens que estiverem sendo inseridos,
+retirados e transferidos dentro do estoque da maneira mais efetiva possível, considerando todas
+as variáveis que regem a cadeia. A máquina está vinculado a um microprocessador, conhecido
+como Raspberry Pi; que conecta-se com a internet e obtém o monitoramento completo da
+máquina em tempo real. Assim gera relatórios extremamente precisos a partir de dados
+importantes coletados ao longo do dia, que serão armazenados e processados para aperfeiçoar
+a qualidade dos processos e ampliar a articulação do plano de ação em toda a cadeia logística.
+Palavras-chave: Gestão; Automação; Internet Das Coisas
+
+AUTOMAÇÃO DE UM TELESCÓPIO DE BAIXO CUSTO
+Gabriel Silva Hayashida, gshayashida@gmail.com
+Marcelo Aoki Junior Junior, m.aoki@aluno.ifsp.edu.br
+Ricardo Leandro Custódio Filho, ricardo.leandrocf@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+RicardoSovat, rsovat@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. A pesquisa na área de astronomia no Brasil teve grande impulso a partir de 1970,
+tendo crescido em produção científica a uma taxa média anual de cerca de 11% até 2000. É
+perceptível que a astronomia amadora no Brasil é uma área que vem crescendo muito e sendo
+bem reconhecida pelo mundo, porém com um problema de baixo investimento pelo país,
+fazendo com que os equipamentos de estudo e observação tenham um valor de mercado muito
+alto, considerando os fatos mencionados, o objetivo do projeto é auxiliar os astrônomos
+amadores, desenvolvendo uma automação de um telescópio utilizando materiais de baixo
+custo, com base nas pesquisas realizadas. Os materiais utilizados para o protótipo do projeto
+foram um microcontrolador arduino Nano, dois motores de passo Akiyama Nema 23, sete
+botões, um display com um módulo I2C integrado, uma placa de circuito impresso, uma fonte
+de 12 Volts e 5 Amperes, uma caixa de MDF onde o circuito ficará acoplado e um telescópio
+refletor.
+Palavras-chave: Astronomia; Telescópio; Baixo Custo
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+BAG ALARM - SINALIZADOR MICROCONTROLADO VESTÍVEL DE
+EXCESSO DE PESO PARA MOCHILAS ESCOLARES
+Manuela Gracie Nicoliello, manuela.gracie2002@ gmail.com
+João Pedro Menegon Longhi, jpmlonghi@hotmail.c om
+Weliny Caroliny Machado Cabral, welinycaroliny@gmai l.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto é odesenvolvimento de um dispositivo de alerta visual e sonoro de peso,
+que podeser instalado em quaisquer mochila de duas alças, como as escolares, paraavisar ao
+usuário, o peso mínimo que o indivíduo deve possuir de acordo com acarga encontrada na
+mochila utilizada lida pelo sensor, auxiliando os queutilizam uma mochila com frequência e
+estão propícios a carregar um pesoacima do indicado, 10% do peso da pessoa que está
+carregando a mochila emseus ombros, como estudantes que estão em fase de crescimento,
+incentivandoele a remover o excesso quando houver, evitando lesões na coluna. Os
+alertasserão emitidos para informar o usuário de acordo com o peso que há namochila,
+evitando assim problemas de postura, escoliose, cifose e lordose. O dispositivoserá composto
+por um sensor de força resistivo, um microcontrolador vestível,leds e um buzzer. O uso de
+componentes Lilypad (vestível) possibilita acostura dos componentes com linha condutiva,
+trazendo maior conforto aousuário. O dispositivo será instalado em uma alça da mochila e irá
+realizar omonitoramento do peso sempre que acionado pelo usuário. O protótipoencontra-se
+em fase de testes em bancada e já é possível fazer a indicaçãosonora e visual do peso mínimo
+que o usuário deve ter sem que ocorra umcomprometimento da sua coluna devido ao excesso
+de carga na mochila.
+Palavras-chave: Monitoramento Do Peso; Automação; Tecnologia Vestível
+
+BIKEPLUS - BICICLETA MULTIFUNCIONAL
+Lucas Jacinto Mariano, lucasmarianovbs@gmail.com
+Lucas Rodrigues Malaquias, lucasmalaquiasrodrigues@gmail.com
+Pedro Henrique Fernandes, pedrohenriquefer@gmail.com
+Uesclei Costa Silva, uesclei.costa@ifsp.edu.br(orientador)
+Fabíola Tocchini De Figueiredo, fabiolatdef@ifsp.edu.br(coorientador)
+IFSP - Câmpus Salto
+RESUMO. A partir da percepção do potencial para gerar energia durante a prática do ciclismo,
+pensou-se em criar uma bicicleta sustentável que pudesse aproveitar esse esforço para produzir
+energia elétrica e, ao mesmo tempo, que melhorasse as experiências vividas pelo ciclista.
+Diante disso, montou-se uma bicicleta que gera e armazena energia elétrica, cuja função é
+alimentar uma série de equipamentos que também foram modelados e incorporados ao projeto.
+Como meio de obter tais resultados, utilizou-se um dínamo, acoplando-o à estrutura traseira
+de uma bicicleta, de modo que o seu eixo se encostou ao pneu, gerando, com o movimento
+circular, energia elétrica, que foi estocada em uma bateria. Dessa forma, o trabalho busca
+melhorar a qualidade de vida do ciclista durante as atividades com a bicicleta, promovendo
+segurança e facilidades que garantem conforto e diversão.
+Palavras-chave: Bicicleta; Energia Elétrica; Dínamo
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+CISTERNA ELETRÔNICA PARA SISTEMA DE GOTEJAMENTO POR
+HASTE
+Lucas Mortean Ribeiro, lucas.mortean37@gmail.com
+Gabriel Henrique Vitorato, gabrielvitorato56@gmail.com
+Gustavo Brioschi, gustavobrioschi7@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Neste trabalho pretende-se apresentar uma maquete de cisterna automatizada que
+coleta água da chuva e a redireciona para um sistema de gotejamento por haste. A razão do
+desenvolvimento do projeto centra-se na necessidade de minimizar o gasto excessivo de água
+tratada em pequenas plantações e hortas. A cisterna automatizada está integrada a um sistema
+de irrigação por gotejamento com haste, o qual evita o desperdício de água, pois a irrigação da
+planta é realizada na área exatamente sobre a raiz. Com o uso de um relógio de tempo real é
+possível fazer o sistema funcionar em horários pré-programados. O sistema é composto por
+um reservatório de água, sensores de nível, relógio de tempo real, bomba de água, um display
+gráfico e um microcontrolador que faz toda a automação do sistema. O sistema elétrico será
+encapsulado para proteção dos componentes eletrônicos e mecânicos contra água. Foram
+utilizadas ferramentas de engenharia para o modelamento mecânico do projeto como o Solid
+Works e Autocad, para o projeto do sistema elétrico foram utilizados os softwares Proteus
+versão education para projeto e simulação e o Arduino IDE para programação do
+microcontrolador. O irrigador por gotejamento foi dimensionado para atender até dez pontos
+de irrigação. O projeto foi testado em bancada e o próximo passo é desenvolver um protótipo
+para a validação da proposta.
+Palavras-chave: Cisterna Autônoma; Economia De Água; Automação; Irrigação
+
+CORTE CERTO NO VALOR CORRETO! "DISPOSITIVO
+MICROCONTROLADO PARA REFERENCIA NO CORTE DE BOLO
+CASEIRO"
+Camila De Jesus Lima, camila.jesuslima23@gmail.com
+Yngrid Tays Da Silva Vivaldini, dynha_emo@hotmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto é o desenvolvimento de um dispositivo micro controlado que irá auxiliar
+os microempreendedores que realizam vendas de bolos caseiros fracionados, ou seja, venda
+de fatias de bolo. Os confeiteiros e boleiros são o público alvo que poderão utilizar este projeto
+para realizar as suas vendas de forma customizada, ou seja, podendo vender fatias de bolo com
+preços variados. Este estudo está direcionado a dar a referência visual de corte somente para
+bolos redondos. A proposta é utilizar um feixe de laser para dar a referência visual de corte da
+fatia do bolo para o vendedor, assim de acordo com o valor desejado, o equipamento sempre
+irá indicar a medida correta de corte da fatia no valor correto, que é o diferencial deste projeto.
+Serão utilizados micro controladores, servo motores, laser de linha, display e botões pulsantes
+para a montagem do protótipo. Para a utilização do sistema, o comerciante irá informar o valor
+total do bolo e o valor da fatia a ser cortada, com estas informações o microcontrolador calcula
+o ângulo correspondente, aciona o servo motor que tem o laser linha acoplado em sua
+extremidade, fornecendo assim a referência visual desejada. Desta forma, o vendedor
+consegue realizar o corte no valor correto, agilizando o processo de venda e customizando o
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+valor do cliente a cada pedido. Atualmente, o projeto está operacional e em testes. Seu
+funcionamento está de acordo com o previsto inicialmente sendo que melhorias identificadas
+serão incorporadas no protótipo final.
+Palavras-chave: Automação; Empreendedorismo; Microcontroladores
+
+CROWD BUS: SISTEMA DE SINALIZAÇÃO DE EXCESSO DE
+PASSAGEIROS EM TRANSPORTE PÚBLICO
+Jonas De Lima Versiani Mota, jonasversiani@gmail.com
+Bryan Ribeiro Alves De Lima, deathstroke0561606@gmail.com
+Cristiano Santana Cunha De Oliveira, crisco@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O projeto busca propôr uma solução para um problemático aspecto da mobilidade
+pública: a superlotação dos ônibus.Para tanto pretende construir um sistema com sensores para
+monitorar a quantidade de pessoas que permanecem dentro do ônibus e um aplicativo a ser
+instalado no smartphone do motorista e do cobrador, e até mesmo dos passageiros. No
+momento que a superlotação for eminente, o sistema irá avisar as esferas competentes (por
+exemplo: companhia de ônibus e setor de fiscalização da prefeitura) por meio de conexão com
+a internet realizada pelos smartphones que possuem o app instalado, para que assim, outro
+ônibus seja encaminhado a frente deste para oferecer transporte dígno aos passageiros que
+iriam superlotar o ônibus em questão. Os dados gerados por este sistema poderão ser
+analizados por comissões de estudo para melhorar as quantidades de ônibus em cada linha e
+em cada horário. O aplicativo inicialmente será desenvolvido para conexão do sistema de
+sensores de contagem de passageiros à internet, porém outros desdobramentos são possíveis,
+como por exemplo:Alerta de assalto ou vandalismo, horário de chegada de ônibus em cada
+ponto, Jornal do ônibus, Promoções do comércio no itinerário de cada ônibus, etc...
+Palavras-chave: Ônibus; Internet Das Coisas (Iot); Super Lotação
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+DISPOSITIVO DE AUXÍLIO VISUAL PARA CONDUTORES
+MONOCULARES
+Jean Lucas Sodré Carbone, lucarboninhos@gmail.com
+Gabrielly Barreiro Mafra, mafragabrielly@gamil.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. A visão monocular ou cegueira em um olho, é considerado umadeficiência que afeta
+o convívio social do indivíduo portador e na capacidadede dirigir, pois é difícil avaliar com
+precisão a distância dos objetos ecarros; estacionar ou dar marcha ré; dirigir em meio ao
+tráfego, entre outrosproblemas que foram confirmados pelo portador da deficiência e
+voluntáriopara testes do projeto. O projeto pretende resolver o problema depessoas que
+possuem visão monocular do olho esquerdo e dificuldadepara condução de veículos com CNH
+categoria B. Para isso, será utilizado umsensor de distância ultrassônico equipado
+externamente ao carro, que mostraráa distância, de no máximo 3 metros, em um display
+equipado dentro do carro aolado esquerdo do volante. Haverá também uma câmera
+posicionada embaixo doretrovisor esquerdo que transmitirá a imagem do ponto cego do
+motoristadeficiente, em um monitor sete polegadas posicionado no centro do painel docarro.
+O equipamento será alimentado pela própria bateria do carro e a tensãomáxima será de 12V.
+O sensor de distânciaultrassônico captara a distância entre o carro e possíveis obstáculos
+queestejam a menos de 3 metros do veículo e por meio de uma programação,mostrará no
+Display Oled, que será atualizado a cada milissegundo, se oobstáculo está próximo ou em uma
+distância segura. Como resultado preliminar,há o protótipo completo funcionando e com as
+informações do sensor dedistância sendo transmitidas no Display Oled.
+Palavras-chave: Tecnologia Assistiva; Visão Monocular; Carro Especial
+
+DISPOSITIVO PARA ALERTA DE QUEIMADAS NA SERRA DO
+ITAPETINGA
+Laura Gomes Caldeira, lauragomescaldeira73@gmail.com
+Tamires De Carvalho Pedroso Campos, tatahcpcampos@gmail.com
+Rayane Silva Caldeira, caldeirarayane2018@gmail.com
+Pedro LuísCalheiros Da Silva, pedro.calheiros@ifsp.edu.br(orientador)
+Talita De Paula Cypriano De Souza, talita@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O dispositivo que será feito com arduíno vinculado a um aplicativo têm a principal
+função de alertar o início das queimadas tanto naturais quanto premeditadas, através de dois
+sensores um de temperatura e um sensor de gases, facilitando o trabalho dos envolvidos em
+ações de combate aos incêndios florestais. Inicialmente o foco do projeto é ajudar a
+SIMBiOSE, uma Organização Não Governamental (ONG), sediada em Atibaia e cuja área de
+atuação principal é a Serra do Itapetinga e seu entorno, a melhorar sua capacidade de
+identificação de focos de incêndio, reduzindo o tempo de resposta aos eventos de fogo e,
+consequentemente, reduzindo a área queimada.
+Palavras-chave: Tecnologia; Sustentabilidade; Praticidade
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+DISPOSITIVO PARA MONITORAMENTO DE COMPOSTAGEM CASEIRA,
+TECNOLOGIAS SOCIAIS E AGROECOLOGIA EM ASSENTAMENTOS DE
+REFORMA AGRÁRIA
+Vinicius Marchezi Rosa Da Cruz, vi.cruz.vm@gmail.com
+Franciely Prado Dos Santos, francielyprado51@gmail.com
+Samuel Vicente Dias De Freitas, ga.marchezi@gmail.com
+Maicon Vaz Moreira, maicon.moreira@ifsp.edu.br(orientador)
+Erika Batista, erika.batista@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. A agricultura familiar camponesa é marcada por conflitos e as inovações da
+agricultura latifundiária restritivas às necessidades de comunidades assentadas. Entretanto, o
+desenvolvimento da matriz científica da Agroecologia amplia as possibilidades sociotécnicas.
+O objetivo geral deste relato é compartilhar a experiência desenvolvida no Assentamento
+Milton Santos por meio das Tecnologias Sociais (TS). O objetivo específico é apresentar um
+dispositivo de baixo custo para monitoramento de compostagem caseira. A metodologia
+seguiu os princípios da Educação Popular com visitas de campo, coleta de dados e validação
+participativa. Os resultados apontam para um incremento da adubação usual pelo uso do
+dispositivo, demonstrando como as TS fortalecem redes sociotécnicas essenciais. Este
+trabalho faz parte do projeto “Agroecologia, tecnologias de produção orgânica em
+assentamentos rurais e educação popular”, fomentado pelo CNPq e desenvolvido no âmbito
+do Núcleo de Estudos em Agroecologia, Educação e Sociedade (NEAES) no Instituto Federal
+de São Paulo (IFSP), Campus de Campinas.
+Palavras-chave: Agricultura Familiar; Adubação; Redes Sociotécnicas
+
+DISPOSITIVO PORTÁTIL PARA O TRATAMENTO IMEDIATO DE LESÕES
+DE IMPACTO NA DISCIPLINA DE EDUCAÇÃO FÍSICA UTILIZANDO
+CÉLULA DE PELTIER
+Antônio César De Souza Rocha, antoniocesarrocha89@gmail.com
+Victor Hugo Sijanas Mendes, hugoo.victorrvh@gmail.com
+Vinícius Dos Santos Ribeiro, vico.sribeiro@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Esteprojeto é o desenvolvimento de um equipamento portátil capaz de refrigeraruma
+bolsa d’água em substituição ao gelo para realizar o tratamento de lesõesde impactos. A prática
+de atividades físicas traz inúmeros benefícios àsaúde, porém existem riscos inerentes a sua
+prática como as lesões deimpacto. Como atendimento imediato às lesões, sugere-se o uso da
+crioterapia,ou seja, o resfriamento do local lesionado a fim de reduzir o processoinflamatório;
+no entanto, muitas vezes, esse processo é dificultado devido afalta do acesso ao gelo,
+ocasionada pela infraestrutura do ambiente. NoBrasil, deficiências estruturais estão presentes
+nas mais de 181,9 milescolas, as quais submetem seus alunos à inúmeras atividades físicas em
+razãoda obrigatoriedade da disciplina de educação física na grade curricular,assim este projeto
+irá atender a esta demanda real fornecendo uma soluçãoacessível e de baixo custo para realizar
+este tratamento imediato quando daocorrência uma lesão de impacto. O dispositivo utiliza uma
+célula de Peltier queresfria a água a uma temperatura que possibilita o tratamento imediato da
+lesãopor meio da crioterapia. O protótipo montado possui sensores, microcontrolador,bomba
+de água e uma bolsa térmica que quando integrados possibilita oresfriamento da água em um
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+circuito fechado. Desse modo, pretende-sesolucionar um problema presente na vida de mais
+de 48,5 milhões de estudantesbrasileiros. O protótipo desenvolvido está operacional e em fase
+de testes.
+Palavras-chave: Lesões De Impacto; Crioterapia; Célula De Peltier
+
+ECO PLASTIC - RECICLAGEM DE GARRAFAS PETS EM SACOLAS
+ECOLÓGICAS.
+Enya Cristina Mayer, cientistasesi012@gmail.com
+Maria Luísa Custodio Oliveira, cientistasesi012@gmail.com
+Nicolly Pereira Lopes, cientistasesi012@gmail.com
+Vitória Roberto Bisanção, vitoriasroberto@gmail.com(orientador)
+Jeanice Mara Caetano Roverelli, jeanice.roverelli@sesisp.org.br(coorientador)
+Sesi-012/ Bragança Paulista
+RESUMO. Partindo da preocupação do elevado poder de consumo da sociedade atual, o projeto
+ECO PLASTIC, busca formas de amenizar o índice de morte de animais, marinhos em virtude
+do descarte incorreto das embalagens plásticas utilizadas pelo homem em seu cotidiano que
+podem gerar impactos nocivos também a saúde humana. A partir do uso do material LEGO®
+MINDSTORMS® Education EV3, o objetivo do trabalho foi criar um protótipo que permitisse
+verificar a possibilidade de reciclar a garrafa pet, transformando-a em sacolas plásticas
+reutilizáveis pelo homem, diminuindo dessa forma a quantidade de microplásticos descartado
+incorretamente na natureza.
+Palavras-chave: Plástico; Sacolas; Robótica; Garrafa Pet
+
+ESTUFA ECOEFICIENTE
+Poliana Pinge Oliveira, poliana.pinge@gmail.com
+Nicolly Bianca Rigo, nicollybianca34@gmail.com
+Luiz Gustavo Cardoso Silva, luizg2.2002@gmail.com
+Dimas Fernandes Silva, dimas.silva@etec.sp.gov.br(orientador)
+Antonio Carlos Silva, antoniosilva.ac.silva@gmail.com(coorientador)
+ETEC Bento Quirino
+RESUMO. A crescente onda de preocupações com o meio ambiente tem impulsionado a
+produção orgânica de alimentos, cultivo de culturas sem a utilização de aditivos químicos para
+sua evolução, para que isso ocorra de forma viável utiliza-se métodos alternativos para
+adubação e controle de pragas. Pensando nisso o principal propósito desta pesquisa será
+desenvolver uma estufa de ambientes isolados totalmente automatizada, seu público alvo são
+os pequenos e médios agricultores, tendo em vista uma grande produtividade por conta do
+controle do crescimento, do consumo de água além de controle e análise dos dados da cultura
+por aplicativo. A metodologia será a de pesquisa aplicada, ou seja, o problema identificado
+será solucionado por meio de pesquisas e análises de dados que resultará em um protótipo. O
+resultado final esperado é de uma estufa totalmente automática e com o controle feito
+inteiramente por um aplicativo, que será responsável pela configuração da estufa e por todo o
+processo produtivo controlando luminosidade, temperatura e irrigação. Tendo atingido todos
+os objetivos o protótipo contribuirá para um melhor cultivo de produtos orgânicos e
+principalmente baratear o seu processo, além de contribuir para o meio ambiente melhorando
+a condição da agricultura orgânica no país.
+Palavras-chave: Automático; Alimentação; Produtividade
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+FAIXA CONTÍNUA
+Nicolas Edson Da Silva, nicolas.ed@hotmail.com
+Victor Carinio De Barros, vecktorbarros@outlook.com
+Gilberto Fernandes Matos, gilbertomatos@prof.educacao.sp.gov.br(orientador)
+E.E. Maria José de Moraes Salles
+RESUMO. O projeto Faixa Contínua é um protótipo de um veículo com sensores que anda sobre
+cores escuras e evita cores claras. Este protótipo previne um acidente pois, se implantado em
+veiculos utilitários não ultrapassará em faixas contínuas ou calçadas.
+Palavras-chave: Segurança; Mobilidade; Leis De Trânsito
+
+IMPRESSORA 3D COM CÂMARA DE ISOLAMENTO
+NatanGarcia, nagarcia2010@gmail.com
+João Pedro Ribeiro, joaopedroribeiro@hotmail.com
+Rafael Cardoso Galafaci, rafaelcardosogalafaci26@gmail.com
+Érico Pessoa Félix, ericopfelix@ifsp.edu.br(orientador)
+Fabíola Tocchini De Figueiredo, fabiolatdef@ifsp.edu.br(coorientador)
+IFSP - Câmpus Salto
+RESUMO. Nos últimos anos máquinas de prototipagem por deposição plástica (FDM), também
+conhecidas como Impressoras 3D vem sendo desenvolvidas em pequenos tamanhos e baixo
+custo. Tais máquinas são de grande utilidade em prototipagem rápida, design e até mesmo em
+lazer. Tecnologia em impressão 3D desenvolvida em conjunto por uma comunidade virtual
+(RepRap) "open source" está acessível a qualquer pessoa com acesso à internet e as
+ferramentas adequadas. Esse trabalho teve como objetivo estudar os conceitos que envolvem
+o universo da impressão 3D e posteriormente desenvolver um projeto que vise a melhoria de
+uma impressora 3D através da criação de uma câmara de isolamento que permite realizar o
+controle de temperatura interno da máquina.
+Palavras-chave: Impressora 3d; Prototipagem; Câmara De Isolamento
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+MIAU: A TECNOLOGIA A SERVIÇO DAPROTEÇÃO ANIMAL
+Isabel Padilha Ximenez, isabelpximenez@gmail.com
+Isadora De Oliveira Bordini, isadorabordini11@gmail.com
+Yasmin Ferreira Da Silva, yasminferreirads@hotmail.com
+Kelly Cristina Da Silva Pascoalino, kellypascoalino@hotmail.com(orientador)
+COLÉGIO FAAT
+RESUMO. Segundo o IBGE em2010 haviam 556.846 associações e fundações sem fins
+lucrativos no Brasil. Dessas, 2.242 destinavam-se ao cuidado do meio ambiente proteção
+animal, protagonizando a maior taxa de crescimento entre os anos de 2006 e 2010. Entre essas
+associações destacam-se as Organizações Não Governamentais (ONGs) destinadas a
+proteçãoanimalque,emsuamaioria,realizamoresgate,acolhimentoeadoçãode
+animais
+domésticos inicialmente em situação de riscoeabandonados. Segundo a World Veterinary
+Association há cerca de30 milhões de animais abandonados no Brasil. Com
+oaumentoconstante
+destenúmero,asONGsdeproteçãoanimalencontram-se
+saturadas.
+Nestesentido,paraotimizarotempogastopelosvoluntáriosqueatuam nessas ONGs, surgeeste
+projeto com o principal objetivo de desenvolver comedouros e bebedouros automatizados
+conectados entre si e àinternet, por meio de um aplicativo para dispositivos móveis. Nessa fase
+de execução inicial o grupo optou por desenvolver somente o comedouro que, além de
+automatizado, permitindo a passagem da ração de um dispenser para um recipiente de
+alimentação, possa ser controlado e administrado remotamente pelo aplicativo para
+dispositivos móveis. Este aplicativo deverá indicar a necessidade de reabastecimento dos
+dispenserbem
+comopermitir
+a
+programação
+em
+tempodaliberaçãoderaçãoparaorecipientedealimentação,porexemplo.Outros fatores como o
+monitoramento da temperatura e umidade dentro do dispenserpodem ser adicionados. Todo o
+projeto é construído com base na tecnologiaArduino e até o momento um protótipo de testes
+em pequena escala foi desenvolvido.
+Palavras-chave: Tecnologia Social; Automação; Arduino
+
+MISTURADOR AUTOMATIZADO PARA VACINAS E SOLUÇÕES
+João Vitor Gomide, jvgmd15@gmail.com
+Júlia Oliveira Primo, julia_primo@outlook.com
+Maria Eduarda Souza Da Silva, maria_suoza@outlook.com
+Humberto Augusto Piovesana Zanetti, humberto.zanetti@etec.sp.gov.br(orientador)
+Alex Paulo Da Silva, alex.delay@gmail.com(coorientador)
+ETEC Rosa Perrone Scavone
+RESUMO. O projeto tem como finalidade ajudar profissionais da área de saúde a preparar de
+forma correta as ampolas de vacinas. A ideia central é criar um equipamento que consiga
+misturar de forma precisa as vacinas a serem aplicadas, que seja controlado por um software.
+Esse software terá como função principal controlar como deve ser misturada antes da aplicação
+no paciente.
+Palavras-chave: Misturador; Automação; Saúde
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+PROTÓTIPO DE TAPETE PIEZOELETRICO: UTILIZAÇÃO DA
+TECNOLOGIA PIEZOELETRICA PARA A REDUÇÃO DOS CUSTOS COM
+ENERGIA DO IFSP CÂMPUS BRAGANÇA PAULISTA
+Cleilton Lima Peixoto, peixotocleiton40@gmail.com
+Samantha Silva Freitas, smanthasilva69@gmail.com
+Diana Terezinha Tamaro, dianatamaro@ifsp.edu.br(orientador)
+Pedro Luís Calheiros, pedro.calheiros@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Tendo em vista as dimensões amplas do prédio do IFSP-BRA, o qual é composto por
+duas torres, uma com cinco pavimentos e a outra com três, e os cursos de graduação e técnicos
+que são oferecidos à noite, este projeto de pesquisa se propõe a estudar uma maneira de reduzir
+os gastos com energia elétrica, utilizando como ferramenta a construção de um protótipo de
+tapete que emprega a tecnologia piezoelétrica para a geração de energia limpa. As cerâmicas
+piezoelétricas são pequenos cristais que possuem estrutura cristalina tipo Perovskita,
+apresentam simetria tetragonal em que o centro de simetria das cargas elétricas positivas não
+coincide com o centro de simetria das cargas negativas, dando origem a um dipolo elétrico. A
+existência deste dipolo faz com que a estrutura cristalina se deforme na presença de um campo
+elétrico e gere um deslocamento elétrico quando submetida a uma deformação mecânica, o
+que caracteriza o efeito piezoelétrico inverso e direto respectivamente. Partindo desse
+princípio foi elaborado o primeiro projeto do protótipo. Assim, o trabalho se baseia,
+essencialmente, em melhorar está primeira versão por meio de testes realizados em laboratório
+de modo a construir um protótipo final viável, de baixo custo e que possa ser reproduzido em
+larga escala. Os testes iniciais mostram que a área de pesquisa é abrangente e se divide em
+inúmeros desdobramentos, mas que a diminuição é possível. Reconhecendo-se que a extensão
+da tecnologia piezoelétrica é ampla, outras pesquisas deverão alinhar-se no sentido de
+promover diferentes caminhos para sua devida utilização.
+Palavras-chave: Tecnologia Piezoelétrica; Energia Elétrica; Protótipo
+
+QUICK-HAND: DESENVOLVIMENTO DE PROTÓTIPO PARA
+REABILITAÇÃO DO MOVIMENTO DE PREENSÃO EM MÃOS
+Camila Cristine De Souza Rodrigues, camilacristinesr@gmail.com
+Ana Beatriz Momesso, beatrizmomesso.ana@gmail.com
+Maria Laura Vieira Da Silva Trindade, mlauratrindade21@gmail.com
+Helena Barbosa Machado Martins, helena.martins@ifsp.edu.br(orientador)
+Riama Coelho Gouveia, riamagp@uol.com.br(coorientador)
+IFSP - Câmpus Sertãozinho
+RESUMO. Este projeto tem como objetivo o desenvolvimento de um protótipo que auxilie na
+reabilitação de movimentos dos dedos da mão. Este protótipo permite que a reabilitação se dê
+através de exercícios lúdicos em indivíduos que sofreram algum tipo de dano cerebral, como
+o Acidente Vascular Encefálico (AVE). O mesmo encaixa-se no termo Tecnologia Assistiva
+(TA), criado em 1988, utilizado para identificar todo o arsenal de recursos e serviços que
+contribuem para proporcionar ou ampliar habilidades funcionais de pessoas com deficiência
+e, consequentemente, promover vida independente e inclusão. No entanto, às ditas TA, em sua
+grande maioria, são confeccionadas internacionalmente, possuindo um alto custo e se tornando
+pouco acessíveis para grande parte da sociedade. O protótipo desenvolvido por este trabalho
+visa melhorar a qualidade de vida destas pessoas já que elas perdem não só os movimentos,
+mas também a habilidade de fazer pequenas coisas do dia a dia, como segurar um lápis ou uma
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+caneta, sendo que através do uso do mesmo a reabilitação destas habilidades se dá de maneira
+lúdica e interativa.
+Palavras-chave: Avc;Tecnologia Assistiva; Reabilitação
+
+REPET - SISTEMA DE RECICLAGEM DE GARRAFAS PET BASEADO EM
+CASHBACK.
+LetíciaMiranda Da Costa, vilzilenemiranda@gmail.com
+Lucas Xarelli, lucasxarelli@hotmail.com
+Rafael Rodrigues Moreira, rafael.rmoreira807@gmail.com
+Uesclei Costa, uesclei.costa@ifsp.edu.br(orientador)
+Érico Pessoa Félix, ericopfelix@ifsp.edu.br(coorientador)
+IFSP - Câmpus Salto
+RESUMO. Conscientes da necessidade de preservação do meio ambiente e da reciclagem a partir
+de materiais utilizados no comércio e na indústria, foi pensada a construção de uma máquina
+com a finalidade incentivar os empresários a ajudar o meio ambiente. A máquina terá como
+função cisalhar garrafas PET, o que auxiliará a reciclagem de materiais. A partir disso, o
+usuário receberá um bônus como descontos ou pontos. O projeto preocupa-se também com
+economia, uma vez que o empresário poderá esvaziar a máquina e vender o material cisalhado
+para uma empresa de reciclagem. A máquina nomeada de RePET, ficará em estabelecimentos
+públicos, como supermercados, e todo o seu processo será automatizado através de um
+Arduino e um tablet.
+Palavras-chave: Máquina; Garrafas Pet; Bônus
+
+SDTA- SISTEMA DIDÁTICO DE TRATAMENTO DE ÁGUA
+Beatriz Maria Leal, anaalmeidaleal1972@gmail.com
+Julia Estrella Szmaruk, juliaestrellaszmaruk@gmail.com
+Leonardo Pires, leonardopires.2607@gmail.com
+Susilaine Maira Savassa, susisavassa@ifsp.edu.br(orientador)
+Fabíola Tocchini Figueiredo Kokumai E Érico Pessoa Félix, fabiolatdef@ifsp.edu.br
+ericopfelix@ifsp.edu.br(coorientador)
+IFSP - Câmpus Salto
+RESUMO. O Sistema Didático de Tratamento de Água (SDTA) é baseado e fundamentado de
+acordo com o tratamento de água nas indústrias de tratamento, como a Sabesp, portanto,
+contém todas as etapas usadas no tratamento para tornar a água suja em potável. Assim como
+diz o nome, é um projeto com fins didáticos para aulas de Química, que ocorrem durante
+Ensino Médio, mas que pode servir para tratar água em locais sem saneamento básico, visto
+que não é necessário o uso de tomadas ou fontes de energia fixas. Utilizando dos
+conhecimentos relacionados a Automação Industrial, como Eletrônica, Elétrica e Mecânica, o
+processo de potabilização é feito automaticamente, por meio de válvulas, sensores e bombas,
+que são alimentados por baterias, objetos facilmente encontrados, então, além de facilitar o
+aprendizado dos alunos e atender áreas pouco socorridas pelo saneamento básico, pode-se
+afirmar que o projeto tem um bom custo-benefício.
+Palavras-chave: Tratamento; Água; Didático
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+SEM GÁS, JAMAIS! MEDIDOR PARA O MONITORAMENTO DA
+MASSA/VOLUME DO GÁS DO BOTIJÃO RESIDENCIA
+Grazielly Sousa De Lima, graziellysousa06@gmail.com
+Diogo Vinicius Borges Alves, diogo.dvba@gmail.com
+André Fernando Sesso Ramalho, andrefernandoramalho@hotmail.com
+Edson Anício Duarte, edsonduarte@ifsp.edu.br(orientador)
+Evandro Rech, evandrorech@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto é um dispositivo que monitora a massa/volume do gás do botijão
+residencial online armazenando as informações na nuvem automaticamente. Além do
+monitoramento da massa do gás contido no botijão, o dispositivo tem uma opção de segurança
+que monitora o vazamento de gás GLP acionando um alarme sonoro em caso de vazamento
+de gás. Para a automação do dispositivo foram utilizados microcontroladores, células de carga,
+buzzer e um display para que informaçõesaquisitadas possam ser apresentadas para o usuário
+sonoramente e visualmente. A conexão com os dados na nuvem é realizada através de WI-FI
+e o usuário pode receber mensagens automáticas do sistema em seu dispositivo móvel. O
+encapsulamento do projeto foi feito em madeira MDF (Fibra de Média Densidade) utilizando
+uma cortadora laser. O protótipo está operacional e pode ser adequado a outras aplicações de
+medição de massa e volume.
+Palavras-chave: Automação Residencial; Segurança; Medição De Massa
+
+SIDSOUND - INTRODUÇÃO MUSICAL PARA SURDOS.
+Caio Lucas Silva, caiolucassesi@gmail.com
+Caio Lucas Silva, samueltds12@gmail.com
+Gustavo H. De Lima, limalc35@gmail.com
+Adilson V. Rodrigues, adilsonrodrigues@ifsp.edu.br(orientador)
+Pedro L. Calheiros, pedro.calheiros@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. No Brasil existem aproximadamente 9,7 milhões de deficientes auditivos, dosquais
+2,2 milhões são de fato surdos; que possuem como maior apoio, no âmbitofederal, o Instituto
+Nacional de Educação de Surdos (INES), órgão do Ministério daEducação que há mais de um
+século realiza projetos e oferece grande apoioeducacional a essa população. Além do Instituto,
+existem outros projetos e açõessociais que buscam a inclusão dessa minoria na
+sociedade.Tomando como base, especificamente, o meio musical, no Brasil, percebe-seuma
+deficiência educacional nessa área em relação aos portadores de deficiênciaauditiva. A música
+é parte do cotidiano de milhões de brasileiros e um grande meio deacesso cultural e social,
+porém, uma área de pouca compreensão dos surdos, quenecessitam de uma atenção especial
+nesse aspecto para sua integração.O projeto SiDsound – Introdução musical para surdos, busca
+justamente mudaressa realidade a partir de um dispositivo de captação de ondas sonoras que
+serãoconvertidas em imagens, proporcionando uma iniciação musical aos
+deficientesauditivos.
+Palavras-chave: Deficientes Auditivos; Música; Inclusão
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+SISTEMA DE LEITURA BRAILE MULTIMÍDIA
+Paula Andrezza Gomes Marinho, paulaandrezza25@gmail.com
+Tainá Oliveira Da Silva, tainasilva9604@gmail.com
+Leandro Augusto Muniz Bueno, leandromuniz882@gmail.com
+Sérgio Ricardo Pacheco, sergio.pacheco@ifsp.edu.br(orientador)
+José Erick Souza Lima, erick@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Por meio de um aplicativo de smartphone ou computador envia-se letras para o
+Arduino, que com sua lógica de programação traduzirá para o alfabeto braille e levantará os
+pinos de acordo com a letra informada.
+Palavras-chave: Braille; Tecnologia Assistiva; Deficiência Visual
+
+SISTEMA DE LEITURA DE TEXTOS SIMPLES PARA CEGOS BASEADOS
+EM FERRAMENTAS DE CLOUD COMPUTING
+Beatriz Cardoso De Oliveira, beatrizcard25@gmail.com
+Eduardo Augusto Ferranti, eduardo.ferranti@aluno.ifsp.edu.br
+Bianca Helena Sunega Gomes, bianca.sunega@aluno.ifsp.edu.br
+André Luís Dias, andre.dias@ifsp.edu.br(orientador)
+Afonso Celso Turcato, acturcato@gmail.com(coorientador)
+IFSP - Câmpus Sertãozinho
+RESUMO. A deficiência visual é a mais apontada no Brasil e ainda causa diversos problemas
+diários, como restrições no processo de ensino-aprendizagem, causado pela falta de recursos
+didáticos próprios, além de exclusão tecnológica, e restrições relacionadas a leitura devido à
+pouca quantidade de informações e livros disponíveis em braile. Desse modo, este trabalho
+utilizou as tecnologias de inteligência artificial e cloud computing, como reconhecimento ótico
+de caracteres para criação de uma plataforma baseada em um estrutura na forma óculos,
+equipada com uma câmera do tipo endoscópica e um fone ouvido, que opera em conjunto com
+um aplicativo Android através da plataforma Thunkable. O objetivo é ler textos simples
+presentes em imagens para informação de deficientes visuais. O aplicativo extrai o texto de
+imagens tiradas da câmera endoscópica, e reproduz em formato de áudio nos fones de ouvido,
+auxiliando pessoas com deficiência visual em dificuldades de seu dia-a-dia. Os resultados
+apresentados até o momento demonstram ser satisfatórios, apesar de algumas limitações.
+Palavras-chave: Deficientes Visuais; Cloud Computing; Reconhecimento Ótico De Caracteres
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+TECNOLOGIA ASSISTIVA: ADAPTAÇÃO DO PEDAL DE EXPRESSÃO DE
+UM ÓRGÃO PARA MELHORIA DA ERGONOMIA PARA PESSOAS COM
+LIMITAÇÃO FÍSICA TEMPORÁRIA OU PERMANENTE
+Julirane De Sousa Santos, julliranee@gmail.com
+Hemera Fernanda Farias Monteiro, lucía rinaldi
+Lucia Rinaldi, luciarinaldi2703@gmail.com
+Edson Anício Duarte, edsonduarte@ifsp.edu.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto foi criado para auxiliar pessoas asquais possuem algum tipo de
+deficiência ou uma mera dificuldade motora, comoas que possuem hérnia de disco, para o
+alcance de um pedal de órgão. A hérniade disco é um abaulamento de disco invertebral, que
+pode levar a sintomascomo dor nas costas e sensação de queimação ou de dormência, ela
+causadificuldade motora, que afeta a mobilidade de uma pessoa. Por meio de ummecanismo
+que será construído inicialmente com um sensor resistivo, um pedalde sustain para teclado,
+um microcontrolador UNO e um servo-motor que ativaráo pedal de expressão. O motivo de
+trabalhar com o pedal de expressão é porcausa de seu maior uso e ter uma distância maior do
+indivíduo do que emrelação aos outros pedais do órgão. O uso do pedal de expressão é um
+recurso enriquecedor da sonoridade edo timbre que altera a amplitude do som ao ser ativado.
+A maneira deutilizá-lo é muito variável e é possível afirmar que o modo como um
+pianista“pedaliza” as obras que interpreta está em direta relação com a percepçãomusical dele.
+Palavras-chave: Órgão; Pedal; Tecnologia Assistiva
+
+TOTALIZADOR DE PESSOAS EM RECINTO FECHADO COM
+MONITORAMENTO REMOTO NA NUVEM
+Luiz Gustavo Xavier Tito, gullu1720@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Este projeto é o desenvolvimento de um equipamentoeletrônico que realiza a
+totalização de pessoas em ambientes fechados, como:escritórios, banheiros, lojas e salas de
+aula e armazena este quantitativo nanuvem para posteriormente serem analisados. No Brasil
+existem 6,4 milhões deestabelecimentos comercias, desse total, 99% são micro e pequenas
+empresasque acabam fechando em menos de 5 anos por não saberem com precisão e baixo
+custoo real fluxo de clientes, sendo essa monitoração online de pessoas em umrecinto fechado
+os ajudariam na gestão do estabelecimento. Adicionalmente,este dispositivo pode realizar o
+desligamento automático de cargas elétricasvisando a economia de energia, por exemplo,
+desligar os condicionadores de arquando o ambiente está vazio por mais de um determinado
+tempo. Neste projetoforam utilizados um microcontrolador da plataforma Arduino, 2 sensores
+deproximidade para realizar a identificação de entrada e saída, fazendo assim atotalização de
+pessoas presentes no recinto e um shield para comunicaçãoWIFI. O encapsulamento foi
+realizado utilizando uma impressora 3D e umacortadora a laser para acomodação da eletrônica
+e sensores tornando odispositivo portátil e com um design adequado. O protótipo encontra-se
+emfase de testes e atualmente é possível verificar o monitoramento de pessoasem um recinto
+fechando online.
+Palavras-chave: Economia De Energia Elétrica; Automação
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+TOTEM PORTÁTIL A BAIXO CUSTO PARA CARREGAR CELULARES
+COM SISTEMA ANTI-FURTO POR RFID
+Gabriel Amoras Coelho, g.a.coelho2003@gmail.com
+Guilherme Daiki Yukimitsu, guidaiyukimitsu@gmail.com
+Edson Anício Duarte, edson.a.duarte@uol.com.br(orientador)
+João Alexandre Bortoloti, jabortoloti@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Em momentos de descontração como o intervalo ou o almoço,percebe-se que não
+possui muitas tomadas no local e se possui, ficam longe umada outra, impossibilitando as
+pessoas de carregarem o seu celular comsegurança. E para resolver esse problema, foi
+desenvolvido um totem portátilpara carregar o celular, utilizando materiais a baixo custo,
+facilitando paraessas pessoas carregarem seu celular com segurança. Para sua construção
+foiutilizado: uma Bateria 12V de Nobreak, um Arduino UNO, uma fonte conversora de12V,
+4 conectores USB, um interruptor (ON/OFF), um painel solar, 4 servosmotores, um leitor
+RFID e 4 tags RFID. O totem vai funcionar da seguintemaneira: A bateria fornecerá energia
+para o Arduino e a bateria, no Arduino os12V vão se transformar em 5V e vão para os servos
+motores, já na fonteconversora, também irá transformar os 12V para 5V e esses irão para
+osconectores USB e serão distribuídos para os celulares através do cabo USB, eesse sistema
+poderá ser ligado e desligado através de um interruptor. Fazendoassim com que um grupo de
+amigos possa carregar o seu celular em qualquerlugar e com segurança.
+Palavras-chave: Portátil; Baixo Custo; Automação
+
+UM MINUTO A MAIS
+Ana Caroline Dos Santos, carolzinhacps2@gmail.com
+Gabriela Iha Freitas, guilhermehborgs@gmail.com
+Guilherme Hideaki Borges, gabiha16@gmail.com
+Juliana Carneiro Da Silva, julianasilva.csociais@gmail.com(orientador)
+Marcelus Guirardello, marcelus.guirardello@gmail.com(coorientador)
+ETEC Bento Quirino
+RESUMO. Instituiu-se no Brasil uma cultura de violência em relação às mulheres, a qual tem
+sido estudada por especialistas em diversos ramos científicos, impulsionados pelos
+movimentos feministas. Deste modo, o projeto intenciona compreender a violência de gênero,
+enfocando no papel do homem agressor, e também desenvolver um dispositivo que, sem
+culpabilizar a vítima, permita que ela se sinta mais segura em seu cotidiano. Para tais
+finalidades, serão realizadas pesquisas bibliográficas, descritiva, explicativa e quantitativa.
+Com isso, o trabalho conseguirá agregar à comunidade científica, de forma que outras soluções
+surjam para resolver essa problemática.
+Palavras-chave: Violência Contra A Mulher; Gênero; Mulher
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+WASTE NOT - "COMPOSTEIRA TECNOLÓGICA"
+Lohayne Muriel Batista Bueno, lohaynemuriel123@gmail.com
+Vanessa Cypriano De Souza Cavallaro, vcypriano@outlook.com
+Lavinia Vitória Guazzi Alves, laviniaguazzi@gmail.com
+Talita De Paula Cypriano De Souza, talita@ifsp.edu.br(orientador)
+Ana Cristina Gobbo Cesar, anagobbo@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O projeto consiste no desenvolvimento de um aplicativo de conscientização sobre o
+desperdício de alimentos orgânicos e os gases poluentes que são liberados na sua
+decomposição. O aplicativo é o “Waste Not”, conectado a uma composteira tecnológica, que
+possui uma plataforma arduíno com um sensor de temperatura que informará ao usuário, por
+meio de conexão via wi-fi, quando o processo de compostagem estiver finalizado. Com os
+dois produtos, o objetivo do projeto é incentivar as pessoas a usarem a composteira
+tecnológica, para diminuir a emissão de gases carbônicos e o desperdício de alimentos
+orgânicos.
+Palavras-chave: Desperdício; Compostagem; Aquecimento Global
+
+WATER WIRELESS SUSTAIN
+Luiz Fernando Kikuchi, luiz.fk.14@gmail.com
+Heitor Akihiro Toyonaga, akihirotoyonaga@gmail.com
+Marcelus Guiradello, marcelus.guirardello@gmail.com(orientador)
+Regina Kawakami, regina.kawakami@etec.sp.gov.br(coorientador)
+ETEC Bento Quirino
+RESUMO. Nos dias atuais, um dos maiores problemas nas questões de recursos naturais é a
+escassez de água, que pode tornar-se mais intensa futuramente, causando seu encarecimento
+monetário, sede, inacessibilidade, perdas nas agriculturas e produções em geral, entre outros.
+Este problema possui concordância com o 6º Objetivo de Desenvolvimento Sustentável
+(ODS), elaborado pelas Organização das Nações Unidas (ONU). Considerando toda a água do
+mundo, apenas 2,53% é doce, em que 1,76% estão em sua forma sólida (geleiras, difícil
+acesso) e 0,77% disponível para o consumo humano. No uso desta água disponível, segundo
+a Agência Nacional das Águas (ANA) e o Instituto Brasileiro de Geografia e Estatística
+(IBGE), 77,6% de seu consumo total é voltada para as irrigações em geral, que são
+manipulados por alguns agricultores inconscientemente e com pouca tecnologia ou
+desenvolvimento no ramo, logo, futuras secas tornam-se potencializadas. Com base nestes
+dados, a equipe desenvolveu um sistema automatizado programável por histerese, visando a
+amenização dos gastos de água e um hardware para as leituras analógicas do solo mais precisas
+com um custo reduzido, garantindo assim, uma melhor precisão na operação do sistema. A
+estrutura do sistema conta com a tecnologia Internet of Things (IoT) e sucede o implemento
+da Indústria 4.0 a fim de expandir o controle das terras com estações individuais e
+independentes de coleta e transmissão de dados, barateando os recursos de manutenção e
+permitindo o uso dos recursos de processamentos e de Interação Homem Máquina (IHM) que
+a nuvem oferece, possibilitando a mobilidade do sistema, uma vez que a conexão à Internet
+está em quase todos os lugares. Com estes elementos, o agricultor que aderir o sistema, garante
+uma irrigação de operação e monitoramento a distância e/ou presencial confiável e de fácil
+manuseio voltado ao desenvolvimento de seus cultivos, enquanto os gastos reduzidos com a
+água, previnam futuras faltas deste líquido de suma importância a qualquer tipo de vida
+existente.
+Palavras-chave: Água; Internet Of Things; Desenvolvimento Sustentável
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+INFORMÁTICA
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+AUXÍLIO À CUIDADORES DE IDOSOS COM ALZHEIMER: ESTÁGIOS DO
+ALZHEIMER, IMPORTÂNCIA DA ROTINA E DIFICULDADES
+Mirian Romanini, 20180230@essj.com.br
+Leticia De Carvalho Alves, 20180217@essj.com.br
+Vinicius Alves Felix Da Silva, 20180116@essj.com.br
+João Nelson Cavezale De La Torre, joao.torre@essj.com.br(orientador)
+Geraldo Moreno F. Junior, geraldo.junior@essj.com.br(coorientador)
+Escola Salesiana São José
+RESUMO. Diversas pesquisas de instituições de saúde sobre Alzheimer, indicam que esta doença
+neurodegenerativa afeta mais de 1,2 milhões de idosos no Brasil e cerca de 44 milhões pelo
+mundo. O Alzheimer possui diversos estágios que trazem vários sintomas e problemas para o
+portador, além de desgaste físico, emocional e mental para a família e os cuidadores. O
+Alzheimer não possui cura, logo portadores têm de recorrer a diversos tratamentos para
+amenizar seus sintomas podem piorar rapidamente. Portanto a figura do cuidador é
+fundamental de quem o paciente gradativamente torna-se totalmente dependente. Cuidar
+desses pacientes é difícil, caso inexista capacitação aos cuidadores e orientação de médicos
+especializados para tarefas diárias. É notório a falta de reconhecimento dessas pessoas que se
+dedicam a cuidar dos portadores de Alzheimer, e da própria doença e situação dos que a
+possuem. É preciso evidenciar essa realidade para tornar possível uma melhor qualidade de
+vida para ambos, idoso e cuidador. A partir de todos os aspectos mencionados, é que se surge
+a necessidade de desenvolver um projeto que visa solucionar o problema com um aplicativo
+capaz de integrar médicos, cuidadores e até mesmo familiares no mesmo âmbito. Com uma
+maior interação e contato, o cuidador pode receber melhor apoio e instrução de como lidar
+compossíveis situações com o idoso portador de Alzheimer. Para uma maior precisão e
+eficiência no que será feito, o aplicativo será desenvolvido com base nos resultados dessa
+pesquisa e com o auxílio de depoimentos de cuidadores, familiares e médicos especializados.
+Palavras-chave: Idoso; Cuidador; Qualidade
+
+COMUNICAPET
+Juliana Camila O. Araujo, julianacamila985@gmail.com
+Matheus Henrique A. Barbosa, matheusbarbosa.contato@outlook.com
+Ranâny Marques M. Sousa, rananymarks@gmail.com
+Humberto Augusto Piovesana Zanetti, humberto.zanetti@etec.sp.gov.br(orientador)
+Leandro Felipe Carvalho, leandro.carvalho17@etec.sp.gov.br(coorientador)
+ETEC Rosa Perrone Scavone
+RESUMO. O objetivo do projeto é auxiliar pessoas que possuem animais domésticos,
+orientando-os a criar relações saudáveis com estes, adaptar seu ambiente familiar, também
+ajudar nas áreas voltadas à saúde, alimentação, higienização, tratamentos e principalmente,
+permitir contato com veterinários especializados. Essa plataforma tem como base a
+simplicidade, sendo acessível para todas as pessoas, uma interface rica em conteúdos diversos,
+sendo dividida em várias páginas, cada uma com um assunto principal. O intuito é construir
+um espaço virtual através da internet que traga meios para facilitar a vida doméstica com os
+pets onde teremos duas principais divisões: donos e pets, estas por sua vez, terão outras
+subdivisões entre si.
+Palavras-chave: Animais; Cuidados; Bem-Estar
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+DESENVOLVIMENTO DO BANCO DE DADOS SOBRE DESLIZAMENTO DE
+TERRA.
+Luiz Henrique Firmino De Jesus, luiz.falomes@gmail.com
+Letícia Maria Ruiz Trevisan, leticiaruiztrevisan@gmail.com
+Nathan Silva De Andrade, nathansilvarxrx@gmail.com
+Herivelto Fernandes Rocha, herivelto.rocha@ifsp.edu.br(orientador)
+Carlos Eduardo Beluzo, cbeluzo@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. Atualmente, os casos de deslizamento de terra são consequência de diversas causas
+sociais e ambientais. Neste sentido，buscamos a partir do desenvolvimento de um banco de
+dados armazenar infomações referentes a casos de deslizamento, desta maneira, criando
+mecanismos que auxiliem na proposição de políticas públicas e soluções que amenizem os
+impactos destes eventos, recorrentes no território brasileiro, sobretudo na área que abrange o
+domínio morfoclimático dos Mares de Morros. Espera-se que este banco de dados seja
+alimentado pelos próprios usuários, ou seja, moradores de localidades onde o deslizamento de
+terra é recorrente, por meio de um aplicativo para celular. Este aplicativo tem como
+funcionalidades: (a) sistema de cadastramento (login); (b) compartilhamento de dados sobre
+casos de deslizamentos.
+Palavras-chave: Aplicativo; Políticas Públicas; Deslizamento De Terra
+
+FERRAMENTA DE AUXÍLIO A DALTÔNICOS
+Luca Assumpção Dillenburg, luca.assumpcao.dillenburg@gmail.com
+Fábio Minguini Faúndes, fabio.m.faundes@gmail.com
+Eduardo Sandalo Porto, eduardosandaloporto@gmail.com
+Sérgio Luiz Moral Marques, sergio@unicamp.br(orientador)
+Simone Pierini Facini Rocha, simpfrc@unicamp.br(coorientador)
+COTUCA - UNICAMP
+RESUMO. Mais de 5% da população mundial é daltônica e, por isso, quisemos fazer algo a
+respeito disso. Tarefas consideradas simples para indivíduos sem essa deficiência, tais como
+decidir se uma banana está madura ou ler um mapa, são obstáculos para daltônicos. Por isso,
+estamos desenvolvendo um aplicativo protótipo para Android que usa processamento de
+imagem para auxiliar o daltônico com algumas funcionalidades: filtrar as cores através da
+câmera, informar o nome da cor no centro da câmera e converter as cores de um mapa em
+padrões ou cores neutras. Ademais, planejamos implantar um espaço kids, que ensinará
+crianças daltônicas sobre as cores através de atividades divertidas.Contudo, O daltonismo
+manifesta-se de três formas diferentes, que representam os três tipos de daltonismo mais
+comuns: protanomalia, deuteranomalia e tritanomalia. Devido a isso, o software deverá ser
+adaptável ao nível e tipo de daltonismo de cada usuário para ser o mais efetivo possível.
+Palavras-chave: Daltônicos; Aplicativo; Inclusão
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+FIBROFLY: APLICATIVO PARA O APRIMORAMENTO DAS
+CAPACIDADES FÍSICAS E MENTAIS DE PORTADORES DE
+FIBROMIALGIA.
+Raíssa Cascaval Alves, raissacascaval17@gmail.com
+Hellen Thainá Turri, hellenthainaturri@gmail.com
+Lívia Rodrigues Fernandes Silva, liviaxvy@gmail.com
+Luciano Bernardes De Paula, lbernardes@ifsp.edu.br(orientador)
+Cintia Macedo De Lima, cintiamacedo@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O FibroFly é uma plataforma que atua na melhoria da qualidade de vida de portadores
+da síndrome fibromialgia, uma doença crônica que provoca dores no corpo todo além de
+fadiga, depressão, distúrbios de sono e ansiedade. Para o autodesenvolvimento das
+capacidades físicas e mentais do usuário, o aplicativo híbrido, que foi desenvolvido no Apache
+Cordova, oferece funções como: técnicas de meditação, dicas de nutrição, exercícios físicos,
+gráficos de evolução de humor, calendário e entre outras funções que servirão para atuar
+diretamente na autoajuda e autocuidado, com o principal objetivo de evitar a limitação dos
+fibromiálgicos e permitir que eles tenham uma melhoria na qualidade de vida e na convivência
+com a doença.
+Palavras-chave: Fibromialgia; Aplicativo; Saúde
+
+FIND EATS
+Carlos Alberto Oliveira Filho, carlos1001psoliveira@gmail.com
+Davi Martini Agrello Cintra, davi.cintra2002@gmail.com
+Gustavo Ita Lopes De Lira, gustavoita1441@gmail.com
+Ana Paula Giancoli, paulagiancoli@ifsp.edu.br(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Um aplicativo capaz de organizar suas receitas, e oferecer ao usuário uma série de
+opções disponíveis com base nos ingredientes que o usuário dispõe. A aplicação contará com
+um amplo banco de dados capaz de filtrar os resultados a fim de exibi-los com base nas
+preferências pré-determinadas.
+Palavras-chave: Alimentação; Usabilidade; Saúde
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+GEOMATIC: SOFTWARE PARA APRENDIZAGEM DE GEOMETRIA
+Idian Camargo Capozzoli, idiancapozzoli2001@hotmail.com
+Thiago Hadano Tanaka Oliveira, thiagohadano@gmail.com
+Diana Terezinha Amaro, dianatamaro@ifsp.edu.br(orientador)
+Lucas Miguel Carvalho, lucas.miguel@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. As pesquisas da Educação Matemática evidenciam que a inserção dos ambientes
+educacionais informatizados pode contribuir positivamente no trabalho de professores e
+estudantes. Ao estudar Geometria Espacial, notamos a dificuldade de nossos colegas de turma
+para resolver exercícios de vestibular relativos a novos poliedros obtidos através de cortes em
+poliedros já conhecidos, percebemos também que grande parte desta problemática era advinda
+da dificuldade de enxergar o novo poliedro obtido com tais cortes. Assim, criamos o projeto
+GeoMatic, o qual é um software criado com o intuito de melhorar o estudo e compreensão de
+geometria plana e espacial e na visualização das formas e figuras geométricas. O software é
+desenvolvido e implementado na linguagem de programação Phyton juntamente com PHP.
+Sendo assim, busca-se aprimorar o ensino da matemática nas escolas e universidades e auxiliar
+estudantes e professores.
+Palavras-chave: Geometria; Poliedros; Software
+
+IHELPP: A LUTA CONTRA O FEMINICÍDIO
+Luana Matallo Ruggiero, luanamataruggiero@gmail.com
+Beatriz Cardoso Rodrigues Alves, beatriizz.87@gmail.com
+Lívia Pausiano Freitas, livia.freitas132018@gmail.com
+Krícia Helena Barreto, kricia.barreto@ifsp.edu.br(orientador)
+Carlos Eduardo Beluzo, cbeluzo@gmail.com(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. O feminicídio é a 5ª maior causa de morte do Brasil decorrente da estrutura machista
+na sociedade, segundo o Alto Comissariado das Nações Unidas para os Direitos Humanos
+(ACNUDH), o que inevitavelmente causa a aterrorização da população feminina, e as
+transformam em vítimas quando deveriam estar se sentindo seguras e estáveis em suas
+relações, lares, trabalhos e em qualquer ambiente público ou privado. O aplicativo iHelpp
+propõe auxiliar ao máximo as mulheres que sofrem ou sofreram com algum tipo de violência,
+através de frases, fotos, músicas, fontes históricas que estimulam o empoderamento, a
+conscientização, a troca de experiências entre mulheres, sites e uma funcionalidade que
+permitirá a denúncia de tal ato para autoridades competentes imediatamente, promovendo
+assim, uma maior segurança para o público feminino. O software está sendo desenvolvido
+utilizando as plataformas FabApp, MitappInventor, sublime text 3, WorkBench e Bootstrap.
+O conteúdo utilizado no aplicativo foi retirado de artigos com a história do feminismo e análise
+de casos de feminicídio, os quais estarão em algumas das funcionalidades do aplicativo.
+Espera-se que, com o projeto divulgado na mídia, ele se torne popular e acessível para
+todos(as), ajudando a diminuir os casos desta brutalidade, além de auxiliar o(a) usuário(a) na
+conscientização da importância do feminismo e alertá-lo(a) quanto ao crescimento da taxa de
+feminicídio em nossa sociedade. Espera-se que, posteriormente, o aplicativo possa atingir
+também o público masculino, envolvendo-os no processo de conscientização de modo a
+reduzir a realidade enfrentada pelas mulheres cotidianamente.
+Palavras-chave: Feminicídio; Feminismo; Aplicativo
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+MAPEAMENTO DE ESTABELECIMENTOS ACESSÍVEIS À PESSOAS COM
+DEFICIÊNCIA NA CIDADE DE CAMPINAS
+Luiz Roberto Da Cruz Santos, luizsantos.20lrs@gmail.com
+Ana Clara Batista Loponi, anahclara953@gmail.com
+João Vitor Aleixo Dias, joaovitordias92040@gmail.com
+André Luís Bordignon, albordignon@gmail.com(orientador)
+Carlos Eduardo Beluzo, beluzo@ifsp.edu.br(coorientador)
+IFSP - Câmpus Campinas
+RESUMO. De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística) um quarto da
+população nacional possui alguma deficiência com este contexto em pauta, para trazer
+equidade, é necessário informar a esta população os lugares habilitados a comportá-los. A
+carência de informações com relação a acessibilidade dos estabelecimentos na cidade é uma
+realidade que torna a vida daqueles que precisam mais penuriosa. Nesse sentido, elaborar
+ferramentas capazes de facilitar a localização de espaços acessíveis por parte dessa população
+se torna tão importante. O objetivo geral do projeto é apresentar ao usuário informações sobre
+a acessibilidade dos estabelecimentos da cidade de Campinas. Para isso, o projeto propõe uma
+aplicação web que trate de acessibilidade e seja acessível ao público portador de deficiência,
+onde os usuários poderão ver os estabelecimentos acessíveis; poderão responder um
+questionário com respostas objetivas sobre o estabelecimento; verão a classificação e
+informações do lugar; e aqueles que estão logados, sejam eles deficientes ou não, também
+podem inserir o cadastro de estabelecimentos. Estes serão classificados de acordo com sua
+acessibilidade utilizando as respostas obtidas dos usuários através do questionário — assim,
+estabelecendo uma relação de retroalimentação usuário-sistema. Essa classificação será
+mostrada através de cores e símbolos que apresentam os níveis de acessibilidade.
+Palavras-chave: Aplicação Web; Acessibilidade; Tecnologia-Assistiva
+
+MOTUM: IA PARA PROCESSAMENTO E PLANEJAMENTO DINÂMICO DE
+TRANSPORTES PÚBLICOS
+João Henri Rocha, contact.joaohenri@gmail.com
+Caio Petrucci Dos Santos Rosa, caiopetruccirosa@gmail.com
+Nicholas Patapoff Ruiz, nicholaspruiz@gmail.com
+Simone Pierini Facini Rocha, simpfrc@unicamp.br(orientador)
+Sérgio Luiz Moral Marques, sergio@unicamp.br(coorientador)
+COTUCA - UNICAMP
+RESUMO. O projeto consiste em um sistema integrado que visa tornar mais eficiente, rentável e
+sustentável o sistemas de transporte, a partir de um planejamento dinâmico do funcionamento
+de linhas e dos meios de locomoção, sejam eles, públicos ou privados; terrestres, como ônibus,
+metrôs, monotrilhos, trens e VLTs, ou marítimos, como barcas. Este planejamento seria feito
+de forma “inteligente”, a partir do uso de grandes quantidades de dados daqueles que utilizam
+os meios de transporte - dados estes que as empresas responsáveis por esses serviços já
+possuem, visto que atualmente aproveitam de tecnologias como cartões eletrônicos e
+aplicativos para armazenar créditos - utilizando algoritmos de Aprendizado de
+Máquina/Inteligência Artificial e técnicas conhecidas na Ciência de Dados. Dessa forma, é
+claro que uma ferramenta inteligente que tome proveito desses dados é uma tecnologia
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+extremamente necessária no mercado atual, tanto para os clientes e usuários dos serviços de
+locomoção, quanto para as organizações responsáveis.O que pretende-se com este programa
+integrado de mobilidade urbana é que se possa analisar melhor as necessidades dos usuários
+dos meios de transporte, tornando-o mais eficiente para quem o utiliza e mais rentável para
+quem o fornece. Para isso, nosso sistema propiciará diversas mudanças nos sistemas atuais,
+como planejamento dinâmico de rotas, horários e até sugerir diferentes modelos de
+veículos.Assim, considerando os mercados emergentes de certas área da ciência como Ciência
+de Dados e Aprendizado de Máquina, pretende-se usar certas tecnologias relacionadas para
+tornar possível a análise de dados e dessa forma, criar modelos matemáticos capazes de indicar
+fatores e variáveis que aprimorariam a qualidade dos sistemas de transporte. Para isso, os
+modelos devem ser capazes de prever quando seria melhor tomar certas decisões que
+viabilizassem alguns dos conceitos de Mobilidade Urbana que nem sempre são colocados em
+prática, como a sustentabilidade, rentabilidade, direito de locomoção livre a todos, dentre
+outros.Palavras-chaves: Mobilidade Urbana; Inteligência Artificial; Ciência de Dados; Big
+Data; Rentabilidade; Sustentabilidade; Transporte Público.
+Palavras-chave: Mobilidade Urbana; Inteligência Artificial; Big Data
+
+O CÓDIGO CRIATIVO (CREATIVE CODING) ALIADO AO APRENDIZADO
+DA ORIENTAÇÃO A OBJETOS
+Eder Oliveira Lima, frak779@hotmail.com
+Gustavo Eugênio John, gustavoeugeniojohn@gmail.com
+Humberto Augusto Piovesana Zanetti, humberto.zanetti@etec.sp.gov.br(orientador)
+Leandro Felipe Carvalho, leandro.carvalho17@etec.sp.gov.br(coorientador)
+ETEC Rosa Perrone Scavone
+RESUMO. Este trabalho tem como objetivo apresentar o conceito de creative coding (ou em
+Português, código criativo) como forma de auxiliar o aprendizado da orientação a objetos. Por
+meio da linguagem de programação Java, serão criadas interfaces, utilizando o conceito de
+código criativo, as quais demonstrarão, de maneira dinâmica e interativa, exemplos de objetos
+reais, para a compreensão dos conceitos principais da orientação a objetos, dentre eles classes,
+atributos e métodos.
+Palavras-chave: Orientação A Objetos; Código Criativo; Aprendizado
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+PROTOTIPAÇÃO DE JOGO EDUCACIONAL PARA APRENDIZADO DE
+LÓGICA DE PROGRAMAÇÃO
+Fênix Falcão Viana Calixto, fenxcalixtoviana@gmail.com
+Guilherme Leite Mendes Da Silva, guilherme.l@ifsp.edu.br
+Ana Paula Muller Giancolli, paulagiancoli@gmail.com(orientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. Na era da informação, quando os computadores e os dispositivos inteligentes estão
+cada vez mais acessíveis e presentes no dia a dia, existem diversas oportunidades que nos
+permitem gerar o conhecimento e o aprendizado. Ao utilizarmos um caixa de um banco, um
+aplicativo de celular, bem como ao acessar uma página com conteúdo interativo, estamos
+utilizando a lógica de programação que foi desenvolvida e aplicada em cada um desses
+serviços ou meios de comunicação, sendo transparentes ao usuário final.Dentro do contexto
+acadêmico e na vida profissional nas áreas correlatas a sistemas de informação, muitas são as
+dificuldades que os estudantes enfrentam ao aprender a lógica de programação como disciplina
+introdutória. A lógica de programação é uma das técnicas utilizadas para organizar as ideias,
+permitindo o direcionamento para a solução do problema proposto. Por meio da lógica de
+programação, o estudante aprende a desenvolver o raciocínio lógico, organizar, elaborar
+algoritmos para resolver problemas ou atingir determinados objetivos. Essa técnica de
+programação utiliza conceitos matemáticos e outras teorias da ciência da computação. O
+presente trabalho visa o desenvolvimento de um protótipo de um jogo educacional
+(gamefication) que permite ao estudante aprender a técnica de lógica de programação de uma
+forma interativa, divertida e de fácil manipulação, possibilitando a inclusão de estudantes por
+meio concomitante da tecnologia aplicada em sala de aula.
+Palavras-chave: Gamefication; Aprendizagem; Lógica
+
+ROBOCODE: UMA FORMA LÚDICA DE APRENDER PROGRAMAÇÃO.
+Isabella Ferreira DeOliveira Dos Santos, isinha33fofa@gmail.com
+Karyne Oliveira Andrade, karyneoliveira33@gmail.com
+Liz Lanne Vargas Lampe, liz.lanne@hotmail.com
+Humberto Augusto Piovesana Zanetti, humberto.zanetti@etec.sp.gov.br(orientador)
+Leandro FelipeCarvalho, leandro.carvalho17@etec.sp.gov.br(coorientador)
+ETEC Rosa Perrone Scavone
+RESUMO. O projeto consiste, basicamente, no fornecimento de aulas de programação com um
+caráter diferenciado, fazendo uso de uma plataforma digital e peculiar do ponto de vista
+tradicional. Nos períodos de aulas são ensinadas estratégias e metodologias para o bom uso da
+plataforma utilizada, bem como a extração de seus melhores resultados, com objetivo de
+alcançar um bom desenvolvimento do raciocínio lógico.
+Palavras-chave: Programação; Desenvolvimento; Dinâmica
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+SISTEMA DE CURRÍCULOS DA ETEC
+Beatriz Gonzaga De Oliveira, bgonzaga844@gmail.com
+Gabriel De Oliveira Gindri, gabrielgindri7@gmail.com
+Gabriel Renato Duarte Noronha E Silva, saurotorosso@gmail.com
+SergioMontagner, sergio.montagner@etec.sp.gov.br(orientador)
+ETEC Prof. Carmine Biagio Tundisi
+RESUMO. Atualmente existe uma necessidade evidente para os alunos formados na ETEC Prof.
+Carmine Biagio Tundisi de atuarem na área de formação, mesmo sabendo que os cursos
+técnicos disponíveis são escolhidos com base na demanda local. A ETEC dispõe de um
+pequeno esquema de seleção de currículos, um processo analógico, que não atende totalmente
+a demanda de oferta de vagas do mercado. Nota-se que há também uma falta de vínculo da
+escola com as empresas, o que dificulta concretizar a proposta de formação técnica da
+instituição. Para embasar este problema, será necessária uma pesquisa de referências
+cientificas através de uma coleta de dados estatísticos, na ETEC Prof. Carmine Biagio Tundisi,
+por meio de um formulário, para estimar como desenvolver o produto – de modo a melhor
+atender nosso público-alvo – e estudar seu impacto em relação ao mesmo. Por fim nosso
+software simples de cadastro de currículos resolverá a ineficácia do modelo atual.
+Palavras-chave: Sistema Informatizado; Administração; Currículo
+
+SISTEMA DE GERENCIAMENTO DE BOLSAS DE SANGUE, MEDULAS
+ÓSSEAS E LEITOS DISPONÍVEIS PARA HOSPITAIS.
+Victor Gomes Campos, victor.gomes.campos@gmail.com
+Rhaiani Isabele Vilela, rhaivilela@gmail.com
+Daniel Rinaldi Mendonça, engineer.daniel.rinaldi@gmail.com(orientador)
+Bruno Molero Da Silva, brmolero2006@gmail.com(coorientador)
+CEMEP - Centro Municipal de Ensino Profissionalizante Osmar Passarelli Silveira.
+RESUMO. O projeto a seguir trabalha um problema comum entre os hospitais que é a dificuldade
+de trocar e obter informações precisas e rápidas a respeito dos estoques de bolsas de sangue,
+medulas ósseas e leitos disponíveis para situações emergenciais. Atualmente o meio mais
+utilizado é o telefone e a partir disso surgiu a hipótese de que um sistema de gerenciamento
+unificado com acesso desktop e via internet facilitaria não só a troca dessas informações entre
+os hospitais de uma rede municipal, por exemplo, como também facilitaria a divulgação da
+necessidade e das campanhas de doação. Pensando nisso uma ferramenta tem sido
+desenvolvida, contando com um banco de dados MySQL com acesso remoto a uma aplicação
+desktop desenvolvida utilizando a linguagem C#, que permite a criação de um software
+eficiente e robusto. Essa aplicação estaria disponível para os computadores do setor hospitalar,
+enquanto um site que também faz parte do projeto, estaria responsável não só para consultas
+online como também para a divulgação das campanhas de doação. Essa interface WEB tem
+sido desenvolvida utilizando as linguagens HTML, PHP e JavaScript, garantindo segurança e
+integração dos dados que serão armazenados no banco utilizando o SQL como linguagem de
+programação. Ao final deste projeto é esperado uma melhor eficiência da comunicação entre
+hospitais distribuindo os pacientes de uma forma mais equilibrada.
+Palavras-chave: Software; Controle; Estoque
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+SOYP - UMA APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS NO
+RECONHECIMENTO DE PRAGAS DE SOJA
+Mariana De Siqueira Silva, marianasiqueira2001@outlook.com.br
+Cauã Reis Gonçalves, cauareis23@gmail.com
+Raiane Esheley Moreno De Oliveira, raianeesheley0@gmail.com
+Cristina Corrêa Oliveira, crisolive@ig.com.br(orientador)
+Iara Leme Russo Cury, iara.cury@ifsp.edu.br(coorientador)
+IFSP - Câmpus Bragança Paulista
+RESUMO. O Brasil é o segundo maior produtor de soja do mundo, com o plantio crescendo
+progressivamente e espalhando-se por diversas regiões brasileiras. Entretanto, a cultura dessa
+oleaginosa está sujeita a diversos problemas que geram danos econômicos, como as pragas.
+Sendo assim, o projeto objetiva agilizar os processos de identificação de pragas através do
+reconhecimento de imagens, por meio de técnicas de redes neurais artificiais (RNA'S). Além
+disso, o SOYP conta com a construção de um site informativo, contendo dados sobre a soja,
+as pragas e seus prejuízos para a plantação. Por meio dele, será realizada a divulgação do
+aplicativo mobile que, a partir de uma fotografia, identificará se há probabilidade de possuir
+uma praga na foto, caso o resultado seja positivo, o aplicativo retornará ao usuário se o inseto
+que foi fotografado é realmente prejudicial para o cultivo ou não. Além de identificar a praga,
+ele também registrará as coordenadas geográficas do local em que houve a incidência. Dessa
+forma, o usuário obterá maior precisão no reconhecimento de pragas e um maior controle sobre
+a área da sua plantação que está sendo afetada.
+Palavras-chave: Pragas; Soja; Soyp
+
+Resumos da BRAGANTEC 2019
+© 2019, copyright by IFSP
+
+9º Feira de Ciência e Tecnologia – IFSP
+19-21 de setembro de 2019, Bragança Paulista, SP, Brasil
+
+TALK – TRADUTOR AUTOMÁTICO DE IDIOMAS PARA CRIANÇAS
+Tatiane Cassel Da Cruz, tatiane_cassel@hotmail.com
+Fabio De Oliveira Dias, fabiodias@ifsul.edu.br(orientador)
+IFSUL - Câmpus Gravataí
+RESUMO. O movimento de pessoas decorrente do deslocamento de imigrantes e refugiados vem
+alterando a demografia das nações hospedeiras. Por conta disto, os problemas de comunicação
+de crianças imigrantes e refugiadas que estudam em escolas públicas têm crescido nos últimos
+anos no Brasil. O impacto que esta adversidade pode causar é bastante relevante. Essas
+crianças se sentem deslocadas socialmente, sofrendo bullying, rejeição e intolerância étnica
+ou cultural por parte dos colegas em sala de aula. Hoje em dia não existem ferramentas
+específicas voltadas a auxiliar esse público. Por conta disto, este projeto, decorrente de um
+trabalho de conclusão de curso Técnico em Informática para Internet, propõe-se a analisar
+meios para mitigar esta questão. Este trabalho apresenta um aplicativo que tem por objetivo
+principal executar a tradução do idioma português para a língua materna da criança. O projeto,
+denominado TALK, consiste em um tradutor automático de idioma para crianças. Analisando
+softwares relacionados a este tema, foram destacadas características que são necessárias para
+a implementação de uma aplicação que atenda a esta finalidade. Dentre estas características,
+destaca-se a distribuição de um software gratuito para um ambiente educacional que ofereça a
+tradução em tempo real para múltiplos idiomas, que possua uma interface intuitiva e que
+ofereça telas para o educador e para a criança. O aplicativo, desenvolvido na plataforma
+Android, possui duas principais funcionalidades, que são a criação de uma sessão, em que o
+usuário emissor recebe também resposta dos integrantes, e a participação em uma sessão ativa.
+Este trabalho exibe resultados parciais do projeto, que está em fase de desenvolvimento. Testes
+preliminares efetuados com o protótipo foram promissores, comprovando que a aplicação
+consegue atingir os objetivos e efetuar a tradução de idiomas em tempo real. Os resultados
+completos serão descritos na monografia decorrente do trabalho de conclusão de curso.
+Palavras-chave: Imigrantes; Refugiados; Aplicativo
+
+

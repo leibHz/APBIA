@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APBIA - Assistente Bragantec</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/cc533e21e1.js" crossorigin="anonymous"></script>
+    <!-- CSS Personalizado -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-900 text-gray-200 font-sans flex items-center justify-center min-h-screen">
+
+    <!-- Overlay de Carregamento (Elemento Faltante) -->
+    <div id="loading-overlay" class="fixed inset-0 bg-gray-900 bg-opacity-80 flex items-center justify-center z-50 hidden">
+        <div class="text-center">
+            <i class="fas fa-spinner fa-spin text-4xl text-blue-500"></i>
+            <p class="mt-4 text-lg">Entrando...</p>
+        </div>
+    </div>
+
+    <!-- Container de Autenticação -->
+    <div id="auth-container" class="w-full max-w-md fade-in">
+        <div class="bg-gray-800 p-8 rounded-2xl shadow-2xl border border-gray-700">
+            <div class="text-center mb-8">
+                <i class="fas fa-brain text-5xl text-blue-500"></i>
+                <h1 class="text-3xl font-bold mt-4">APBIA</h1>
+                <p class="text-gray-400">Seu assistente de projetos da Bragantec</p>
+            </div>
+
+            <div class="flex border-b border-gray-700 mb-6">
+                <button id="login-tab" class="flex-1 py-2 text-center font-semibold border-b-2 border-blue-500 transition-colors duration-300">Entrar</button>
+                <button id="register-tab" class="flex-1 py-2 text-center font-semibold transition-colors duration-300">Cadastrar</button>
+            </div>
+
+             <!-- Container do Formulário de Login (Elemento Faltante) -->
+            <div id="login-form-container">
+                <form id="login-form">
+                    <!-- ... campos do formulário de login ... -->
+                    <div>
+                        <label for="login-bp" class="block text-sm font-medium text-gray-300 mb-2">Prontuário (BP)</label>
+                        <input type="text" id="login-bp" name="bp" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Ex: BP1234567" required>
+                    </div>
+                    <div class="mt-4">
+                        <label for="login-password" class="block text-sm font-medium text-gray-300 mb-2">Sua Senha</label>
+                        <input type="password" id="login-password" name="password" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                    </div>
+                    <p id="login-message" class="text-red-400 text-sm mt-2 text-center hidden"></p>
+                    <div class="mt-6">
+                        <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-4 rounded-lg transition duration-300">Entrar</button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Container do Formulário de Cadastro (Elemento Faltante) -->
+            <div id="register-form-container" class="hidden">
+                <form id="register-form">
+                    <!-- ... campos do formulário de cadastro ... -->
+                    <div>
+                        <label for="register-fullName" class="block text-sm font-medium text-gray-300 mb-2">Nome Completo</label>
+                        <input type="text" id="register-fullName" name="fullName" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                    </div>
+                    <div class="mt-4">
+                        <label for="register-bp" class="block text-sm font-medium text-gray-300 mb-2">Prontuário (BP)</label>
+                        <input type="text" id="register-bp" name="bp" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Ex: BP1234567" required>
+                    </div>
+                    <div class="mt-4">
+                        <label for="register-email" class="block text-sm font-medium text-gray-300 mb-2">Seu Email Real</label>
+                        <input type="email" id="register-email" name="email" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                    </div>
+                    <div class="mt-4">
+                        <label for="register-password" class="block text-sm font-medium text-gray-300 mb-2">Criar Senha</label>
+                        <input type="password" id="register-password" name="password" class="w-full bg-gray-700 border border-gray-600 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                    </div>
+                    <p id="register-message" class="text-red-400 text-sm mt-2 text-center hidden"></p>
+                    <div class="mt-6">
+                        <button type="submit" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-4 rounded-lg transition duration-300">Criar Conta</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Container do Chat -->
+    <div id="chat-container" class="hidden w-full h-screen bg-gray-900">
+        <aside class="w-72 bg-gray-800 p-4 flex flex-col border-r border-gray-700">
+            <button class="w-full text-left bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300 flex items-center">
+                <i class="fas fa-plus mr-2"></i> Novo Chat
+            </button>
+            <div class="mt-6 flex-grow">
+                <h2 class="text-sm font-semibold text-gray-400 mb-2">Histórico</h2>
+                <!-- Histórico de chats será populado aqui -->
+            </div>
+            <div class="border-t border-gray-700 pt-4">
+                <div class="flex items-center">
+                    <i class="fas fa-user-circle text-3xl text-gray-500"></i>
+                    <div class="ml-3">
+                        <p id="user-profile-name" class="font-semibold">Carregando...</p>
+                        <p id="user-profile-bp" class="text-sm text-gray-400">BP...</p>
+                    </div>
+                </div>
+                <button id="logout-button" class="w-full text-left mt-4 text-gray-400 hover:text-white transition-colors duration-300">
+                    <i class="fas fa-sign-out-alt mr-2"></i> Sair
+                </button>
+            </div>
+        </aside>
+
+        <main class="flex-1 flex flex-col">
+            <div id="chat-messages-container" class="flex-1 p-6 overflow-y-auto">
+                <div id="chat-messages" class="flex flex-col">
+                    <!-- Mensagens do chat serão populadas aqui -->
+                </div>
+            </div>
+            <div class="p-6 bg-gray-800 border-t border-gray-700">
+                <form id="chat-form" class="relative">
+                    <textarea id="message-input" placeholder="Digite sua mensagem ou anexe um arquivo..." class="w-full bg-gray-700 rounded-lg p-4 pr-32 focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none" rows="1"></textarea>
+                    <div class="absolute right-4 top-1/2 -translate-y-1/2 flex items-center space-x-2">
+                        <button type="button" class="text-gray-400 hover:text-white"><i class="fas fa-paperclip text-xl"></i></button>
+                        <button type="button" class="text-gray-400 hover:text-white"><i class="fas fa-microphone text-xl"></i></button>
+                        <button type="submit" class="bg-blue-600 hover:bg-blue-700 rounded-full w-10 h-10 flex items-center justify-center"><i class="fas fa-paper-plane"></i></button>
+                    </div>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <!-- 1. Carregamos a biblioteca da Supabase. Isso cria o objeto global 'supabase'. -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    
+    <!-- 2. Carregamos nosso app.js com 'defer' para garantir que ele só rode DEPOIS que a página carregar. -->
+    <script src="app.js" defer></script>
+</body>
+</html>
+

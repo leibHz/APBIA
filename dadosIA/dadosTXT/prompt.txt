@@ -1,0 +1,44 @@
+ola geminni, boa tarde, preciso de sua ajuda pra fazer um site de chatbot de ia, é bastante coisa entao vamos la
+
+É o seguinte, o nome do projeto é apbia (ajudante de projetos pra bragantec baseado em IA)
+
+O projeto é uma IA dá bragantec, uma feira de ciências do IFSP de Bragança Paulista, ele usa uma IA treinada pra melhor cohecimento da bragantec, seu treinamento é os arquivos txt que ela usatra de contexto ja que ela é multimodal, os pdf são cadernos de resumos da bragantec das edições anteriores, ele usa a sua API gemini, usando a supabase pra armazenar o banco de dados, variaveis, buckets e etc...
+
+A API Key do Google ai studio é: AIzaSyBhxdu9iXVPLZpQhen32l74nP2L_gm9evI
+A API Key da supabase anon key é: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3Y2llemNobGlhZ3pmZXZ0ZmFuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg3MzQ2NzgsImV4cCI6MjA3NDMxMDY3OH0.h29d-E7EFj9J1o71z38PLR01SsLOVozpPJ2B9Cg2wLE
+a api key da supabse secret key é: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3Y2llemNobGlhZ3pmZXZ0ZmFuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1ODczNDY3OCwiZXhwIjoyMDc0MzEwNjc4fQ.SntnPZO0kbcL2xUpsCHDVOGnfIBI27U3fM7Klv6IAnM
+A URL da supabase é: https://awciezchliagzfevtfan.supabase.co
+a senha do banco de dados do supabase é: gaf11052009**
+estou compartilhando apenas com vc isso, confio na sua segurança então estão seguradas, é pra usar elas no codigo caso nessesario
+
+Para os ícones, usaremos o fonte awesome, com sua linha JS sendo: <script src="https://kit.fontawesome.com/cc533e21e1.js" crossorigin="anonymous"></script>
+
+Aí vc escolhe os ícones no modo SVG e somente GRÁTIS, com algumas animações caso queira
+
+tem dois tipos de IA
+
+a ia pro participante da bragantec é acessada pelo prontuario (o BP) da escola e uma senha, caso nn tenha uma senha, é nessesario criar uma, o banco de dados deve verificar se a pessoa é participante e se não for, deve bloquear o acesso, ela ajuda a definir projetos e planejar eles, alem de ter acesso a algumas ferramentas.
+
+as ferramentas é um executor de código nativo, deep research, e modo Canvas, com preview do site, algo tipo você mesmo gemini, com funções parecidas com as suas, ser multimodal pra interpretar arquivos, documentos áudios e imagens e por último o histórico de chats anteriores
+
+A IA do orientador, pois todo participante da bragantec tem orientador ou opcionalmente um co-orientador, ela é um observadora, ele analisa os chats e oq o participante no qual ele tá orientando tá falando, dando um resumo sobre, ele pode adicionar notas as respostas da IA pra adicionar um detalhe ou corrigir uma informação, ele tem acesso ao histórico do participante, ou dos participantes
+
+Um projeto pode ser feito por uma pessoa ou um grupo delas!, a IA tem que meio que sincronizar seu chat pra todas as pessoas do grupo e do orientador em tempo real, tipo um grupo do whatsapp mais com uma IA observando e respondendo quando achar nescessário, junto com o orientador, a IA seria uma espécie de "co-orientadora"
+
+a personalidade das 2 deve ser mais "humana", não sei se é possível isso, mas se for, é uma ideia, as 2 terão personalizações diferentes
+
+tera um sistema de login, onde o usuario poe o email senha e bp, mesma coisa pro orientador, mas nn tem como cadastrar pois a bragantec é pressencial, logo os dados do orientador e do participante é posto pelo adiministrador
+
+O site deve ser de fácil manutenção, com um painel administrativo com um relatório de uso, relatório do servidor, contas cadastradas, etc..., ver limite da API e quanto dela foi usada, limitando os usuários a adicionando um delay a chegar em 80% do uso da API, ao exeder o limite tirar a IA do ar, mais salvar os dados dos usuários, o adimin pode tirar a IA do ar manualmente caso queira, e reativar ela manualmente depois, assim como o adimin pode adicionar os participantes e co-orientadores manualmente
+os dados do usuário e do admin devem ser persistentes e não devem ser apagados a sair do site
+
+aviso: nn vamos usar RAG, os arquivos pdf serão mandados puros pra ia intepretar, o modelo que usarei (gemini 2.5 flash) tem essa capacidade como pode ver na documentação
+https://ai.google.dev/gemini-api/docs/document-processing?hl=pt-br 
+
+A API Key do Google ai studio é: AIzaSyBhxdu9iXVPLZpQhen32l74nP2L_gm9evI
+
+O objetivo principal é ajudar os estudantes que vão participar da bragantec, auxiliando, planejando e dando ideias.
+
+sera feito usando php, JS, html e taiwind CSS
+
+Oq vc acha?

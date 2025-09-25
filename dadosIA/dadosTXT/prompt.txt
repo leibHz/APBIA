@@ -39,6 +39,10 @@ A API Key do Google ai studio é: AIzaSyBhxdu9iXVPLZpQhen32l74nP2L_gm9evI
 
 O objetivo principal é ajudar os estudantes que vão participar da bragantec, auxiliando, planejando e dando ideias.
 
-sera feito usando php, JS, html e taiwind CSS
+sera feito usando php, JS, html e taiwind CSS e python pro backend do banco de dados
 
-Oq vc acha?
+no caso do python, devera ser usado o modelo MVC com controller, model, view e dao
+
+
+
+Oq vc acha, consegue fazer tudo isso?
